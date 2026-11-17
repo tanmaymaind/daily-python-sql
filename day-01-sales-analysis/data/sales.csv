@@ -1,0 +1,21 @@
+order_id,date,region,product,category,quantity,unit_price
+1,2026-11-01,Mumbai,Laptop,Computers,2,55000
+2,2026-11-01,Delhi,Mouse,Accessories,10,799
+3,2026-11-02,Pune,Keyboard,Accessories,5,1499
+4,2026-11-02,Mumbai,Monitor,Computers,3,12999
+5,2026-11-03,Bengaluru,Headphones,Audio,8,2499
+6,2026-11-03,Delhi,Laptop,Computers,1,55000
+7,2026-11-04,Mumbai,Mouse,Accessories,15,799
+8,2026-11-04,Pune,Webcam,Accessories,4,3499
+9,2026-11-05,Bengaluru,Monitor,Computers,2,12999
+10,2026-11-05,Mumbai,Speaker,Audio,6,1999
+11,2026-11-06,Delhi,Keyboard,Accessories,7,1499
+12,2026-11-06,Pune,SSD 512GB,Storage,9,4999
+13,2026-11-07,Bengaluru,Laptop,Computers,1,55000
+14,2026-11-07,Mumbai,Tablet,Computers,3,18999
+15,2026-11-08,Delhi,Headphones,Audio,5,2499
+16,2026-11-08,Pune,Mouse,Accessories,12,799
+17,2026-11-09,Bengaluru,Charger,Accessories,20,999
+18,2026-11-09,Mumbai,SSD 512GB,Storage,4,4999
+19,2026-11-10,Delhi,Monitor,Computers,1,12999
+20,2026-11-10,Pune,Speaker,Audio,3,1999
