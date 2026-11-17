@@ -24,4 +24,4 @@ two skills grow together.
 
 | Day | Exercise | Skills |
 |-----|----------|--------|
-| 01 | Sales Analysis: Revenue by Region & Product (in progress) | pandas groupby, SQL GROUP BY / ORDER BY / LIMIT |
+| 01 | [Sales Analysis: Revenue by Region & Product](day-01-sales-analysis/) ✅ | pandas groupby, SQL GROUP BY / ORDER BY / LIMIT |
