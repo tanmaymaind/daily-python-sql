@@ -25,3 +25,5 @@ two skills grow together.
 | Day | Exercise | Skills |
 |-----|----------|--------|
 | 01 | [Sales Analysis: Revenue by Region & Product](day-01-sales-analysis/) ✅ | pandas groupby, SQL GROUP BY / ORDER BY / LIMIT |
+| 02 | [Customer & Orders: JOINs](day-02-customer-orders-joins/) ✅ | pandas merge, SQL JOIN / LEFT JOIN / HAVING / subquery |
+| 03 | [Salesperson Performance: Window Functions](day-03-salesperson-window-functions/) ✅ | pandas rank/cumsum/shift, SQL RANK / ROW_NUMBER / LAG / window SUM & AVG |
