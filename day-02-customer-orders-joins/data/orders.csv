@@ -1,0 +1,25 @@
+order_id,customer_id,order_date,product,category,quantity,unit_price
+1,1,2026-07-02,Laptop,Computers,1,55000
+2,1,2026-08-15,Mouse,Accessories,2,799
+3,2,2026-07-10,Monitor,Computers,1,12999
+4,2,2026-09-01,Keyboard,Accessories,1,2499
+5,2,2026-10-05,Webcam,Accessories,1,3499
+6,3,2026-07-22,SSD 512GB,Storage,2,4999
+7,4,2026-08-03,Laptop,Computers,1,62000
+8,4,2026-08-20,Headphones,Audio,1,2999
+9,5,2026-09-12,Monitor,Computers,2,11999
+10,5,2026-10-18,SSD 1TB,Storage,1,8999
+11,6,2026-07-15,Tablet,Computers,1,27999
+12,6,2026-11-02,Headphones,Audio,2,2499
+13,7,2026-08-08,Keyboard,Accessories,1,1999
+14,8,2026-09-25,Laptop,Computers,1,48000
+15,8,2026-10-30,Mouse,Accessories,3,699
+16,9,2026-07-28,Monitor,Computers,1,14999
+17,9,2026-08-30,SSD 512GB,Storage,1,5499
+18,9,2026-11-10,Webcam,Accessories,1,3999
+19,10,2026-09-05,Tablet,Computers,1,31999
+20,10,2026-10-12,Keyboard,Accessories,2,2299
+21,11,2026-08-17,Headphones,Audio,1,3499
+22,11,2026-11-14,Mouse,Accessories,2,899
+23,12,2026-10-22,SSD 1TB,Storage,1,7999
+24,1,2026-11-16,Monitor,Computers,1,13999
