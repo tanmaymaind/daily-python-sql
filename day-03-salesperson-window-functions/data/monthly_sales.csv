@@ -1,0 +1,25 @@
+salesperson,region,month,deals_closed,revenue
+Aarav Sharma,Mumbai,2026-07,12,420000
+Aarav Sharma,Mumbai,2026-08,15,510000
+Aarav Sharma,Mumbai,2026-09,18,635000
+Sneha Kulkarni,Mumbai,2026-07,11,380000
+Sneha Kulkarni,Mumbai,2026-08,13,405000
+Sneha Kulkarni,Mumbai,2026-09,14,460000
+Priya Nair,Pune,2026-07,9,295000
+Priya Nair,Pune,2026-08,10,340000
+Priya Nair,Pune,2026-09,12,375000
+Rohit Deshmukh,Pune,2026-07,7,210000
+Rohit Deshmukh,Pune,2026-08,8,255000
+Rohit Deshmukh,Pune,2026-09,9,290000
+Vikram Joshi,Nashik,2026-07,6,185000
+Vikram Joshi,Nashik,2026-08,7,220000
+Vikram Joshi,Nashik,2026-09,8,245000
+Ananya Patil,Nashik,2026-07,5,160000
+Ananya Patil,Nashik,2026-08,6,195000
+Ananya Patil,Nashik,2026-09,7,210000
+Karan Singh,Nagpur,2026-07,10,345000
+Karan Singh,Nagpur,2026-08,9,285000
+Karan Singh,Nagpur,2026-09,11,330000
+Meera Iyer,Nagpur,2026-07,8,240000
+Meera Iyer,Nagpur,2026-08,9,270000
+Meera Iyer,Nagpur,2026-09,10,305000
