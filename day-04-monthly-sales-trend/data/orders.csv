@@ -1,0 +1,31 @@
+order_id,order_date,customer,city,product,category,quantity,unit_price
+1,2026-01-05,Aarav Sharma,Pune,Laptop,Electronics,1,55000
+2,2026-01-09,Priya Nair,Mumbai,Headphones,Electronics,2,2499
+3,2026-01-14,Rohit Verma,Nashik,Mixer Grinder,Home Appliances,1,3499
+4,2026-01-21,Sneha Iyer,Pune,Smartphone,Electronics,1,18999
+5,2026-01-28,Vikram Rao,Mumbai,Air Fryer,Home Appliances,1,5999
+6,2026-02-03,Kavya Menon,Pune,Smartwatch,Electronics,1,8999
+7,2026-02-08,Arjun Patel,Nagpur,Ceiling Fan,Home Appliances,2,1799
+8,2026-02-15,Ananya Singh,Mumbai,Laptop,Electronics,1,62000
+9,2026-02-19,Rahul Joshi,Pune,Bluetooth Speaker,Electronics,1,2999
+10,2026-02-25,Meera Kulkarni,Nashik,Induction Cooktop,Home Appliances,1,2799
+11,2026-03-02,Aditya Deshmukh,Mumbai,Smartphone,Electronics,1,21999
+12,2026-03-07,Nisha Gupta,Pune,Washing Machine,Home Appliances,1,24999
+13,2026-03-12,Karan Malhotra,Nagpur,Headphones,Electronics,3,2499
+14,2026-03-18,Pooja Sharma,Pune,Air Cooler,Home Appliances,1,8999
+15,2026-03-27,Suresh Kumar,Mumbai,Tablet,Electronics,1,15999
+16,2026-04-04,Divya Reddy,Pune,Refrigerator,Home Appliances,1,32999
+17,2026-04-09,Aman Khan,Mumbai,Smartphone,Electronics,2,17999
+18,2026-04-14,Riya Kapoor,Nashik,Mixer Grinder,Home Appliances,1,3299
+19,2026-04-20,Nikhil Jain,Pune,Laptop,Electronics,1,58000
+20,2026-04-26,Tanvi Shah,Mumbai,Smartwatch,Electronics,2,7999
+21,2026-05-03,Varun Tiwari,Pune,Air Conditioner,Home Appliances,1,38999
+22,2026-05-08,Ishita Bose,Mumbai,Headphones,Electronics,2,2999
+23,2026-05-13,Gaurav Yadav,Nagpur,Smartphone,Electronics,1,24999
+24,2026-05-19,Aishwarya Nair,Pune,Vacuum Cleaner,Home Appliances,1,7499
+25,2026-05-28,Harsh Vardhan,Mumbai,Laptop,Electronics,1,65000
+26,2026-06-02,Sana Sheikh,Pune,Tablet,Electronics,1,17999
+27,2026-06-07,Manish Agarwal,Mumbai,Air Cooler,Home Appliances,1,9499
+28,2026-06-12,Ritika Das,Nashik,Smartphone,Electronics,1,19999
+29,2026-06-18,Dev Patel,Pune,Bluetooth Speaker,Electronics,2,3499
+30,2026-06-25,Nandini Rao,Mumbai,Washing Machine,Home Appliances,1,26999
