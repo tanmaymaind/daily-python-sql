@@ -1,0 +1,21 @@
+product,category,cost_price,selling_price,units_sold,stock_qty
+Redmi Note 13,Mobile,12500,15999,42,18
+Samsung Galaxy M34,Mobile,14000,17999,35,12
+iPhone 15,Mobile,62000,69900,12,6
+OnePlus Nord CE 4,Mobile,21000,24999,28,9
+Vivo V30,Mobile,24000,28999,19,4
+HP 15s,Laptop,38000,45990,15,8
+Dell Inspiron 15,Laptop,42000,52990,11,5
+Lenovo IdeaPad Slim 3,Laptop,35000,41990,17,10
+MacBook Air M2,Laptop,78000,89900,7,3
+ASUS Vivobook 15,Laptop,33000,39990,14,0
+boAt BassHeads 100,Audio,250,499,120,45
+JBL Flip 6,Audio,7500,9999,22,11
+Sony WH-CH520,Audio,2800,3990,31,15
+Noise Air Buds,Audio,900,1499,68,20
+Samsung Galaxy Buds2,Audio,5200,7499,16,2
+Mi 20000mAh Power Bank,Accessories,1200,1999,55,25
+Logitech B170 Mouse,Accessories,450,695,80,30
+HP USB-C Charger 65W,Accessories,1100,1799,26,7
+Portronics Keyboard,Accessories,700,1199,40,0
+SanDisk 128GB Pendrive,Accessories,800,1299,48,14
