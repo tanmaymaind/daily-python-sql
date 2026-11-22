@@ -1,0 +1,23 @@
+customer_id,name,email,phone,city,pincode,signup_date
+1,Aarav Sharma,aarav.sharma@gmail.com,9876543210,Pune,411001,2026-01-05
+2,Priya Patel,priya.patel@yahoo.com,9123456789,Mumbai,400001,2026-01-12
+3,Rahul Verma,rahul.verma@gmail.com,9988776655,Pune,411045,2026-02-03
+4,Sneha Iyer,sneha.iyer@outlook.com,9876501234,Nashik,422001,2026-02-10
+5,Vikram Singh,vikram.singh@gmail.com,9812345670,Nagpur,440001,2026-02-18
+6,Ananya Desai,ananya.desai@gmail.com,,Mumbai,400050,2026-03-01
+7,Rohit Kumar,rohit.kumar@gmail.com,987654321,Pune,411001,2026-03-05
+8,Kavya Nair,kavya.nair@gmail.com,9000012345,mumbai,4000,2026-03-09
+9,Arjun Mehta,,9876512340,Pune,411030,2026-03-12
+10,Divya Reddy,divya.reddy@gmail.com,+91 9876543210,Pune ,411001,2026-03-15
+11,Aarav Sharma,AARAV.SHARMA@GMAIL.COM,9876543210,Pune,411001,2026-01-05
+12,Priya Patel,priya.patel@yahoo.com,9123456789,Mumbai,400001,2026-01-12
+13,Neha Gupta,neha.gupta@gmail.com,9988123456,Pune,411001,2026-04-02
+14,Karan Joshi,karan.joshi@rediffmail.com,9876509876,Nashik,422005,2026-04-07
+15,Pooja Singh,pooja.singh@gmail.com,9123409876,,411001,2026-04-11
+16,Amit Yadav,amit.yadav@gmail.com,9811122233,Nagpur,440010,2026-04-15
+17,Ritu Malhotra,ritu.malhotra@gmail.com,9876543210,Mumbai,400001,2026-04-20
+18,Sanjay Rao,sanjay.rao@gmail.com,,Pune,4110,2026-04-25
+19,Meera Kulkarni,meera.kulkarni@gmail.com,9000098765,Pune,411001,2026-05-03
+20,Rahul Verma,RAHUL.VERMA@GMAIL.COM,9988776655,pune,411045,2026-02-03
+21,Nisha Agarwal,nisha.agarwal@gmail.com,9876511111,Mumbai,400020,2026-05-10
+22,Rohit Kumar,rohit.kumar@gmail.com,987654321,Pune,411001,2026-03-05
