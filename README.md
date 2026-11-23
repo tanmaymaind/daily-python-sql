@@ -30,3 +30,4 @@ two skills grow together.
 | 04 | [Monthly Sales Trend: Date Functions](day-04-monthly-sales-trend/) ✅ | pandas dt.strftime/dt.quarter/dt.dayofweek, SQL strftime / LAG / CASE |
 | 05 | [Product Profitability: CASE WHEN & CTEs](day-05-product-profitability-case-when/) ✅ | pandas np.select / groupby.transform / nlargest, SQL CASE WHEN / CTEs / JOIN |
 | 06 | [Data Cleaning: Nulls, Duplicates & Types](day-06-data-cleaning-customers/) ✅ | pandas duplicated / str.strip / str.title / isdigit, SQL DISTINCT / ROW_NUMBER / TRIM / GLOB |
+| 07 | [Employee Hierarchy: Self-Joins](day-07-employee-hierarchy-self-joins/) ✅ | pandas self-merge / recursive climb, SQL self-JOIN / WITH RECURSIVE CTE |
