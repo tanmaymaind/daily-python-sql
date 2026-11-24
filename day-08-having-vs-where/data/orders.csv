@@ -1,0 +1,25 @@
+order_id,customer_name,city,cuisine,item,quantity,unit_price,order_date,status,rating
+1,Aarav Patil,Pune,North Indian,Paneer Butter Masala,2,280,2026-11-01,Delivered,4.5
+2,Aarav Patil,Pune,Biryani,Hyderabadi Chicken Biryani,1,320,2026-11-03,Delivered,4.0
+3,Meera Joshi,Mumbai,South Indian,Masala Dosa,2,120,2026-11-02,Delivered,5.0
+4,Meera Joshi,Mumbai,Chinese,Hakka Noodles,1,240,2026-11-05,Delivered,4.0
+5,Rohan Desai,Mumbai,Fast Food,Veg Burger Combo,3,199,2026-11-04,Delivered,3.5
+6,Rohan Desai,Mumbai,North Indian,Dal Makhani,1,260,2026-11-08,Cancelled,
+7,Sneha Kulkarni,Pune,Maharashtrian,Misal Pav,2,90,2026-11-02,Delivered,4.5
+8,Sneha Kulkarni,Pune,South Indian,Idli Sambar,1,110,2026-11-06,Delivered,4.0
+9,Sneha Kulkarni,Pune,Chinese,Manchurian,1,220,2026-11-09,Delivered,4.5
+10,Vikram Singh,Nashik,Biryani,Veg Biryani,2,220,2026-11-03,Delivered,4.0
+11,Vikram Singh,Nashik,North Indian,Butter Chicken,1,340,2026-11-07,Delivered,5.0
+12,Vikram Singh,Nashik,Fast Food,Pizza,1,450,2026-11-10,Cancelled,
+13,Ananya Iyer,Mumbai,South Indian,Uttapam,2,150,2026-11-01,Delivered,4.5
+14,Ananya Iyer,Mumbai,Biryani,Mutton Biryani,1,420,2026-11-06,Delivered,4.0
+15,Karan Malhotra,Nagpur,North Indian,Chole Bhature,2,180,2026-11-04,Delivered,4.0
+16,Karan Malhotra,Nagpur,Maharashtrian,Saoji Chicken,1,380,2026-11-08,Delivered,3.5
+17,Priya Nair,Pune,Fast Food,French Fries,2,120,2026-11-05,Delivered,3.0
+18,Priya Nair,Pune,North Indian,Paneer Tikka,1,300,2026-11-09,Delivered,4.5
+19,Arjun Mehta,Mumbai,Chinese,Chilli Paneer,2,260,2026-11-03,Delivered,4.0
+20,Arjun Mehta,Mumbai,Biryani,Chicken Biryani,2,320,2026-11-07,Delivered,5.0
+21,Divya Reddy,Nashik,South Indian,Medu Vada,2,80,2026-11-05,Delivered,4.0
+22,Divya Reddy,Nashik,Maharashtrian,Puran Poli,1,150,2026-11-09,Delivered,4.5
+23,Nikhil Gupta,Nagpur,Fast Food,Sandwich Combo,1,180,2026-11-06,Delivered,3.5
+24,Nikhil Gupta,Nagpur,Chinese,Fried Rice,2,200,2026-11-10,Delivered,4.5
