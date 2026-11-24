@@ -31,3 +31,4 @@ two skills grow together.
 | 05 | [Product Profitability: CASE WHEN & CTEs](day-05-product-profitability-case-when/) ✅ | pandas np.select / groupby.transform / nlargest, SQL CASE WHEN / CTEs / JOIN |
 | 06 | [Data Cleaning: Nulls, Duplicates & Types](day-06-data-cleaning-customers/) ✅ | pandas duplicated / str.strip / str.title / isdigit, SQL DISTINCT / ROW_NUMBER / TRIM / GLOB |
 | 07 | [Employee Hierarchy: Self-Joins](day-07-employee-hierarchy-self-joins/) ✅ | pandas self-merge / recursive climb, SQL self-JOIN / WITH RECURSIVE CTE |
+| 08 | [HAVING vs WHERE: Food-Delivery Orders](day-08-having-vs-where/) ✅ | pandas groupby filter / .query, SQL WHERE vs HAVING / CTE |
