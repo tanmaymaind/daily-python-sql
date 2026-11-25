@@ -1,0 +1,24 @@
+book_id,title,author,category,price,stock
+1,The Guide,R.K. Narayan,Fiction,299,42
+2,A Suitable Boy,Vikram Seth,Fiction,899,18
+3,The God of Small Things,Arundhati Roy,Fiction,399,35
+4,Five Point Someone,Chetan Bhagat,Fiction,199,60
+5,The Immortals of Meluha,Amish Tripathi,Fiction,350,27
+6,The Namesake,Jhumpa Lahiri,Fiction,299,31
+7,Midnight's Children,Salman Rushdie,Fiction,499,22
+8,The Inheritance of Loss,Kiran Desai,Fiction,349,15
+9,My Experiments with Truth,Mahatma Gandhi,Biography,250,40
+10,The Discovery of India,Jawaharlal Nehru,History,450,25
+11,India After Gandhi,Ramachandra Guha,History,699,12
+12,The Argumentative Indian,Amartya Sen,History,499,20
+13,You Can Win,Shiv Khera,Self-Help,299,55
+14,The Monk Who Sold His Ferrari,Robin Sharma,Self-Help,350,48
+15,Atomic Habits,James Clear,Self-Help,599,65
+16,Think and Grow Rich,Napoleon Hill,Self-Help,249,38
+17,A Guide to Effective Communication,Dale Carnegie,Self-Help,299,30
+18,Indian Polity: A Complete Guide,M. Laxmikanth,Exam Prep,750,45
+19,Quantitative Aptitude,R.S. Aggarwal,Exam Prep,650,50
+20,Word Power Made Easy,Norman Lewis,Exam Prep,199,70
+21,The Jungle Book,Rudyard Kipling,Children,299,33
+22,Malgudi Days,R.K. Narayan,Children,250,28
+23,Tinkle Digest,Anant Pai,Children,99,80
