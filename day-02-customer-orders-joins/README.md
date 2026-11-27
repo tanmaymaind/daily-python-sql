@@ -28,6 +28,10 @@ Three customers are half the revenue. That's the kind of thing you only
 notice once you join the tables — the customers file on its own would
 never tell you that.
 
+![Chart](chart.svg)
+
+*Top 5 customers by revenue — Aarav Sharma alone brings ₹70,597, slightly more than the bottom two of the top 5 combined (₹69,594).*
+
 ## Files
 
 - `data/customers.csv` — the dataset (15 customers)
@@ -38,6 +42,12 @@ never tell you that.
 
 - pandas: `merge` with `how="inner"` / `how="left"`, `~isin()` for the "never ordered" set, `groupby` after a join
 - SQL thinking: `INNER JOIN` keeps only the matches, `LEFT JOIN ... IS NULL` finds the ones with no match at all
+
+## What I found
+
+- The top 3 customers bring 52.0% of all revenue (₹1,85,693 of ₹3,57,071). If these 3 stop buying, half the business goes with them — they are worth looking after first.
+- 3 of the 15 customers (Suresh Kumar, Meera Pillai, Rahul Gupta) signed up but never placed a single order. A first-order offer to just these 3 is a cheap win-back try — they already showed interest once.
+- Mumbai brings ₹1,60,093 — about 45% of total revenue — from just 8 of the 24 orders. The store depends heavily on one city, so a slow month in Mumbai would show up in the total immediately.
 
 What stuck with me: a `LEFT JOIN ... IS NULL` is the fastest way to
 find the customers you're about to lose — the ones who signed up and

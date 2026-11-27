@@ -53,3 +53,28 @@ top3 = inner.groupby("customer_id")["amount"].sum().nlargest(3).sum()
 print("Q6 — Top 3 customers' share of total revenue:",
       f"{round(100 * top3 / total, 2)}% "
       f"(Rs. {top3:,.0f} of Rs. {total:,.0f})")
+
+# --- Chart (added 2026-11-27) -------------------------------------------
+# Top 5 customers by revenue, horizontal bar chart -> chart.svg
+# (Re-reads the CSVs and recomputes Q3; prints nothing.)
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+
+_cust = pd.read_csv("data/customers.csv")
+_ord = pd.read_csv("data/orders.csv")
+_ord["amount"] = _ord["quantity"] * _ord["unit_price"]
+_top5 = (_ord.merge(_cust, on="customer_id", how="inner")
+         .groupby(["customer_id", "name"])["amount"].sum().reset_index()
+         .sort_values(["amount", "customer_id"], ascending=[True, True])
+         .tail(5))
+fig, ax = plt.subplots(figsize=(8, 4.5))
+ax.barh(_top5["name"], _top5["amount"], color="#2e7d32")
+for i, v in enumerate(_top5["amount"]):
+    ax.text(v + 1500, i, f"Rs. {v:,.0f}", va="center", fontsize=9)
+ax.set_xlabel("Total revenue (Rs.)")
+ax.set_title("Top 5 customers by revenue")
+ax.set_xlim(0, _top5["amount"].max() * 1.22)
+fig.tight_layout()
+fig.savefig("chart.svg", format="svg")
+plt.close(fig)
