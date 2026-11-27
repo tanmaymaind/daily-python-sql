@@ -26,6 +26,21 @@ amount = `quantity × unit_price`. Cities: Mumbai, Pune, Nagpur, Nashik.
 | Q5 | Same ₹300 cut-off, two filters | WHERE on rows: all 4 cities have orders above ₹300 (Mumbai 4 orders / ₹2,177; Nagpur 3 / ₹1,140; Pune 2 / ₹880; Nashik 2 / ₹780). HAVING on groups: only Mumbai (avg ₹422.43) and Nagpur (avg ₹330.00) average above ₹300 — Pune (₹275.71) and Nashik (₹272.50) drop out because their many small orders drag the average down |
 | Q6 | Top 3 customers by spend (total spend above ₹700) | Arjun Mehta ₹1,160; Aarav Patil ₹880; Vikram Singh ₹780. 5 customers in total spent above ₹700 |
 
+## The same data, two filters
+
+| Filter | Cities left | Cities |
+|--------|-------------|--------|
+| `WHERE` — delivered orders only, revenue grouped by city | 4 | Mumbai, Pune, Nagpur, Nashik |
+| `HAVING` — of those, total delivered revenue above ₹1,500 | 2 | Mumbai, Pune |
+
+In one line: **WHERE filters rows before grouping, HAVING filters groups after grouping.**
+
+## What I found
+
+- Only 2 of the 4 cities cross ₹1,500 in delivered revenue, and Mumbai (₹2,957) plus Pune (₹1,930) together bring ₹4,887 of the ₹7,297 total — about 67%. Nagpur and Nashik together are just a third of the business.
+- The same ₹300 cut-off answers two different questions. Every city has *some* orders above ₹300 (a WHERE question), but only Mumbai (average ₹422.43) and Nagpur (average ₹330.00) *average* above ₹300 (a HAVING question). Pune (₹275.71) and Nashik (₹272.50) run on many small orders — judging them by their biggest orders alone would flatter them.
+- 10 of the 11 customers ordered more than once — this business runs on repeat customers. The only single-order customer is Rohan Desai, and his second order was one of the two cancelled ones.
+
 ## Python vs SQL approach
 
 | Step | Python (pandas) | SQL (SQLite) |

@@ -1,6 +1,6 @@
 """Day 8 — HAVING vs WHERE: food-delivery orders (Python / pandas).
 
-Dataset: 24 food-delivery orders from 5 Indian cities
+Dataset: 24 food-delivery orders from 4 Indian cities
 (data/orders.csv), including 2 cancelled orders with no rating.
 The point of the day: WHERE filters rows *before* grouping, HAVING
 filters groups *after* grouping. Same 6 business questions as
