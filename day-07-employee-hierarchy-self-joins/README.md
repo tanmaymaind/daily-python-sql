@@ -33,6 +33,21 @@ below the CEO:
 | Q5 | Organisation depth (levels from the CEO) | Level 0: 1, Level 1: 3, Level 2: 9, Level 3: 7 — deepest level 3 |
 | Q6 | Reporting chain for Nikhil Gupta (bottom-up) | Nikhil Gupta → Sneha Kulkarni → Arjun Mehta → Rajesh Malhotra — 4 people |
 
+## Salary by hierarchy level
+
+| Level | Employees | Total salary | Average salary |
+|-------|-----------|--------------|----------------|
+| 0 (CEO) | 1 | ₹1,80,000 | ₹1,80,000 |
+| 1 | 3 | ₹2,88,000 | ₹96,000 |
+| 2 | 9 | ₹5,59,000 | ₹62,111 |
+| 3 | 7 | ₹4,14,000 | ₹59,143 |
+
+## What I found
+
+- 2 employees earn more than their own manager: Nikhil Gupta (₹82,000) and Tanvi Shah (₹79,000) both earn more than their team lead Sneha Kulkarni (₹78,000). That is an anomaly worth an HR look — either the lead is underpaid for her role, or her two engineers are priced above the person who reviews their work.
+- Level 2 is where the people and the money sit: 9 of the 20 employees, and ₹5,59,000 of the ₹14,41,000 salary bill (about 39%). The middle of this org carries most of its cost.
+- The pay step between Level 2 and Level 3 is tiny — average ₹62,111 vs ₹59,143, a gap of under ₹3,000. Juniors earn almost what the level above them earns, so a promotion here changes the title much more than the salary.
+
 ## Python vs SQL approach
 
 | Step | Python (pandas) | SQL (SQLite) |
