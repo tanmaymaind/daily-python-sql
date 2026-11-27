@@ -29,6 +29,10 @@ April nearly doubled the other months on the same 5 orders — two laptops
 did that. And Q2 beat Q1 by 49% with the exact same number of orders,
 which tells you it was about *what* sold, not how much.
 
+![Chart](chart.svg)
+
+*Revenue by month — flat around ₹80,000 for three months, then April jumps to ₹1,46,294 and June falls right back to ₹81,494.*
+
 ## Files
 
 - `data/orders.csv` — the dataset (30 rows: 5 orders × 6 months, Jan–Jun 2026)
@@ -40,6 +44,12 @@ which tells you it was about *what* sold, not how much.
 
 - pandas: `parse_dates`, `dt.strftime`, `dt.quarter`, `dt.dayofweek`, `pct_change`-style growth with `shift`
 - SQL: `strftime('%Y-%m' / '%w' / '%m')` for month, weekday and quarter extraction, `LAG()` for month-over-month comparison
+
+## What I found
+
+- April's +84.0% jump (₹79,493 → ₹1,46,294) was not more customers — every month has exactly 5 orders. It was two laptops in one month. Big-ticket items, not steady growth, moved the line, so April should not be treated as the new normal — June fell back to ₹81,494.
+- Weekend orders are fewer but bigger: only 7 of the 30 orders, yet they brought ₹1,88,092 — about 30% of all revenue. An average weekend order is ₹26,870 against ₹18,721 on a weekday, so weekends deserve the best stock and staffing.
+- Q2 beat Q1 by 49% (₹3,70,283 vs ₹2,48,383) with the same 15 orders. All the "growth" came from bigger bills, not more bills — the store sells to the same number of people, they just spent more in April and May.
 
 What stuck with me: dates are dimensions, not labels. Once you can pull
 month, quarter and weekday out of a date, the same sales table starts

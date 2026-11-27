@@ -60,3 +60,28 @@ print(qtr.to_string(index=False))
 print()
 print("Total revenue (all 30 orders, Jan–Jun 2026): Rs.",
       f"{df['amount'].sum():,.0f}")
+
+# --- Chart (added 2026-11-27) -------------------------------------------
+# Month-wise revenue, line chart -> chart.svg
+# (Re-reads the CSV and recomputes Q1; prints nothing.)
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+
+_d = pd.read_csv("data/orders.csv", parse_dates=["order_date"])
+_d["amount"] = _d["quantity"] * _d["unit_price"]
+_d["month"] = _d["order_date"].dt.strftime("%Y-%m")
+_m = (_d.groupby("month", as_index=False)["amount"].sum()
+      .sort_values("month"))
+fig, ax = plt.subplots(figsize=(8, 4.5))
+ax.plot(_m["month"], _m["amount"], marker="o", color="#6a1b9a")
+for _, r in _m.iterrows():
+    ax.annotate(f"Rs. {r['amount']:,.0f}", (r["month"], r["amount"]),
+                textcoords="offset points", xytext=(0, 8),
+                ha="center", fontsize=8)
+ax.set_ylabel("Revenue (Rs.)")
+ax.set_title("Revenue by month (Jan–Jun 2026)")
+ax.set_ylim(0, _m["amount"].max() * 1.2)
+fig.tight_layout()
+fig.savefig("chart.svg", format="svg")
+plt.close(fig)
