@@ -18,15 +18,17 @@ cur.execute(
 cur.execute(
     "CREATE TABLE orders ("
     "order_id INTEGER, customer_id INTEGER, order_date TEXT, "
-    "product TEXT, category TEXT, quantity INTEGER, unit_price REAL)"
+    "product TEXT, category TEXT, quantity INTEGER, unit_price INTEGER)"
 )
 
 with open("data/customers.csv", newline="") as f:
     rows = list(csv.DictReader(f))
 cur.executemany(
     "INSERT INTO customers VALUES (?, ?, ?, ?)",
-    [(r["customer_id"], r["name"], r["city"], r["signup_date"]) for r in rows],
+    [(r["customer_id"], r["name"], r["city"], r["signup_date"])
+     for r in rows],
 )
+
 with open("data/orders.csv", newline="") as f:
     rows = list(csv.DictReader(f))
 cur.executemany(
