@@ -69,3 +69,25 @@ print(vs_avg.to_string(index=False))
 print()
 print("Total revenue (all salespeople, Jul–Sep 2026): Rs.",
       f"{df['revenue'].sum():,.0f}")
+
+# --- Chart (added 2026-11-27) -------------------------------------------
+# Running total of revenue per region across months, line chart -> chart.svg
+# (Re-reads the CSV and recomputes Q2; prints nothing.)
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+
+_d = pd.read_csv("data/monthly_sales.csv")
+_m = (_d.groupby(["region", "month"], as_index=False)["revenue"]
+      .sum().rename(columns={"revenue": "month_revenue"}))
+_m = _m.sort_values(["region", "month"])
+_m["running_total"] = _m.groupby("region")["month_revenue"].cumsum()
+fig, ax = plt.subplots(figsize=(8, 4.5))
+for region, g in _m.groupby("region"):
+    ax.plot(g["month"], g["running_total"], marker="o", label=region)
+ax.set_ylabel("Running total revenue (Rs.)")
+ax.set_title("Running total of revenue by region (Jul–Sep 2026)")
+ax.legend()
+fig.tight_layout()
+fig.savefig("chart.svg", format="svg")
+plt.close(fig)

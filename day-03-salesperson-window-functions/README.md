@@ -31,6 +31,10 @@ September was the best month for almost everyone — 7 out of 8 people.
 That's the sort of pattern you only see once you line the months up
 side by side.
 
+![Chart](chart.svg)
+
+*Running total of revenue by region — every region climbs steadily, and Mumbai pulls away from the rest by September (₹28,10,000).*
+
 ## Files
 
 - `data/monthly_sales.csv` — the dataset (24 rows: 8 salespeople × 3 months)
@@ -42,6 +46,12 @@ side by side.
 
 - pandas: `groupby + rank`, `cumsum` for running totals, `shift` for previous-row values, `transform('mean')` for group averages
 - SQL: `RANK()`, `ROW_NUMBER()`, `SUM() OVER`, `LAG()`, `AVG() OVER` — window functions with `PARTITION BY`
+
+## What I found
+
+- Karan Singh was the only salesperson whose sales fell: ₹3,45,000 in July down to ₹2,85,000 in August (−17.4%), then back up to ₹3,30,000 in September (+15.8%). One bad month, then a recovery — and even with the fall he stayed #1 in Nagpur with ₹9,60,000.
+- Mumbai's two salespeople together brought ₹28,10,000 — about 37% of the ₹75,65,000 total. The company leans on one region the same way Day 2's store leaned on a few customers.
+- September was the best month for 7 of the 8 salespeople. The quarter ends strong — whether that is festival-season demand or a quarter-end push, September is when the money comes in.
 
 What stuck with me: window functions answer questions a plain `GROUP
 BY` can't — ranks, running totals and "compared to the average" all need
