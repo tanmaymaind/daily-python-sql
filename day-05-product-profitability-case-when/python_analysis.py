@@ -77,3 +77,25 @@ print()
 top3 = df.nlargest(3, "total_profit")[["product", "category", "total_profit", "margin_pct"]]
 print("Q6 — Top 3 products by total profit")
 print(top3.to_string(index=False))
+
+# --- Chart (added 2026-11-27) -------------------------------------------
+# Profit margin % by product, bar chart -> chart.svg
+# (Re-reads the CSV and recomputes the margin; prints nothing.)
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+
+_d = pd.read_csv("data/products.csv")
+_d["margin_pct"] = ((_d["selling_price"] - _d["cost_price"])
+                    / _d["selling_price"] * 100)
+_d = _d.sort_values("margin_pct", ascending=True)
+fig, ax = plt.subplots(figsize=(8, 6))
+ax.barh(_d["product"], _d["margin_pct"], color="#ef6c00")
+for i, v in enumerate(_d["margin_pct"]):
+    ax.text(v + 0.7, i, f"{v:.1f}%", va="center", fontsize=8)
+ax.set_xlabel("Profit margin (%)")
+ax.set_title("Profit margin % by product")
+ax.set_xlim(0, _d["margin_pct"].max() * 1.15)
+fig.tight_layout()
+fig.savefig("chart.svg", format="svg")
+plt.close(fig)

@@ -30,6 +30,10 @@ The earbuds have the best margin in the shop (49.9%) and still aren't
 anywhere near the top earners — the mid-margin phones sell in such volume
 that they win on total profit anyway. That surprised me.
 
+![Chart](chart.svg)
+
+*Profit margin % by product — the cheapest item (boAt earbuds, ₹499) keeps the biggest share of its price, and the most expensive one (iPhone 15, ₹69,900) keeps the smallest.*
+
 ## Files
 
 - `data/products.csv` — the dataset (20 rows: product, category, cost/selling price, units sold, stock)
@@ -41,6 +45,12 @@ that they win on total profit anyway. That surprised me.
 
 - pandas: `np.select` as the `CASE WHEN` equivalent, `groupby().transform()` for category averages, `nlargest`
 - SQL: `CASE WHEN` for margin bands and stock status, CTEs (`WITH ... AS`) to compute once and reuse, `JOIN` against a CTE
+
+## What I found
+
+- Volume and profit are different things. The boAt BassHeads 100 has the best margin in the shop (49.9%) but sells for ₹499; the Redmi Note 13 keeps a smaller share of a ₹15,999 price and sold 42 units, ending as the top profit earner at ₹1,46,958. A big percentage of a small price is still small money.
+- The iPhone 15 looks like the star — ₹69,900 a piece — but its margin is the worst in the shop at 11.3%. Mobile as a category has the highest revenue (₹33,91,676) and the lowest average margin (17.73%): it brings the crowd, not the profit per sale.
+- Accessories are the quiet earners: the best average margin (38.82%) on the smallest revenue (₹3,22,631). Attaching one accessory to every phone or laptop sale is probably the cheapest profit this shop can add.
 
 What stuck with me: `CASE WHEN` turns a continuous number into a
 business decision (High / Medium / Low), and CTEs let you build that
