@@ -25,6 +25,12 @@ what makes the Q5 surname trick work.
 | Q5 | Authors whose surname starts with "S" | 3 — Amartya Sen ("The Argumentative Indian"), Vikram Seth ("A Suitable Boy"), Robin Sharma ("The Monk Who Sold His Ferrari") |
 | Q6 | Shelf labels (UPPERCASE) for the 5 most expensive books | "A SUITABLE BOY BY VIKRAM SETH" ₹899; "INDIAN POLITY: A COMPLETE GUIDE BY M. LAXMIKANTH" ₹750; "INDIA AFTER GANDHI BY RAMACHANDRA GUHA" ₹699; "QUANTITATIVE APTITUDE BY R.S. AGGARWAL" ₹650; "ATOMIC HABITS BY JAMES CLEAR" ₹599 |
 
+## What I found
+
+- 9 of the 23 titles (39.1%) start with "The". The catalogue's naming is very repetitive — anyone searching or shelving by the first word hits the same word again and again, so the second word does the real work of finding a book.
+- History has the highest average price (₹549.33) but only 3 books on the shelf. Fiction is the opposite: the biggest section (8 books) at a mid-level average (₹411.63). The shelf space — and most of the everyday selling — belongs to Fiction; History is premium but tiny.
+- The most expensive book, "A Suitable Boy" at ₹899, costs about as much as 4 average Children's books (₹216 each). A handful of premium titles carry a big share of the catalogue's value, so those are the ones to keep in stock and on display.
+
 ## Python vs SQL approach
 
 | Step | Python (pandas) | SQL (SQLite) |
@@ -47,6 +53,21 @@ away from zero and gives ₹411.63. So the Python script rounds with
 `decimal.Decimal` + `ROUND_HALF_UP` instead, and both scripts print the
 same number. It's a small gotcha, but it's exactly the kind of thing
 that bites you when the same analysis has to agree in two languages.
+
+## What I learned
+
+- **Rounding is not the same in every language.** Fiction's mean price
+  is exactly ₹411.625 (₹3,293 ÷ 8). Python's built-in `round()` uses
+  banker's rounding and gives ₹411.62, while SQLite's `ROUND()` rounds
+  half away from zero and gives ₹411.63 — a 1-paisa difference that
+  made the Python and SQL answers disagree. The Python script now
+  rounds with `decimal.Decimal` + `ROUND_HALF_UP`, so both print
+  ₹411.63. When the same analysis runs in two languages, even the
+  rounding rule has to be agreed first.
+- **String functions turn messy text into answerable questions** — a
+  `LIKE '%Guide%'` finds the guidebooks, `LENGTH` finds the
+  shelf-space hogs, and one `SUBSTR` + `INSTR` pulls every surname
+  out of a full name.
 
 ## How to run
 
