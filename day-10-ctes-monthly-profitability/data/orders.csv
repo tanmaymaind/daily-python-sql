@@ -1,0 +1,2009 @@
+order_id,order_date,product,category,city,selling_price,cost_price,quantity
+ORD00001,2026-02-22,Redmi Note 13,Mobile,Pune,14540,12593,1
+ORD00002,2026-10-01,LG Washing Machine,Home Appliances,Nagpur,20342,,1
+ORD00003,2026-01-25,LG Washing Machine,Home Appliances,Nashik,21006,16602,2
+ORD00004,2026-02-03,Sony Bravia 55 inch,TV & Audio,Satara,62680,54697,2
+ORD00005,2026-08-18,iPhone 15,Mobile,Pune,84342,66392,2
+ORD00006,2026-06-19,Mi TV 43 inch,TV & Audio,Nagpur,27223,20078,1
+ORD00007,2026-04-28,Redmi Note 13,Mobile,Pune,14360,10769,3
+ORD00008,2026-06-07,Sony Bravia 55 inch,TV & Audio,Chhatrapati Sambhajinagar,64505,47508,1
+ORD00009,2026-08-13,Vivo V40,Mobile,Chhatrapati Sambhajinagar,35754,28692,1
+ORD00010,2026-04-27,Bajaj Fan,Home Appliances,Mumbai,2572,1889,2
+ORD00011,2026-06-07,HP Keyboard,Accessories,Solapur,1250,1092,3
+ORD00012,2026-09-18,boAt Soundbar,TV & Audio,Chhatrapati Sambhajinagar,7946,6847,1
+ORD00013,2026-03-17,LG Washing Machine,Home Appliances,Solapur,23389,19463,1
+ORD00014,2026-07-20,Redmi Note 13,Mobile,Pune,14807,13125,1
+ORD00015,2026-09-28,JBL Speaker,TV & Audio,Mumbai,10152,8294,1
+ORD00016,2026-06-04,Realme 12 Pro,Mobile,Chhatrapati Sambhajinagar,27599,20832,2
+ORD00017,2026-05-17,Samsung Soundbar,TV & Audio,Nashik,14879,10566,2
+ORD00018,2026-10-07,Philips Mixer Grinder,Home Appliances,Nashik,5291,4520,1
+ORD00019,2026-01-20,Mi Power Bank 20000mAh,Accessories,Kolhapur,2011,1506,1
+ORD00020,2026-05-08,Mi TV 43 inch,TV & Audio,Mumbai,25322,21274,3
+ORD00021,2026-02-25,MacBook Air M3,Laptop,Nashik,107140,96550,1
+ORD00022,2026-10-14,Acer Aspire 5,Laptop,Nagpur,41823,33418,1
+ORD00023,2026-06-15,Havells Iron,Home Appliances,Solapur,1849,1411,1
+ORD00024,2026-04-19,Samsung Galaxy A55,Mobile,Nagpur,31545,26675,1
+ORD00025,2026-01-28,Redmi Note 13,Mobile,Kolhapur,14464,13120,1
+ORD00026,2026-03-24,Vivo V40,Mobile,Solapur,33531,25914,1
+ORD00027,2026-07-12,ASUS Vivobook 15,Laptop,Satara,55597,48820,1
+ORD00028,2026-02-02,JBL Speaker,TV & Audio,Satara,10581,9608,1
+ORD00029,2026-07-06,boAt Earbuds,Accessories,Chhatrapati Sambhajinagar,1438,1263,1
+ORD00030,2026-09-04,Samsung Soundbar,TV & Audio,Mumbai,15888,14353,2
+ORD00031,2026-03-14,Philips Mixer Grinder,Home Appliances,Solapur,5369,3845,2
+ORD00032,2026-01-13,Samsung Soundbar,TV & Audio,Chhatrapati Sambhajinagar,15864,11445,1
+ORD00033,2026-09-22,Sony Bravia 55 inch,TV & Audio,Solapur,64189,45535,3
+ORD00034,2026-09-02,Lenovo IdeaPad Slim 3,Laptop,Kolhapur,44494,31452,1
+ORD00035,2026-03-02,Redmi Note 13,Mobile,Pune,14187,11483,2
+ORD00036,2026-02-19,HP Pavilion 15,Laptop,Nagpur,63947,49332,1
+ORD00037,2026-10-17,Prestige Induction Cooktop,Home Appliances,Kolhapur,3052,2753,1
+ORD00038,2026-03-22,Mi Power Bank 20000mAh,Accessories,Chhatrapati Sambhajinagar,2053,1747,1
+ORD00039,2026-10-19,Sony Bravia 55 inch,TV & Audio,Pune,69451,49598,1
+ORD00040,2026-02-08,Vivo V40,Mobile,Kolhapur,33392,28772,3
+ORD00041,2026-09-01,Mi Power Bank 20000mAh,Accessories,Chhatrapati Sambhajinagar,1979,1584,1
+ORD00042,2026-03-09,Samsung Galaxy A55,Mobile,Chhatrapati Sambhajinagar,31755,22999,2
+ORD00043,2026-05-17,Bajaj Fan,Home Appliances,Solapur,2586,2263,1
+ORD00044,2026-01-11,boAt Earbuds,Accessories,Nashik,1401,1158,1
+ORD00045,2026-01-04,Mi Power Bank 20000mAh,Accessories,Pune,2076,1658,1
+ORD00046,2026-07-05,MacBook Air M3,Laptop,Mumbai,92567,77643,1
+ORD00047,2026-06-07,Logitech Mouse,Accessories,Nagpur,845,629,2
+ORD00048,2026-10-24,iPhone 15,Mobile,Nashik,83481,60565,1
+ORD00049,2026-01-06,Lenovo IdeaPad Slim 3,Laptop,Kolhapur,49494,36706,2
+ORD00050,2026-02-13,boAt Soundbar,TV & Audio,Mumbai,8464,6277,1
+ORD00051,2026-04-08,Samsung Soundbar,TV & Audio,Mumbai,14269,10244,1
+ORD00052,2026-05-12,ASUS Vivobook 15,Laptop,Satara,51533,37611,3
+ORD00053,2026-03-19,Voltas AC 1.5 Ton,Home Appliances,Chhatrapati Sambhajinagar,37449,33503,3
+ORD00054,2026-07-20,Redmi Note 13,Mobile,Pune,14215,11997,2
+ORD00055,2026-09-26,LG TV 32 inch,TV & Audio,Nagpur,15197,13833,1
+ORD00056,2026-06-22,HP Keyboard,Accessories,Pune,1209,936,1
+ORD00057,2026-05-18,Samsung Charger 25W,Accessories,Nashik,1453,1206,1
+ORD00058,2026-03-20,ASUS Vivobook 15,Laptop,Chhatrapati Sambhajinagar,54388,45500,2
+ORD00059,2026-10-20,LG TV 32 inch,TV & Audio,Kolhapur,16843,14370,1
+ORD00060,2026-03-22,JBL Speaker,TV & Audio,Pune,9906,8648,1
+ORD00061,2026-04-22,Samsung Charger 25W,Accessories,Chhatrapati Sambhajinagar,1538,1205,1
+ORD00062,2026-10-28,Lenovo IdeaPad Slim 3,Laptop,Pune,43395,39482,3
+ORD00063,2026-07-16,JBL Speaker,TV & Audio,Satara,10616,8422,2
+ORD00064,2026-02-25,Lenovo IdeaPad Slim 3,Laptop,Satara,47138,43309,2
+ORD00065,2026-09-08,Lenovo IdeaPad Slim 3,Laptop,Pune,48227,36985,1
+ORD00066,2026-10-11,Samsung Soundbar,TV & Audio,Solapur,15712,12147,3
+ORD00067,2026-08-06,Havells Iron,Home Appliances,Solapur,1907,1575,2
+ORD00068,2026-09-16,Sony Bravia 55 inch,TV & Audio,Nagpur,67608,49707,1
+ORD00069,2026-06-18,HP Keyboard,Accessories,Pune,1211,1038,1
+ORD00070,2026-02-14,Lenovo IdeaPad Slim 3,Laptop,Satara,44012,33772,2
+ORD00071,2026-07-25,Samsung Charger 25W,Accessories,Mumbai,1490,1350,2
+ORD00072,2026-07-28,LG Washing Machine,Home Appliances,Satara,21909,15612,1
+ORD00073,2026-08-08,Havells Iron,Home Appliances,Chhatrapati Sambhajinagar,1862,1385,2
+ORD00074,2026-07-24,JBL Speaker,TV & Audio,Nashik,9245,7822,1
+ORD00075,2026-10-19,Samsung Soundbar,TV & Audio,Mumbai,16142,12954,2
+ORD00076,2026-05-13,Realme 12 Pro,Mobile,Kolhapur,25702,18744,1
+ORD00077,2026-07-09,ASUS Vivobook 15,Laptop,Pune,51521,38771,1
+ORD00078,2026-04-21,Mi TV 43 inch,TV & Audio,Pune,28074,25506,3
+ORD00079,2026-03-08,Redmi Note 13,Mobile,Nashik,15006,13147,1
+ORD00080,2026-05-25,boAt Soundbar,TV & Audio,Kolhapur,7505,5340,1
+ORD00081,2026-03-10,MacBook Air M3,Laptop,Pune,101705,76834,1
+ORD00082,2026-07-13,Philips Mixer Grinder,Home Appliances,Nagpur,5337,4234,2
+ORD00083,2026-05-28,Vivo V40,Mobile,Pune,36066,28204,1
+ORD00084,2026-09-21,Philips Mixer Grinder,Home Appliances,Kolhapur,4872,4023,1
+ORD00085,2026-08-23,OnePlus Nord 4,Mobile,Nashik,31546,28290,3
+ORD00086,2026-09-25,Samsung Soundbar,TV & Audio,Solapur,15550,11003,1
+ORD00087,2026-04-27,JBL Speaker,TV & Audio,Pune,10520,8307,1
+ORD00088,2026-07-11,HP Keyboard,Accessories,Mumbai,1245,1018,1
+ORD00089,2026-06-09,Sony Bravia 55 inch,TV & Audio,Chhatrapati Sambhajinagar,61681,53868,2
+ORD00090,2026-07-16,Philips Mixer Grinder,Home Appliances,Nagpur,5008,4397,1
+ORD00091,2026-05-08,boAt Soundbar,TV & Audio,Satara,8270,6793,1
+ORD00092,2026-06-14,Dell Inspiron 14,Laptop,Kolhapur,60537,50779,1
+ORD00093,2026-04-11,Noise Smartwatch,Accessories,Pune,2976,2537,1
+ORD00094,2026-10-25,Havells Iron,Home Appliances,Chhatrapati Sambhajinagar,1704,1487,1
+ORD00095,2026-09-05,Samsung Galaxy A55,Mobile,Chhatrapati Sambhajinagar,31923,26835,1
+ORD00096,2026-08-04,Redmi Note 13,Mobile,Mumbai,14118,10822,1
+ORD00097,2026-01-09,Voltas AC 1.5 Ton,Home Appliances,Solapur,34818,28659,1
+ORD00098,2026-01-05,Redmi Note 13,Mobile,Nashik,13776,12449,1
+ORD00099,2026-07-20,Voltas AC 1.5 Ton,Home Appliances,Nagpur,32667,28270,1
+ORD00100,2026-07-10,LG Washing Machine,Home Appliances,Mumbai,21815,17945,2
+ORD00101,2026-05-22,Havells Iron,Home Appliances,Pune,1679,1263,1
+ORD00102,2026-08-23,Lenovo IdeaPad Slim 3,Laptop,Solapur,43589,39382,1
+ORD00103,2026-08-03,boAt Earbuds,Accessories,Nagpur,1434,1096,2
+ORD00104,2026-02-18,Noise Smartwatch,Accessories,Nagpur,3042,2261,1
+ORD00105,2026-05-20,Dell Inspiron 14,Laptop,Chhatrapati Sambhajinagar,62072,56131,1
+ORD00106,2026-05-17,Mi TV 43 inch,TV & Audio,Solapur,26863,22917,1
+ORD00107,2026-10-09,Mi TV 43 inch,TV & Audio,Mumbai,27422,19862,2
+ORD00108,2026-01-25,Samsung Galaxy A55,Mobile,Chhatrapati Sambhajinagar,35437,26085,1
+ORD00109,2026-08-09,Philips Mixer Grinder,Home Appliances,Nashik,5205,4588,1
+ORD00110,2026-06-14,LG Washing Machine,Home Appliances,Kolhapur,22464,18237,1
+ORD00111,2026-08-10,Noise Smartwatch,Accessories,Satara,2809,2485,1
+ORD00112,2026-07-28,Philips Mixer Grinder,Home Appliances,Mumbai,4958,4218,1
+ORD00113,2026-08-21,LG Washing Machine,Home Appliances,Solapur,21684,19054,1
+ORD00114,2026-08-04,Samsung Galaxy A55,Mobile,Mumbai,31769,28312,1
+ORD00115,2026-07-03,Bajaj Fan,Home Appliances,Nagpur,2582,2199,1
+ORD00116,2026-05-17,OnePlus Nord 4,Mobile,Chhatrapati Sambhajinagar,32144,24992,1
+ORD00117,2026-07-07,JBL Speaker,TV & Audio,Nashik,10767,9328,1
+ORD00118,2026-09-09,iPhone 15,Mobile,Mumbai,83385,61040,1
+ORD00119,2026-08-28,Noise Smartwatch,Accessories,Nashik,2902,2295,3
+ORD00120,2026-07-15,LG TV 32 inch,TV & Audio,Kolhapur,15949,13507,2
+ORD00121,2026-07-02,Acer Aspire 5,Laptop,Kolhapur,40235,33626,2
+ORD00122,2026-03-16,boAt Soundbar,TV & Audio,Mumbai,8528,7131,3
+ORD00123,2026-08-04,MacBook Air M3,Laptop,Solapur,107434,90992,1
+ORD00124,2026-02-16,Realme 12 Pro,Mobile,Chhatrapati Sambhajinagar,24518,17859,3
+ORD00125,2026-09-13,Samsung Charger 25W,Accessories,Kolhapur,1545,1201,2
+ORD00126,2026-05-08,LG TV 32 inch,TV & Audio,Pune,14802,13395,1
+ORD00127,2026-03-23,Mi TV 43 inch,TV & Audio,Chhatrapati Sambhajinagar,28123,21518,1
+ORD00128,2026-07-05,Redmi Note 13,Mobile,Nagpur,13605,12349,1
+ORD00129,2026-02-20,LG Washing Machine,Home Appliances,Satara,22221,16569,1
+ORD00130,2026-08-21,Havells Iron,Home Appliances,Chhatrapati Sambhajinagar,1720,1237,1
+ORD00131,2026-05-22,Sony Bravia 55 inch,TV & Audio,Nashik,66724,48191,1
+ORD00132,2026-07-23,OnePlus Nord 4,Mobile,Chhatrapati Sambhajinagar,32136,22583,1
+ORD00133,2026-04-13,Sony Bravia 55 inch,TV & Audio,Kolhapur,61862,51678,1
+ORD00134,2026-07-09,Voltas AC 1.5 Ton,Home Appliances,Mumbai,37748,32276,3
+ORD00135,2026-08-27,Havells Iron,Home Appliances,Chhatrapati Sambhajinagar,1874,1323,2
+ORD00136,2026-05-22,MacBook Air M3,Laptop,Nashik,104820,91384,1
+ORD00137,2026-10-12,Realme 12 Pro,Mobile,Nashik,26607,22670,1
+ORD00138,2026-09-12,iPhone 15,Mobile,Chhatrapati Sambhajinagar,77684,,1
+ORD00139,2026-05-24,Dell Inspiron 14,Laptop,Kolhapur,62897,44800,3
+ORD00140,2026-07-28,OnePlus Nord 4,Mobile,Kolhapur,32220,28645,3
+ORD00141,2026-05-19,OnePlus Nord 4,Mobile,Satara,27665,22186,1
+ORD00142,2026-09-11,boAt Earbuds,Accessories,Nagpur,1540,1257,1
+ORD00143,2026-07-04,Realme 12 Pro,Mobile,Nashik,27346,19687,1
+ORD00144,2026-09-05,Redmi Note 13,Mobile,Satara,13560,11006,1
+ORD00145,2026-07-19,Sony Bravia 55 inch,TV & Audio,Nashik,66762,50506,3
+ORD00146,2026-05-02,boAt Soundbar,TV & Audio,Kolhapur,7485,6080,1
+ORD00147,2026-06-18,ASUS Vivobook 15,Laptop,Kolhapur,52521,45591,1
+ORD00148,2026-08-03,OnePlus Nord 4,Mobile,Nagpur,28923,20448,3
+ORD00149,2026-10-07,Philips Mixer Grinder,Home Appliances,Pune,4635,3924,3
+ORD00150,2026-03-26,Bajaj Fan,Home Appliances,Mumbai,2533,1877,1
+ORD00151,2026-02-22,Mi Power Bank 20000mAh,Accessories,Mumbai,2154,1726,2
+ORD00152,2026-01-06,HP Pavilion 15,Laptop,Chhatrapati Sambhajinagar,61561,45958,1
+ORD00153,2026-08-15,Samsung Galaxy A55,Mobile,Kolhapur,34275,27566,2
+ORD00154,2026-01-24,Prestige Induction Cooktop,Home Appliances,Chhatrapati Sambhajinagar,3088,2499,3
+ORD00155,2026-07-14,boAt Soundbar,TV & Audio,Pune,8592,7790,1
+ORD00156,2026-10-05,boAt Soundbar,TV & Audio,Pune,8523,7703,1
+ORD00157,2026-07-20,Dell Inspiron 14,Laptop,Chhatrapati Sambhajinagar,60163,47602,2
+ORD00158,2026-09-24,LG TV 32 inch,TV & Audio,Nagpur,16259,14604,2
+ORD00159,2026-07-14,JBL Speaker,TV & Audio,Pune,10619,8803,2
+ORD00160,2026-08-03,HP Keyboard,Accessories,Pune,1260,1089,3
+ORD00161,2026-03-18,Redmi Note 13,Mobile,Mumbai,13846,10470,1
+ORD00162,2026-07-28,Prestige Induction Cooktop,Home Appliances,Mumbai,3327,2570,1
+ORD00163,2026-03-22,Samsung Charger 25W,Accessories,Solapur,1454,1305,1
+ORD00164,2026-05-19,HP Pavilion 15,Laptop,Nagpur,61479,49037,1
+ORD00165,2026-09-01,LG TV 32 inch,TV & Audio,Chhatrapati Sambhajinagar,17204,12730,1
+ORD00166,2026-06-01,Samsung Galaxy A55,Mobile,Nashik,31801,23923,3
+ORD00167,2026-01-03,MacBook Air M3,Laptop,Nagpur,102507,92737,2
+ORD00168,2026-06-25,JBL Speaker,TV & Audio,Pune,9924,8786,1
+ORD00169,2026-05-15,Samsung Galaxy A55,Mobile,Satara,31190,24455,1
+ORD00170,2026-02-12,LG TV 32 inch,TV & Audio,Satara,15841,13622,2
+ORD00171,2026-05-02,iPhone 15,Mobile,Nagpur,82178,64880,1
+ORD00172,2026-03-25,LG TV 32 inch,TV & Audio,Chhatrapati Sambhajinagar,14850,12994,3
+ORD00173,2026-03-13,Logitech Mouse,Accessories,Nagpur,746,605,1
+ORD00174,2026-01-14,Prestige Induction Cooktop,Home Appliances,Mumbai,3470,2577,1
+ORD00175,2026-07-10,Mi TV 43 inch,TV & Audio,Pune,28563,22660,1
+ORD00176,2026-08-27,Mi TV 43 inch,TV & Audio,Kolhapur,29012,25594,3
+ORD00177,2026-09-03,OnePlus Nord 4,Mobile,Satara,31652,27426,1
+ORD00178,2026-09-21,Noise Smartwatch,Accessories,Pune,2921,2473,1
+ORD00179,2026-03-08,Prestige Induction Cooktop,Home Appliances,Pune,3133,2347,1
+ORD00180,2026-02-06,Dell Inspiron 14,Laptop,Solapur,56132,44202,2
+ORD00181,2026-10-21,LG TV 32 inch,TV & Audio,Kolhapur,16654,13677,3
+ORD00182,2026-05-19,Mi Power Bank 20000mAh,Accessories,Mumbai,1979,1617,1
+ORD00183,2026-06-27,Samsung Charger 25W,Accessories,Chhatrapati Sambhajinagar,1396,1143,1
+ORD00184,2026-09-13,Realme 12 Pro,Mobile,Solapur,27514,20136,1
+ORD00185,2026-10-21,Prestige Induction Cooktop,Home Appliances,Nagpur,3534,2677,1
+ORD00186,2026-02-26,Samsung Charger 25W,Accessories,Kolhapur,1493,1324,1
+ORD00187,2026-08-17,Vivo V40,Mobile,Nashik,35817,32643,2
+ORD00188,2026-10-02,Logitech Mouse,Accessories,Kolhapur,848,708,2
+ORD00189,2026-10-28,iPhone 15,Mobile,Nashik,74716,57588,1
+ORD00190,2026-07-05,boAt Earbuds,Accessories,Pune,1518,1349,1
+ORD00191,2026-09-03,Samsung Charger 25W,Accessories,Satara,1469,1096,2
+ORD00192,2026-06-25,Voltas AC 1.5 Ton,Home Appliances,Solapur,32292,27514,3
+ORD00193,2026-02-17,Lenovo IdeaPad Slim 3,Laptop,Mumbai,49669,44002,1
+ORD00194,2026-10-26,Samsung Charger 25W,Accessories,Nashik,1410,1180,1
+ORD00195,2026-08-20,Mi TV 43 inch,TV & Audio,Chhatrapati Sambhajinagar,26613,20524,1
+ORD00196,2026-08-27,Samsung Soundbar,TV & Audio,Nagpur,15071,12839,2
+ORD00197,2026-05-25,Noise Smartwatch,Accessories,Satara,3213,2260,1
+ORD00198,2026-10-05,Prestige Induction Cooktop,Home Appliances,Chhatrapati Sambhajinagar,3252,2876,1
+ORD00199,2026-09-28,Realme 12 Pro,Mobile,Pune,25918,21728,3
+ORD00200,2026-03-27,boAt Earbuds,Accessories,Satara,1562,1343,2
+ORD00201,2026-07-02,Samsung Galaxy A55,Mobile,Satara,34671,25150,3
+ORD00202,2026-01-11,Voltas AC 1.5 Ton,Home Appliances,Pune,33510,23497,1
+ORD00203,2026-03-25,Mi Power Bank 20000mAh,Accessories,Solapur,1883,1614,2
+ORD00204,2026-03-18,LG TV 32 inch,TV & Audio,Satara,14724,13289,1
+ORD00205,2026-10-15,iPhone 15,Mobile,Pune,76545,68369,1
+ORD00206,2026-04-23,OnePlus Nord 4,Mobile,Nashik,30463,27916,1
+ORD00207,2026-03-22,HP Keyboard,Accessories,Pune,1195,1007,1
+ORD00208,2026-09-18,Voltas AC 1.5 Ton,Home Appliances,Mumbai,32569,26194,1
+ORD00209,2026-01-12,JBL Speaker,TV & Audio,Pune,9268,7738,1
+ORD00210,2026-06-05,Mi Power Bank 20000mAh,Accessories,Mumbai,2073,1621,2
+ORD00211,2026-08-23,Samsung Charger 25W,Accessories,Solapur,1460,1137,2
+ORD00212,2026-05-07,Lenovo IdeaPad Slim 3,Laptop,Mumbai,42775,32049,1
+ORD00213,2026-09-16,HP Pavilion 15,Laptop,Chhatrapati Sambhajinagar,61131,52070,1
+ORD00214,2026-06-09,Realme 12 Pro,Mobile,Pune,24714,20796,2
+ORD00215,2026-07-11,HP Keyboard,Accessories,Nashik,1379,1043,2
+ORD00216,2026-02-24,boAt Soundbar,TV & Audio,Satara,7995,5730,1
+ORD00217,2026-06-04,OnePlus Nord 4,Mobile,Pune,30490,22535,1
+ORD00218,2026-03-23,Noise Smartwatch,Accessories,Solapur,2900,2384,2
+ORD00219,2026-07-09,HP Keyboard,Accessories,Mumbai,1203,876,1
+ORD00220,2026-03-01,Realme 12 Pro,Mobile,Nashik,26571,22322,2
+ORD00221,2026-06-12,Havells Iron,Home Appliances,Satara,1875,1711,1
+ORD00222,2026-06-15,Philips Mixer Grinder,Home Appliances,Pune,5078,3913,3
+ORD00223,2026-04-04,Bajaj Fan,Home Appliances,Mumbai,2510,2089,1
+ORD00224,2026-05-23,ASUS Vivobook 15,Laptop,Solapur,53140,38209,1
+ORD00225,2026-02-05,MacBook Air M3,Laptop,Pune,96559,69366,1
+ORD00226,2026-06-22,Samsung Soundbar,TV & Audio,Kolhapur,15946,13109,1
+ORD00227,2026-03-26,Vivo V40,Mobile,Kolhapur,35235,25507,2
+ORD00228,2026-08-01,Bajaj Fan,Home Appliances,Kolhapur,2347,2055,1
+ORD00229,2026-10-03,Prestige Induction Cooktop,Home Appliances,Pune,3225,2397,1
+ORD00230,2026-07-27,HP Keyboard,Accessories,Pune,1402,1068,1
+ORD00231,2026-06-05,Dell Inspiron 14,Laptop,Nashik,60333,49534,1
+ORD00232,2026-09-05,ASUS Vivobook 15,Laptop,Chhatrapati Sambhajinagar,53014,38647,2
+ORD00233,2026-09-10,Lenovo IdeaPad Slim 3,Laptop,Pune,44685,34137,1
+ORD00234,2026-05-20,Mi Power Bank 20000mAh,Accessories,Pune,2042,1631,1
+ORD00235,2026-10-24,Havells Iron,Home Appliances,Kolhapur,1699,1211,1
+ORD00236,2026-10-09,Philips Mixer Grinder,Home Appliances,Nagpur,5254,4801,1
+ORD00237,2026-09-10,LG Washing Machine,Home Appliances,Chhatrapati Sambhajinagar,22405,20463,2
+ORD00238,2026-02-23,Samsung Soundbar,TV & Audio,Mumbai,15720,12093,1
+ORD00239,2026-03-11,ASUS Vivobook 15,Laptop,Kolhapur,52274,42751,1
+ORD00240,2026-06-08,HP Keyboard,Accessories,Solapur,1222,1025,1
+ORD00241,2026-07-28,iPhone 15,Mobile,Satara,79255,70458,1
+ORD00242,2026-04-25,Lenovo IdeaPad Slim 3,Laptop,Nashik,48296,34511,2
+ORD00243,2026-02-13,LG TV 32 inch,TV & Audio,Solapur,15905,11557,1
+ORD00244,2026-10-27,Lenovo IdeaPad Slim 3,Laptop,Solapur,46603,42376,1
+ORD00245,2026-05-24,Samsung Charger 25W,Accessories,Kolhapur,1381,1238,1
+ORD00246,2026-06-18,Sony Bravia 55 inch,TV & Audio,Chhatrapati Sambhajinagar,60261,54762,1
+ORD00247,2026-10-22,OnePlus Nord 4,Mobile,Pune,30019,22569,1
+ORD00248,2026-06-25,HP Pavilion 15,Laptop,Nashik,61920,46138,1
+ORD00249,2026-03-23,MacBook Air M3,Laptop,Kolhapur,100135,81108,1
+ORD00250,2026-06-20,LG TV 32 inch,TV & Audio,Kolhapur,15879,12491,1
+ORD00251,2026-06-17,ASUS Vivobook 15,Laptop,Solapur,57149,43282,1
+ORD00252,2026-02-14,Voltas AC 1.5 Ton,Home Appliances,Chhatrapati Sambhajinagar,34849,31934,1
+ORD00253,2026-10-19,Vivo V40,Mobile,Nagpur,34856,24652,2
+ORD00254,2026-07-05,Vivo V40,Mobile,Nagpur,34889,28074,2
+ORD00255,2026-06-14,Vivo V40,Mobile,Nashik,37508,33601,1
+ORD00256,2026-08-28,boAt Soundbar,TV & Audio,Mumbai,7620,6169,1
+ORD00257,2026-09-13,MacBook Air M3,Laptop,Kolhapur,95307,80867,1
+ORD00258,2026-05-20,ASUS Vivobook 15,Laptop,Solapur,56484,47711,1
+ORD00259,2026-05-25,Lenovo IdeaPad Slim 3,Laptop,Chhatrapati Sambhajinagar,44363,37901,3
+ORD00260,2026-05-10,Acer Aspire 5,Laptop,Pune,43367,36873,1
+ORD00261,2026-06-25,Havells Iron,Home Appliances,Nashik,1807,1306,1
+ORD00262,2026-08-21,boAt Earbuds,Accessories,Chhatrapati Sambhajinagar,1448,1105,1
+ORD00263,2026-05-05,Samsung Soundbar,TV & Audio,Pune,14275,11442,3
+ORD00264,2026-09-08,Havells Iron,Home Appliances,Nagpur,1819,1576,1
+ORD00265,2026-03-01,Redmi Note 13,Mobile,Nashik,13804,10521,1
+ORD00266,2026-04-25,boAt Soundbar,TV & Audio,Chhatrapati Sambhajinagar,8555,6217,1
+ORD00267,2026-10-08,Logitech Mouse,Accessories,Mumbai,813,586,1
+ORD00268,2026-07-26,ASUS Vivobook 15,Laptop,Solapur,56230,49557,2
+ORD00269,2026-01-10,Acer Aspire 5,Laptop,Pune,45094,32300,2
+ORD00270,2026-03-28,Logitech Mouse,Accessories,Solapur,789,615,1
+ORD00271,2026-05-23,Mi Power Bank 20000mAh,Accessories,Nashik,2097,1777,2
+ORD00272,2026-04-06,Realme 12 Pro,Mobile,Satara,25321,21652,1
+ORD00273,2026-03-16,LG TV 32 inch,TV & Audio,Kolhapur,15549,12934,1
+ORD00274,2026-06-10,HP Pavilion 15,Laptop,Mumbai,60579,52594,2
+ORD00275,2026-08-10,Noise Smartwatch,Accessories,Nashik,2931,2544,1
+ORD00276,2026-05-23,boAt Soundbar,TV & Audio,Pune,8002,5786,2
+ORD00277,2026-03-15,Logitech Mouse,Accessories,Kolhapur,809,705,1
+ORD00278,2026-04-25,boAt Soundbar,TV & Audio,Nagpur,8062,6582,1
+ORD00279,2026-10-04,Philips Mixer Grinder,Home Appliances,Mumbai,5015,,1
+ORD00280,2026-09-15,Prestige Induction Cooktop,Home Appliances,Pune,3137,2516,1
+ORD00281,2026-01-15,Acer Aspire 5,Laptop,Nashik,42548,38293,1
+ORD00282,2026-05-24,LG Washing Machine,Home Appliances,Mumbai,21837,19813,1
+ORD00283,2026-01-14,Sony Bravia 55 inch,TV & Audio,Kolhapur,68280,51614,1
+ORD00284,2026-08-02,Vivo V40,Mobile,Chhatrapati Sambhajinagar,37766,26980,1
+ORD00285,2026-07-12,Samsung Soundbar,TV & Audio,Satara,15635,11750,3
+ORD00286,2026-09-05,JBL Speaker,TV & Audio,Kolhapur,9800,7544,1
+ORD00287,2026-04-27,Samsung Galaxy A55,Mobile,Mumbai,35601,29674,1
+ORD00288,2026-07-27,iPhone 15,Mobile,Nagpur,79427,60507,1
+ORD00289,2026-02-02,ASUS Vivobook 15,Laptop,Satara,51685,44416,3
+ORD00290,2026-08-20,Philips Mixer Grinder,Home Appliances,Mumbai,4787,4333,1
+ORD00291,2026-01-05,Acer Aspire 5,Laptop,Chhatrapati Sambhajinagar,38928,32054,1
+ORD00292,2026-06-08,Acer Aspire 5,Laptop,Chhatrapati Sambhajinagar,42501,33701,2
+ORD00293,2026-09-19,Acer Aspire 5,Laptop,Nashik,42132,34928,1
+ORD00294,2026-07-26,LG TV 32 inch,TV & Audio,Kolhapur,15978,11282,3
+ORD00295,2026-08-08,JBL Speaker,TV & Audio,Nagpur,9437,7900,2
+ORD00296,2026-07-14,Noise Smartwatch,Accessories,Nashik,2828,2314,1
+ORD00297,2026-08-28,Samsung Soundbar,TV & Audio,Kolhapur,14402,12203,1
+ORD00298,2026-10-20,Vivo V40,Mobile,Mumbai,36256,31836,1
+ORD00299,2026-04-16,Samsung Galaxy A55,Mobile,Nagpur,34607,27365,1
+ORD00300,2026-02-24,Logitech Mouse,Accessories,Solapur,853,782,3
+ORD00301,2026-09-11,Acer Aspire 5,Laptop,Chhatrapati Sambhajinagar,42691,37355,2
+ORD00302,2026-09-16,JBL Speaker,TV & Audio,Solapur,10052,8453,1
+ORD00303,2026-06-11,Realme 12 Pro,Mobile,Satara,25872,19023,2
+ORD00304,2026-09-19,Vivo V40,Mobile,Satara,37037,28034,1
+ORD00305,2026-04-16,Mi Power Bank 20000mAh,Accessories,Kolhapur,1901,1653,1
+ORD00306,2026-03-24,HP Keyboard,Accessories,Kolhapur,1395,1086,1
+ORD00307,2026-09-21,Lenovo IdeaPad Slim 3,Laptop,Mumbai,47611,38687,2
+ORD00308,2026-01-25,Philips Mixer Grinder,Home Appliances,Mumbai,5265,4758,2
+ORD00309,2026-01-07,Samsung Soundbar,TV & Audio,Solapur,15811,13741,2
+ORD00310,2026-08-22,boAt Earbuds,Accessories,Solapur,1527,1181,1
+ORD00311,2026-05-18,Redmi Note 13,Mobile,Chhatrapati Sambhajinagar,14071,11672,1
+ORD00312,2026-03-04,Vivo V40,Mobile,Pune,36752,28362,2
+ORD00313,2026-06-09,Bajaj Fan,Home Appliances,Satara,2395,1877,1
+ORD00314,2026-04-10,iPhone 15,Mobile,Pune,85771,70248,1
+ORD00315,2026-01-23,Redmi Note 13,Mobile,Nashik,13786,11539,1
+ORD00316,2026-02-17,OnePlus Nord 4,Mobile,Mumbai,31656,24632,1
+ORD00317,2026-05-02,Lenovo IdeaPad Slim 3,Laptop,Pune,48942,37573,1
+ORD00318,2026-06-01,Samsung Charger 25W,Accessories,Nagpur,1514,1382,3
+ORD00319,2026-02-10,Bajaj Fan,Home Appliances,Nashik,2599,1984,1
+ORD00320,2026-09-11,Bajaj Fan,Home Appliances,Satara,2525,1851,1
+ORD00321,2026-01-04,Acer Aspire 5,Laptop,Satara,43496,35224,3
+ORD00322,2026-07-25,HP Pavilion 15,Laptop,Kolhapur,61383,46088,3
+ORD00323,2026-06-18,Realme 12 Pro,Mobile,Satara,25056,17580,1
+ORD00324,2026-10-10,Samsung Soundbar,TV & Audio,Nagpur,15420,11945,1
+ORD00325,2026-03-24,Redmi Note 13,Mobile,Satara,13479,11274,2
+ORD00326,2026-06-25,Logitech Mouse,Accessories,Chhatrapati Sambhajinagar,744,684,1
+ORD00327,2026-09-14,Samsung Galaxy A55,Mobile,Pune,30819,25431,1
+ORD00328,2026-06-28,Redmi Note 13,Mobile,Satara,13671,12297,1
+ORD00329,2026-09-08,iPhone 15,Mobile,Nashik,78798,58987,2
+ORD00330,2026-02-06,Samsung Soundbar,TV & Audio,Satara,14123,12058,1
+ORD00331,2026-04-24,HP Keyboard,Accessories,Solapur,1257,940,1
+ORD00332,2026-07-11,Prestige Induction Cooktop,Home Appliances,Satara,3134,2810,1
+ORD00333,2026-10-05,HP Keyboard,Accessories,Chhatrapati Sambhajinagar,1264,936,2
+ORD00334,2026-07-11,Samsung Charger 25W,Accessories,Chhatrapati Sambhajinagar,1606,1407,1
+ORD00335,2026-07-12,LG TV 32 inch,TV & Audio,Pune,16711,14176,1
+ORD00336,2026-09-01,Bajaj Fan,Home Appliances,Solapur,2535,2028,1
+ORD00337,2026-07-22,ASUS Vivobook 15,Laptop,Solapur,55513,40920,1
+ORD00338,2026-07-26,Acer Aspire 5,Laptop,Satara,40665,35151,1
+ORD00339,2026-09-28,OnePlus Nord 4,Mobile,Satara,32354,26355,1
+ORD00340,2026-09-20,Philips Mixer Grinder,Home Appliances,Pune,5227,4395,2
+ORD00341,2026-01-19,Samsung Galaxy A55,Mobile,Satara,33831,28482,1
+ORD00342,2026-09-18,HP Keyboard,Laptop ,Nagpur,1217,1093,1
+ORD00343,2026-09-05,Sony Bravia 55 inch,TV & Audio,Kolhapur,63857,47898,1
+ORD00344,2026-02-27,OnePlus Nord 4,Mobile,Nashik,28100,23280,3
+ORD00345,2026-06-16,Logitech Mouse,Accessories,Pune,775,579,1
+ORD00346,2026-02-01,boAt Soundbar,TV & Audio,Kolhapur,8250,7011,1
+ORD00347,2026-09-06,Realme 12 Pro,Mobile,Nashik,27247,19493,2
+ORD00348,2026-03-06,Samsung Charger 25W,Accessories,Satara,1481,1212,2
+ORD00349,2026-07-13,Mi TV 43 inch,TV & Audio,Mumbai,28024,20338,1
+ORD00350,2026-10-04,Lenovo IdeaPad Slim 3,Laptop,Nashik,44358,33942,2
+ORD00351,2026-08-17,Logitech Mouse,Accessories,Kolhapur,756,677,1
+ORD00352,2026-08-20,LG Washing Machine,Home Appliances,Nashik,22381,17700,1
+ORD00353,2026-04-10,Samsung Charger 25W,Accessories,Pune,1520,1174,1
+ORD00354,2026-03-19,Dell Inspiron 14,Laptop,Satara,60815,49115,1
+ORD00355,2026-03-18,Samsung Soundbar,TV & Audio,Nashik,14958,11993,2
+ORD00356,2026-01-28,Sony Bravia 55 inch,TV & Audio,Kolhapur,61249,52110,1
+ORD00357,2026-09-21,OnePlus Nord 4,Mobile,Solapur,28254,20926,3
+ORD00358,2026-03-03,boAt Soundbar,TV & Audio,Mumbai,7988,6101,1
+ORD00359,2026-08-19,Dell Inspiron 14,Laptop,Solapur,54579,47513,1
+ORD00360,2026-06-18,Prestige Induction Cooktop,Home Appliances,Mumbai,3091,2766,2
+ORD00361,2026-04-10,LG TV 32 inch,TV & Audio,Mumbai,15269,12619,2
+ORD00362,2026-02-25,Sony Bravia 55 inch,TV & Audio,Nagpur,63415,46947,1
+ORD00363,2026-07-06,Acer Aspire 5,Laptop,Nashik,42580,35889,2
+ORD00364,2026-10-18,Lenovo IdeaPad Slim 3,Laptop,Nashik,48237,38328,1
+ORD00365,2026-09-22,Noise Smartwatch,Accessories,Pune,2899,2302,3
+ORD00366,2026-03-23,ASUS Vivobook 15,Laptop,Nashik,56540,39671,2
+ORD00367,2026-07-16,Lenovo IdeaPad Slim 3,Laptop,Nashik,47545,35076,2
+ORD00368,2026-02-13,Havells Iron,Home Appliances,Chhatrapati Sambhajinagar,1728,1432,1
+ORD00369,2026-02-24,HP Keyboard,Accessories,Solapur,1392,1180,1
+ORD00370,2026-04-16,boAt Earbuds,Accessories,Chhatrapati Sambhajinagar,1569,1306,3
+ORD00371,2026-08-26,Logitech Mouse,Accessories,Kolhapur,774,614,1
+ORD00372,2026-02-28,Redmi Note 13,Mobile,Nashik,13102,9794,1
+ORD00373,2026-03-21,JBL Speaker,TV & Audio,Chhatrapati Sambhajinagar,9200,6525,1
+ORD00374,2026-03-02,Dell Inspiron 14,Laptop,Satara,55151,46366,1
+ORD00375,2026-02-01,Noise Smartwatch,Accessories,Nagpur,3094,2687,1
+ORD00376,2026-01-01,Mi TV 43 inch,TV & Audio,Kolhapur,25412,22114,1
+ORD00377,2026-02-24,OnePlus Nord 4,Mobile,Pune,30930,25205,1
+ORD00378,2026-03-21,iPhone 15,Mobile,Nashik,78206,66801,1
+ORD00379,2026-06-24,Vivo V40,Mobile,Nagpur,35353,27778,1
+ORD00380,2026-02-05,ASUS Vivobook 15,Laptop,Pune,53974,44403,1
+ORD00381,2026-03-08,Havells Iron,Home Appliances,Chhatrapati Sambhajinagar,1761,1247,1
+ORD00382,2026-01-28,Samsung Galaxy A55,Mobile,Chhatrapati Sambhajinagar,33280,26225,1
+ORD00383,2026-01-26,MacBook Air M3,Laptop,Nagpur,101700,89343,1
+ORD00384,2026-09-01,JBL Speaker,TV & Audio,Kolhapur,9379,7598,1
+ORD00385,2026-09-22,Mi Power Bank 20000mAh,Accessories,Nashik,1962,1443,1
+ORD00386,2026-01-02,Mi TV 43 inch,TV & Audio,Satara,24911,22548,1
+ORD00387,2026-07-03,Voltas AC 1.5 Ton,Home Appliances,Nashik,35709,28916,1
+ORD00388,2026-03-18,boAt Earbuds,Accessories,Kolhapur,1453,1173,1
+ORD00389,2026-02-10,LG TV 32 inch,TV & Audio,Satara,16333,12028,1
+ORD00390,2026-10-20,HP Pavilion 15,Laptop,Mumbai,60414,43292,1
+ORD00391,2026-03-23,Noise Smartwatch,Accessories,Mumbai,3114,2357,1
+ORD00392,2026-05-06,ASUS Vivobook 15,Laptop,Kolhapur,56830,45745,2
+ORD00393,2026-01-11,Acer Aspire 5,Laptop,Satara,43878,37773,2
+ORD00394,2026-02-16,Samsung Charger 25W,Accessories,Solapur,1394,1064,1
+ORD00395,2026-03-09,Voltas AC 1.5 Ton,Home Appliances,Pune,32501,23756,1
+ORD00396,2026-01-28,Havells Iron,Home Appliances,Mumbai,1858,1616,1
+ORD00397,2026-01-18,HP Pavilion 15,Laptop,Satara,62705,52405,1
+ORD00398,2026-02-19,Dell Inspiron 14,Laptop,Kolhapur,56614,40678,1
+ORD00399,2026-09-02,Vivo V40,Mobile,Satara,35969,32675,1
+ORD00400,2026-02-18,OnePlus Nord 4,Mobile,Solapur,31755,23811,1
+ORD00401,2026-10-08,iPhone 15,Mobile,Solapur,76073,60551,1
+ORD00402,2026-09-25,Samsung Charger 25W,Accessories,Nagpur,1612,1129,2
+ORD00403,2026-01-11,HP Pavilion 15,Laptop,Mumbai,67347,61605,1
+ORD00404,2026-04-14,boAt Soundbar,TV & Audio,Solapur,8289,7436,1
+ORD00405,2026-09-14,Samsung Galaxy A55,Mobile,Kolhapur,34116,30689,3
+ORD00406,2026-07-03,boAt Soundbar,TV & Audio,Mumbai,7467,6713,1
+ORD00407,2026-06-26,boAt Soundbar,TV & Audio,Satara,8593,7458,1
+ORD00408,2026-03-25,Logitech Mouse,Accessories,Pune,788,684,3
+ORD00409,2026-09-12,HP Pavilion 15,Laptop,Nagpur,59607,48727,1
+ORD00410,2026-05-27,Sony Bravia 55 inch,TV & Audio,Mumbai,64608,47322,1
+ORD00411,2026-07-17,Dell Inspiron 14,Laptop,Mumbai,55670,42507,3
+ORD00412,2026-08-18,Logitech Mouse,Accessories,Nagpur,835,736,3
+ORD00413,2026-01-27,OnePlus Nord 4,Mobile,Nagpur,28088,20936,1
+ORD00414,2026-02-19,Lenovo IdeaPad Slim 3,Laptop,Chhatrapati Sambhajinagar,48371,40540,1
+ORD00415,2026-03-03,Redmi Note 13,Mobile,Kolhapur,15112,13246,1
+ORD00416,2026-07-27,Redmi Note 13,Mobile,Satara,14989,13623,3
+ORD00417,2026-03-09,Mi TV 43 inch,TV & Audio,Chhatrapati Sambhajinagar,26492,21886,1
+ORD00418,2026-05-16,Samsung Soundbar,TV & Audio,Satara,13873,10873,1
+ORD00419,2026-04-21,LG Washing Machine,Home Appliances,Nagpur,20445,17551,1
+ORD00420,2026-09-26,Philips Mixer Grinder,Home Appliances,Solapur,5386,4029,1
+ORD00421,2026-06-20,Samsung Charger 25W,Accessories,Nagpur,1499,1251,1
+ORD00422,2026-10-08,iPhone 15,Mobile,Nashik,74257,52118,1
+ORD00423,2026-01-25,Samsung Galaxy A55,Mobile,Nagpur,33827,29137,2
+ORD00424,2026-03-08,LG Washing Machine,Home Appliances,Kolhapur,21479,15795,2
+ORD00425,2026-10-05,Samsung Charger 25W,Accessories,Nagpur,1385,1061,3
+ORD00426,2026-04-20,LG TV 32 inch,TV & Audio,Nagpur,15501,12588,1
+ORD00427,2026-03-11,Vivo V40,Mobile,Nashik,34875,29540,1
+ORD00428,2026-02-28,boAt Earbuds,Accessories,Kolhapur,1384,1095,2
+ORD00429,2026-06-10,iPhone 15,Mobile,Kolhapur,82514,63893,1
+ORD00430,2026-08-21,Lenovo IdeaPad Slim 3,Laptop,Kolhapur,47699,39299,1
+ORD00431,2026-06-08,Acer Aspire 5,Laptop,Nashik,45139,34640,3
+ORD00432,2026-01-23,Sony Bravia 55 inch,TV & Audio,Satara,67423,57661,1
+ORD00433,2026-10-08,Philips Mixer Grinder,Home Appliances,Pune,4740,4029,2
+ORD00434,2026-06-06,Samsung Soundbar,TV & Audio,Pune,14585,13169,1
+ORD00435,2026-06-09,HP Keyboard,Accessories,Pune,1197,1046,1
+ORD00436,2026-07-16,Redmi Note 13,Mobile,Satara,13743,10429,3
+ORD00437,2026-10-21,Samsung Charger 25W,Accessories,Nagpur,1469,1084,2
+ORD00438,2026-06-09,ASUS Vivobook 15,Laptop,Pune,49375,36238,1
+ORD00439,2026-09-03,iPhone 15,Mobile,Kolhapur,75682,63376,2
+ORD00440,2026-03-20,Prestige Induction Cooktop,Home Appliances,Satara,3502,2679,1
+ORD00441,2026-09-24,HP Pavilion 15,Laptop,Chhatrapati Sambhajinagar,58971,51587,1
+ORD00442,2026-08-05,Logitech Mouse,Accessories,Mumbai,761,692,1
+ORD00443,2026-10-16,boAt Earbuds,Accessories,Nagpur,1481,1267,1
+ORD00444,2026-08-28,Redmi Note 13,Mobile,Pune,13342,10401,3
+ORD00445,2026-09-13,HP Keyboard,Accessories,Nashik,1292,934,1
+ORD00446,2026-08-09,HP Keyboard,Accessories,Nagpur,1271,1045,1
+ORD00447,2026-02-22,Samsung Charger 25W,Accessories,Kolhapur,1393,1051,1
+ORD00448,2026-07-27,LG Washing Machine,Home Appliances,Satara,23646,18686,1
+ORD00449,2026-08-10,Havells Iron,Home Appliances,Pune,1900,1550,2
+ORD00450,2026-10-22,boAt Soundbar,TV & Audio,Nashik,7403,5880,1
+ORD00451,2026-04-05,OnePlus Nord 4,Mobile,Mumbai,28428,19997,3
+ORD00452,2026-03-27,Mi TV 43 inch,TV & Audio,Chhatrapati Sambhajinagar,29108,23991,3
+ORD00453,2026-07-18,Noise Smartwatch,Accessories,Kolhapur,3197,2894,1
+ORD00454,2026-10-19,Samsung Charger 25W,Accessories,Satara,1488,1083,2
+ORD00455,2026-02-04,OnePlus Nord 4,Mobile,Pune,28317,22522,1
+ORD00456,2026-08-19,Samsung Charger 25W,Accessories,Solapur,1590,1156,1
+ORD00457,2026-07-02,Samsung Galaxy A55,Mobile,Satara,31813,28261,1
+ORD00458,2026-06-01,Noise Smartwatch,Accessories,Kolhapur,2873,2172,3
+ORD00459,2026-02-28,Logitech Mouse,Accessories,Nagpur,767,623,1
+ORD00460,2026-05-24,Dell Inspiron 14,Laptop,Satara,63465,52201,2
+ORD00461,2026-07-24,Havells Iron,Home Appliances,Solapur,1677,1380,2
+ORD00462,2026-05-23,Voltas AC 1.5 Ton,Home Appliances,Satara,36787,29674,1
+ORD00463,2026-04-27,MacBook Air M3,Laptop,Mumbai,106058,96898,1
+ORD00464,2026-05-12,HP Pavilion 15,Laptop,Solapur,62551,44914,2
+ORD00465,2026-06-16,LG Washing Machine,Home Appliances,Solapur,22466,20056,1
+ORD00466,2026-05-24,ASUS Vivobook 15,Laptop,Pune,53726,45294,1
+ORD00467,2026-04-28,boAt Earbuds,Accessories,Nagpur,1471,1301,1
+ORD00468,2026-01-16,Acer Aspire 5,Laptop,Nashik,40019,31081,1
+ORD00469,2026-05-23,MacBook Air M3,Laptop,Chhatrapati Sambhajinagar,104803,91259,1
+ORD00470,2026-05-22,JBL Speaker,TV & Audio,Satara,10561,8650,1
+ORD00471,2026-06-18,Philips Mixer Grinder,Home Appliances,Chhatrapati Sambhajinagar,4601,3221,3
+ORD00472,2026-06-28,Noise Smartwatch,Accessories,Chhatrapati Sambhajinagar,2810,2546,3
+ORD00473,2026-03-17,Noise Smartwatch,Accessories,Nagpur,3100,2243,1
+ORD00474,2026-01-21,Vivo V40,Mobile,Solapur,34461,29281,1
+ORD00475,2026-10-23,Logitech Mouse,Accessories,Nagpur,846,703,2
+ORD00476,2026-08-22,Noise Smartwatch,Accessories,Kolhapur,3101,2385,1
+ORD00477,2026-03-10,Voltas AC 1.5 Ton,Home Appliances,Pune,36923,27141,2
+ORD00478,2026-03-22,Samsung Soundbar,TV & Audio,Kolhapur,15567,11838,1
+ORD00479,2026-06-12,Samsung Galaxy A55,Mobile,Chhatrapati Sambhajinagar,32234,24378,1
+ORD00480,2026-10-19,Voltas AC 1.5 Ton,Home Appliances,Pune,34787,31103,1
+ORD00481,2026-05-14,Samsung Soundbar,TV & Audio,Mumbai,14991,10931,1
+ORD00482,2026-08-05,Lenovo IdeaPad Slim 3,Laptop,Kolhapur,49612,41903,3
+ORD00483,2026-01-01,HP Pavilion 15,Laptop,Solapur,62864,49108,1
+ORD00484,2026-08-26,Mi Power Bank 20000mAh,Accessories,Pune,2082,1838,2
+ORD00485,2026-08-13,MacBook Air M3,Laptop,Mumbai,98929,81669,1
+ORD00486,2026-06-25,Vivo V40,Mobile,Nagpur,33315,27915,1
+ORD00487,2026-06-10,Realme 12 Pro,Mobile,Nashik,23936,18158,1
+ORD00488,2026-01-10,OnePlus Nord 4,Mobile,Chhatrapati Sambhajinagar,30015,25592,1
+ORD00489,2026-03-11,boAt Soundbar,TV & Audio,Solapur,8024,6457,1
+ORD00490,2026-01-08,Mi Power Bank 20000mAh,Accessories,Nagpur,1891,1362,2
+ORD00491,2026-06-23,Lenovo IdeaPad Slim 3,Laptop,Mumbai,47712,37705,1
+ORD00492,2026-01-22,boAt Soundbar,TV & Audio,Pune,7686,6167,1
+ORD00493,2026-09-09,Redmi Note 13,Mobile,Solapur,14424,11948,1
+ORD00494,2026-02-22,Lenovo IdeaPad Slim 3,Laptop,Chhatrapati Sambhajinagar,47426,37055,1
+ORD00495,2026-09-24,Prestige Induction Cooktop,Home Appliances,Pune,3400,2815,2
+ORD00496,2026-05-27,boAt Earbuds,Accessories,Nagpur,1567,1270,1
+ORD00497,2026-04-23,Noise Smartwatch,Accessories,Solapur,2955,2614,1
+ORD00498,2026-10-22,Mi Power Bank 20000mAh,Accessories,Solapur,1839,1420,2
+ORD00499,2026-05-21,HP Pavilion 15,Laptop,Nagpur,65807,59456,2
+ORD00500,2026-01-28,Sony Bravia 55 inch,TV & Audio,Chhatrapati Sambhajinagar,62537,56845,2
+ORD00501,2026-01-01,Noise Smartwatch,Accessories,Nashik,2909,2204,1
+ORD00502,2026-02-12,Dell Inspiron 14,Laptop,Kolhapur,57645,47482,1
+ORD00503,2026-07-23,HP Pavilion 15,Laptop,Solapur,61989,43906,1
+ORD00504,2026-01-28,boAt Soundbar,TV & Audio,Nashik,8493,7502,1
+ORD00505,2026-08-06,OnePlus Nord 4,Mobile,Satara,31972,26019,1
+ORD00506,2026-03-16,Samsung Charger 25W,Accessories,Solapur,1385,1066,2
+ORD00507,2026-01-23,OnePlus Nord 4,Mobile,Nagpur,29714,26923,1
+ORD00508,2026-04-16,Samsung Charger 25W,Accessories,Kolhapur,1504,1152,1
+ORD00509,2026-01-01,Samsung Soundbar,TV & Audio,Nashik,15803,12598,3
+ORD00510,2026-08-11,LG Washing Machine,Home Appliances,Nagpur,23228,16927,1
+ORD00511,2026-07-27,Logitech Mouse,Accessories,Nagpur,737,642,1
+ORD00512,2026-08-15,OnePlus Nord 4,Mobile,Kolhapur,29731,23604,1
+ORD00513,2026-01-18,OnePlus Nord 4,Mobile,Mumbai,31176,28560,1
+ORD00514,2026-09-07,Vivo V40,Mobile,Solapur,37592,29312,2
+ORD00515,2026-06-18,Logitech Mouse,Accessories,Solapur,836,619,2
+ORD00516,2026-01-11,Noise Smartwatch,Accessories,Kolhapur,2976,2674,1
+ORD00517,2026-03-16,Samsung Charger 25W,Accessories,Nashik,1504,1151,1
+ORD00518,2026-07-07,Mi TV 43 inch,TV & Audio,Solapur,25937,22744,1
+ORD00519,2026-10-04,Acer Aspire 5,Laptop,Solapur,40901,30816,1
+ORD00520,2026-01-17,boAt Soundbar,TV & Audio,Mumbai,8113,6564,3
+ORD00521,2026-03-23,LG Washing Machine,Home Appliances,Nashik,23182,18864,1
+ORD00522,2026-09-13,HP Pavilion 15,Laptop,Satara,61855,48734,2
+ORD00523,2026-05-15,Havells Iron,Home Appliances,Nashik,1870,1608,3
+ORD00524,2026-09-28,ASUS Vivobook 15,Laptop,Kolhapur,53859,39047,1
+ORD00525,2026-06-22,Havells Iron,Home Appliances,Nashik,1713,1497,2
+ORD00526,2026-06-18,MacBook Air M3,Laptop,Solapur,100669,78510,2
+ORD00527,2026-09-10,Prestige Induction Cooktop,Home Appliances,Satara,3528,2695,1
+ORD00528,2026-01-07,Vivo V40,Mobile,Chhatrapati Sambhajinagar,32795,27423,1
+ORD00529,2026-05-07,Dell Inspiron 14,Laptop,Mumbai,60720,53906,1
+ORD00530,2026-04-24,HP Keyboard,Accessories,Satara,1216,887,2
+ORD00531,2026-01-13,MacBook Air M3,Laptop,Satara,104538,77803,1
+ORD00532,2026-05-07,boAt Soundbar,TV & Audio,Solapur,7759,6196,1
+ORD00533,2026-09-24,Acer Aspire 5,Laptop,Nagpur,43364,33716,2
+ORD00534,2026-03-24,Dell Inspiron 14,Laptop,Pune,58506,41167,1
+ORD00535,2026-10-28,Mi TV 43 inch,TV & Audio,Chhatrapati Sambhajinagar,26690,21287,1
+ORD00536,2026-06-20,iPhone 15,Mobile,Mumbai,79469,56721,1
+ORD00537,2026-02-26,Havells Iron,Home Appliances,Kolhapur,1737,1296,1
+ORD00538,2026-03-14,Bajaj Fan,Home Appliances,Satara,2681,2159,2
+ORD00539,2026-06-10,iPhone 15,Mobile,Nagpur,76335,66645,1
+ORD00540,2026-01-04,Prestige Induction Cooktop,Home Appliances,Kolhapur,3281,2613,2
+ORD00541,2026-01-22,Samsung Soundbar,TV & Audio,Kolhapur,15960,12528,1
+ORD00542,2026-09-27,Mi TV 43 inch,TV & Audio,Kolhapur,26506,21235,1
+ORD00543,2026-04-11,Prestige Induction Cooktop,Home Appliances,Pune,3266,2973,2
+ORD00544,2026-02-07,Samsung Galaxy A55,Mobile,Nagpur,35489,26612,1
+ORD00545,2026-07-21,Mi TV 43 inch,TV & Audio,Pune,25727,18978,2
+ORD00546,2026-01-06,HP Pavilion 15,Laptop,Chhatrapati Sambhajinagar,62579,53006,1
+ORD00547,2026-07-15,Philips Mixer Grinder,Home Appliances,Satara,5054,4397,1
+ORD00548,2026-10-03,Sony Bravia 55 inch,TV & Audio,Mumbai,59966,46286,1
+ORD00549,2026-05-20,iPhone 15,Mobile,Pune,85372,76549,2
+ORD00550,2026-03-18,HP Keyboard,Accessories,Nagpur,1274,942,1
+ORD00551,2026-03-10,Acer Aspire 5,Laptop,Kolhapur,41257,30718,1
+ORD00552,2026-10-20,Vivo V40,Mobile,Satara,37097,32975,1
+ORD00553,2026-06-07,Prestige Induction Cooktop,Home Appliances,Satara,3530,3011,2
+ORD00554,2026-04-04,Bajaj Fan,Home Appliances,Nashik,2363,2059,2
+ORD00555,2026-08-21,Philips Mixer Grinder,Home Appliances,Pune,5275,3771,3
+ORD00556,2026-08-11,Noise Smartwatch,Accessories,Kolhapur,2791,2507,2
+ORD00557,2026-04-11,Acer Aspire 5,Laptop,Solapur,43034,38644,1
+ORD00558,2026-10-19,Sony Bravia 55 inch,TV & Audio,Kolhapur,66199,56451,1
+ORD00559,2026-07-09,HP Keyboard,Accessories,Kolhapur,1230,1047,2
+ORD00560,2026-06-25,Acer Aspire 5,Laptop,Chhatrapati Sambhajinagar,43555,31659,1
+ORD00561,2026-05-28,LG TV 32 inch,TV & Audio,Nashik,14989,11661,1
+ORD00562,2026-02-01,Bajaj Fan,Home Appliances,Mumbai,2404,1743,1
+ORD00563,2026-09-09,Prestige Induction Cooktop,Home Appliances,Solapur,3244,2563,2
+ORD00564,2026-05-05,Dell Inspiron 14,Laptop,Solapur,57975,41967,1
+ORD00565,2026-04-28,Prestige Induction Cooktop,Home Appliances,Nashik,3079,2586,1
+ORD00566,2026-03-24,Bajaj Fan,Home Appliances,Solapur,2477,2181,3
+ORD00567,2026-06-08,boAt Earbuds,Accessories,Mumbai,1431,1163,1
+ORD00568,2026-08-02,MacBook Air M3,Laptop,Mumbai,106512,89526,1
+ORD00569,2026-05-19,boAt Earbuds,Accessories,Nashik,1547,1246,2
+ORD00570,2026-02-17,boAt Soundbar,TV & Audio,Chhatrapati Sambhajinagar,7843,6202,2
+ORD00571,2026-08-26,Samsung Soundbar,TV & Audio,Solapur,15029,12660,2
+ORD00572,2026-02-17,Philips Mixer Grinder,Home Appliances,Chhatrapati Sambhajinagar,4996,4444,1
+ORD00573,2026-02-22,Lenovo IdeaPad Slim 3,Laptop,Nagpur,43686,36710,2
+ORD00574,2026-04-19,Sony Bravia 55 inch,TV & Audio,Nashik,67280,54770,1
+ORD00575,2026-03-21,Mi TV 43 inch,TV & Audio,Mumbai,25891,23091,1
+ORD00576,2026-07-20,Bajaj Fan,Home Appliances,Mumbai,2321,2003,1
+ORD00577,2026-08-06,boAt Earbuds,Accessories,Nagpur,1431,1126,1
+ORD00578,2026-10-22,LG TV 32 inch,TV & Audio,Chhatrapati Sambhajinagar,15075,11937,2
+ORD00579,2026-02-08,Acer Aspire 5,Laptop,Satara,43236,31004,1
+ORD00580,2026-09-22,Samsung Soundbar,TV & Audio,Satara,14051,12301,2
+ORD00581,2026-01-26,MacBook Air M3,Laptop,Pune,93531,76257,1
+ORD00582,2026-01-25,OnePlus Nord 4,Mobile,Satara,30764,22198,1
+ORD00583,2026-04-26,LG Washing Machine,Home Appliances,Solapur,21533,19605,1
+ORD00584,2026-10-04,Sony Bravia 55 inch,TV & Audio,Satara,65915,49891,2
+ORD00585,2026-05-20,Dell Inspiron 14,Laptop,Satara,58774,51066,2
+ORD00586,2026-09-04,Mi Power Bank 20000mAh,Accessories,Mumbai,1840,1392,1
+ORD00587,2026-02-05,boAt Soundbar,TV & Audio,Satara,7621,5663,1
+ORD00588,2026-10-09,Voltas AC 1.5 Ton,Home Appliances,Satara,33653,26992,1
+ORD00589,2026-09-18,ASUS Vivobook 15,Laptop,Solapur,53431,,1
+ORD00590,2026-03-28,Logitech Mouse,Accessories,Pune,804,603,1
+ORD00591,2026-09-13,ASUS Vivobook 15,Laptop,Kolhapur,55390,39391,1
+ORD00592,2026-01-26,Prestige Induction Cooktop,Home Appliances,Pune,3398,2598,1
+ORD00593,2026-04-12,ASUS Vivobook 15,Laptop,Pune,56600,46651,1
+ORD00594,2026-09-10,Philips Mixer Grinder,Home Appliances,Mumbai,5174,3701,1
+ORD00595,2026-09-10,Acer Aspire 5,Laptop,Nagpur,41952,38497,2
+ORD00596,2026-01-12,Vivo V40,Mobile,Nagpur,35058,26866,1
+ORD00597,2026-07-13,Samsung Galaxy A55,Mobile,Nagpur,30817,26481,1
+ORD00598,2026-05-24,Philips Mixer Grinder,Home Appliances,Kolhapur,5184,4691,1
+ORD00599,2026-07-19,Logitech Mouse,Accessories,Mumbai,760,538,1
+ORD00600,2026-05-11,Mi Power Bank 20000mAh,Accessories,Pune,1969,1765,1
+ORD00601,2026-08-13,Voltas AC 1.5 Ton,Home Appliances,Solapur,37095,27491,1
+ORD00602,2026-10-28,Dell Inspiron 14,Laptop,Mumbai,63343,51881,1
+ORD00603,2026-04-22,Mi TV 43 inch,TV & Audio,Nagpur,25952,21691,2
+ORD00604,2026-05-08,HP Keyboard,Accessories,Chhatrapati Sambhajinagar,1393,1123,1
+ORD00605,2026-03-16,OnePlus Nord 4,Mobile,Kolhapur,30832,22796,1
+ORD00606,2026-04-16,Mi Power Bank 20000mAh,Accessories,Nagpur,2125,1829,3
+ORD00607,2026-04-27,Acer Aspire 5,Laptop,Kolhapur,40257,34686,1
+ORD00608,2026-08-20,HP Pavilion 15,Laptop,Mumbai,59158,53404,3
+ORD00609,2026-10-28,Philips Mixer Grinder,Home Appliances,Chhatrapati Sambhajinagar,5273,4421,1
+ORD00610,2026-04-25,Samsung Soundbar,TV & Audio,Nashik,16151,11604,1
+ORD00611,2026-09-12,Vivo V40,Mobile,Satara,36674,29881,1
+ORD00612,2026-01-01,ASUS Vivobook 15,Laptop,Nagpur,57030,43707,1
+ORD00613,2026-03-18,LG TV 32 inch,TV & Audio,Chhatrapati Sambhajinagar,14968,12580,2
+ORD00614,2026-08-14,Dell Inspiron 14,Laptop,Nagpur,58719,46102,1
+ORD00615,2026-08-06,boAt Soundbar,TV & Audio,Nashik,8321,6987,1
+ORD00616,2026-04-18,Havells Iron,Home Appliances,Satara,1717,1542,1
+ORD00617,2026-01-06,Samsung Soundbar,TV & Audio,Satara,14140,10025,1
+ORD00618,2026-06-26,Samsung Soundbar,TV & Audio,Solapur,16178,11861,1
+ORD00619,2026-03-02,Logitech Mouse,Accessories,Nagpur,802,638,1
+ORD00620,2026-05-12,HP Keyboard,Accessories,Kolhapur,1369,1230,2
+ORD00621,2026-02-12,Prestige Induction Cooktop,Home Appliances,Nagpur,3522,3041,1
+ORD00622,2026-05-12,Prestige Induction Cooktop,Home Appliances,Kolhapur,3374,2704,3
+ORD00623,2026-10-10,LG Washing Machine,Home Appliances,Solapur,22956,18862,1
+ORD00624,2026-10-19,Lenovo IdeaPad Slim 3,Laptop,Satara,47024,33656,1
+ORD00625,2026-05-23,Redmi Note 13,Mobile,Chhatrapati Sambhajinagar,13241,11517,1
+ORD00626,2026-06-24,Havells Iron,Home Appliances,Solapur,1764,1278,2
+ORD00627,2026-05-24,Samsung Soundbar,TV & Audio,Pune,14231,13020,2
+ORD00628,2026-08-18,Lenovo IdeaPad Slim 3,Laptop,Mumbai,45232,40663,3
+ORD00629,2026-10-05,OnePlus Nord 4,Mobile,Pune,30114,21106,1
+ORD00630,2026-03-05,Sony Bravia 55 inch,TV & Audio,Nashik,62175,47112,1
+ORD00631,2026-08-15,Redmi Note 13,Mobile,Chhatrapati Sambhajinagar,14365,10497,1
+ORD00632,2026-10-20,LG Washing Machine,Home Appliances,Solapur,20706,14729,1
+ORD00633,2026-06-16,LG Washing Machine,Home Appliances,Nagpur,22072,17201,1
+ORD00634,2026-01-01,OnePlus Nord 4,Mobile,Nashik,29076,24113,1
+ORD00635,2026-08-10,Logitech Mouse,Accessories,Mumbai,791,726,3
+ORD00636,2026-04-14,Sony Bravia 55 inch,TV & Audio,Satara,65998,49149,1
+ORD00637,2026-07-08,Samsung Soundbar,TV & Audio,Chhatrapati Sambhajinagar,14182,10748,1
+ORD00638,2026-10-26,OnePlus Nord 4,Mobile,Chhatrapati Sambhajinagar,30600,24674,2
+ORD00639,2026-02-06,Noise Smartwatch,Accessories,Nashik,3115,2312,1
+ORD00640,2026-10-16,boAt Earbuds,Accessories,Nagpur,1531,1200,1
+ORD00641,2026-02-10,boAt Earbuds,Accessories,Chhatrapati Sambhajinagar,1415,1000,1
+ORD00642,2026-01-16,Acer Aspire 5,Laptop,Nagpur,41576,38175,1
+ORD00643,2026-08-23,HP Keyboard,Accessories,Mumbai,1259,937,3
+ORD00644,2026-07-03,boAt Earbuds,Accessories,Solapur,1581,1124,1
+ORD00645,2026-01-04,Lenovo IdeaPad Slim 3,Laptop,Nagpur,48901,42299,1
+ORD00646,2026-02-17,JBL Speaker,TV & Audio,Nagpur,9594,6727,1
+ORD00647,2026-01-24,JBL Speaker,TV & Audio,Pune,10289,8759,1
+ORD00648,2026-04-04,HP Keyboard,Accessories,Nagpur,1327,1163,2
+ORD00649,2026-07-26,Sony Bravia 55 inch,TV & Audio,Nagpur,59947,44675,1
+ORD00650,2026-03-12,Redmi Note 13,Mobile,Pune,14180,10891,1
+ORD00651,2026-01-02,Lenovo IdeaPad Slim 3,Laptop,Kolhapur,45989,35370,1
+ORD00652,2026-06-18,Acer Aspire 5,Laptop,Kolhapur,42234,37857,1
+ORD00653,2026-03-09,boAt Soundbar,TV & Audio,Mumbai,7606,5844,1
+ORD00654,2026-04-19,boAt Soundbar,TV & Audio,Nashik,7919,6772,1
+ORD00655,2026-10-28,Voltas AC 1.5 Ton,Home Appliances,Nashik,34002,27778,2
+ORD00656,2026-06-15,Vivo V40,Mobile,Mumbai,33067,28271,1
+ORD00657,2026-06-25,LG Washing Machine,Home Appliances,Nagpur,22812,16556,1
+ORD00658,2026-04-17,Noise Smartwatch,Accessories,Solapur,2789,1972,2
+ORD00659,2026-02-04,Bajaj Fan,Home Appliances,Pune,2544,2160,1
+ORD00660,2026-04-04,Samsung Galaxy A55,Mobile,Mumbai,31302,28582,1
+ORD00661,2026-10-09,Havells Iron,Home Appliances,Mumbai,1891,1466,1
+ORD00662,2026-04-21,Mi Power Bank 20000mAh,Accessories,Solapur,2032,1838,3
+ORD00663,2026-07-27,OnePlus Nord 4,Mobile,Kolhapur,31443,28508,1
+ORD00664,2026-05-03,Vivo V40,Mobile,Nagpur,33687,30691,1
+ORD00665,2026-04-17,Philips Mixer Grinder,Home Appliances,Nagpur,4676,4064,1
+ORD00666,2026-02-25,Havells Iron,Home Appliances,Kolhapur,1923,1533,1
+ORD00667,2026-03-18,boAt Soundbar,TV & Audio,Satara,8210,5959,1
+ORD00668,2026-06-11,Voltas AC 1.5 Ton,Home Appliances,Kolhapur,35871,28788,1
+ORD00669,2026-10-08,HP Keyboard,Accessories,Nagpur,1353,1117,2
+ORD00670,2026-08-13,LG TV 32 inch,TV & Audio,Mumbai,17080,14759,3
+ORD00671,2026-05-01,iPhone 15,Mobile,Chhatrapati Sambhajinagar,81124,65396,3
+ORD00672,2026-05-18,Lenovo IdeaPad Slim 3,Laptop,Nashik,48607,44486,2
+ORD00673,2026-10-08,Redmi Note 13,Mobile,Nagpur,13910,12319,1
+ORD00674,2026-02-24,Logitech Mouse,Accessories,Kolhapur,743,618,2
+ORD00675,2026-02-20,Samsung Soundbar,TV & Audio,Chhatrapati Sambhajinagar,14961,10805,2
+ORD00676,2026-06-12,Realme 12 Pro,Mobile,Satara,27281,22809,2
+ORD00677,2026-10-01,Mi TV 43 inch,TV & Audio,Satara,28596,24882,1
+ORD00678,2026-06-17,iPhone 15,Mobile,Nagpur,80211,68159,1
+ORD00679,2026-10-19,HP Pavilion 15,Laptop,Pune,64739,45355,3
+ORD00680,2026-02-16,ASUS Vivobook 15,Laptop,Mumbai,51207,42668,1
+ORD00681,2026-03-25,LG Washing Machine,Home Appliances,Nashik,21154,17607,1
+ORD00682,2026-09-20,LG TV 32 inch,TV & Audio,Nagpur,15217,12676,1
+ORD00683,2026-10-03,HP Pavilion 15,Laptop,Pune,60634,50046,1
+ORD00684,2026-01-25,JBL Speaker,TV & Audio,Chhatrapati Sambhajinagar,9783,8590,1
+ORD00685,2026-03-15,Dell Inspiron 14,Laptop,Mumbai,60086,42190,1
+ORD00686,2026-02-04,Lenovo IdeaPad Slim 3,Laptop,Mumbai,47353,41940,2
+ORD00687,2026-01-11,MacBook Air M3,Laptop,Pune,106816,77855,2
+ORD00688,2026-04-07,HP Keyboard,Accessories,Chhatrapati Sambhajinagar,1293,1095,2
+ORD00689,2026-01-13,LG Washing Machine,Home Appliances,Mumbai,22422,15733,1
+ORD00690,2026-05-02,Mi Power Bank 20000mAh,Accessories,Solapur,1858,1627,1
+ORD00691,2026-06-28,Redmi Note 13,Mobile,Pune,13749,11828,2
+ORD00692,2026-07-17,iPhone 15,Mobile,Pune,84596,65742,1
+ORD00693,2026-09-15,HP Keyboard,Accessories,Mumbai,1375,1104,1
+ORD00694,2026-03-01,Samsung Galaxy A55,Mobile,Kolhapur,35228,30047,1
+ORD00695,2026-09-09,Logitech Mouse,Accessories,Mumbai,810,703,3
+ORD00696,2026-09-09,HP Keyboard,Accessories,Nagpur,1380,1022,1
+ORD00697,2026-07-17,Dell Inspiron 14,Laptop,Nagpur,62738,48652,1
+ORD00698,2026-10-11,Samsung Soundbar,TV & Audio,Solapur,15164,12528,1
+ORD00699,2026-04-28,Bajaj Fan,Home Appliances,Nashik,2381,2118,1
+ORD00700,2026-03-21,Noise Smartwatch,Accessories,Nashik,3097,2492,1
+ORD00701,2026-06-27,boAt Earbuds,Accessories,Nashik,1512,1075,1
+ORD00702,2026-08-24,iPhone 15,Mobile,Chhatrapati Sambhajinagar,84759,70258,1
+ORD00703,2026-10-20,Lenovo IdeaPad Slim 3,Laptop,Chhatrapati Sambhajinagar,43096,37897,2
+ORD00704,2026-01-12,Prestige Induction Cooktop,Home Appliances,Pune,3354,2646,1
+ORD00705,2026-06-06,Samsung Soundbar,TV & Audio,Satara,14995,11801,2
+ORD00706,2026-01-09,JBL Speaker,TV & Audio,Satara,9419,8265,1
+ORD00707,2026-03-15,Acer Aspire 5,Laptop,Solapur,43141,37765,1
+ORD00708,2026-10-24,HP Keyboard,Accessories,Satara,1379,1139,2
+ORD00709,2026-09-21,HP Keyboard,Accessories,Mumbai,1322,1000,1
+ORD00710,2026-04-17,Philips Mixer Grinder,Home Appliances,Satara,4956,3658,1
+ORD00711,2026-04-10,Vivo V40,Mobile,Solapur,34368,25833,3
+ORD00712,2026-05-20,Sony Bravia 55 inch,TV & Audio,Mumbai,67835,58141,1
+ORD00713,2026-09-04,Bajaj Fan,Home Appliances,Nashik,2484,1932,1
+ORD00714,2026-01-06,Havells Iron,Home Appliances,Solapur,1808,1507,1
+ORD00715,2026-06-23,Havells Iron,Home Appliances,Nashik,1908,1385,1
+ORD00716,2026-09-23,Redmi Note 13,Mobile,Satara,13134,10785,1
+ORD00717,2026-03-11,Prestige Induction Cooktop,Home Appliances,Nashik,3532,2955,1
+ORD00718,2026-05-24,Lenovo IdeaPad Slim 3,Laptop,Solapur,43626,33302,1
+ORD00719,2026-01-20,Noise Smartwatch,Accessories,Chhatrapati Sambhajinagar,2845,2055,3
+ORD00720,2026-10-16,OnePlus Nord 4,Mobile,Nagpur,29987,24298,2
+ORD00721,2026-10-20,MacBook Air M3,Laptop,Mumbai,102541,84102,1
+ORD00722,2026-04-02,MacBook Air M3,Laptop,Nashik,96440,75387,2
+ORD00723,2026-10-27,HP Pavilion 15,Laptop,Chhatrapati Sambhajinagar,64534,58850,2
+ORD00724,2026-05-20,boAt Earbuds,Accessories,Nashik,1390,1151,1
+ORD00725,2026-05-11,boAt Soundbar,TV & Audio,Kolhapur,8100,5792,1
+ORD00726,2026-08-05,Mi TV 43 inch,TV & Audio,Pune,28115,20650,1
+ORD00727,2026-10-02,Logitech Mouse,Accessories,Pune,798,642,1
+ORD00728,2026-10-26,Havells Iron,Home Appliances,Chhatrapati Sambhajinagar,1932,1553,1
+ORD00729,2026-10-12,LG TV 32 inch,TV & Audio,Nashik,16879,14564,1
+ORD00730,2026-03-20,Prestige Induction Cooktop,Home Appliances,Nagpur,3293,2501,1
+ORD00731,2026-02-24,Mi Power Bank 20000mAh,Accessories,Nagpur,1839,1682,1
+ORD00732,2026-04-01,LG Washing Machine,Home Appliances,Nagpur,21687,18359,1
+ORD00733,2026-06-25,Logitech Mouse,Accessories,Mumbai,831,708,1
+ORD00734,2026-01-27,Realme 12 Pro,Mobile,Nashik,25305,21076,1
+ORD00735,2026-08-26,Dell Inspiron 14,Laptop,Mumbai,62140,44560,1
+ORD00736,2026-06-15,ASUS Vivobook 15,Laptop,Satara,50068,40989,2
+ORD00737,2026-09-01,Vivo V40,Mobile,Nagpur,33875,25762,1
+ORD00738,2026-02-05,Havells Iron,Home Appliances,Chhatrapati Sambhajinagar,1746,1254,2
+ORD00739,2026-10-20,iPhone 15,Mobile,Satara,86082,67331,2
+ORD00740,2026-06-23,MacBook Air M3,Laptop,Mumbai,93860,70196,1
+ORD00741,2026-05-07,HP Keyboard,Accessories,Chhatrapati Sambhajinagar,1213,882,1
+ORD00742,2026-02-15,HP Pavilion 15,Laptop,Mumbai,61722,56276,1
+ORD00743,2026-09-10,LG TV 32 inch,TV & Audio,Kolhapur,15104,12766,1
+ORD00744,2026-03-07,HP Pavilion 15,Laptop,Mumbai,66236,47268,1
+ORD00745,2026-01-22,JBL Speaker,TV & Audio,Pune,10340,8325,1
+ORD00746,2026-05-01,HP Keyboard,Accessories,Chhatrapati Sambhajinagar,1379,1237,2
+ORD00747,2026-08-22,Dell Inspiron 14,Laptop,Pune,56163,48129,1
+ORD00748,2026-09-17,Mi Power Bank 20000mAh,Accessories,Pune,1889,1690,3
+ORD00749,2026-05-19,MacBook Air M3,Laptop,Nagpur,97595,82949,1
+ORD00750,2026-01-05,HP Pavilion 15,Laptop,Mumbai,61088,44210,1
+ORD00751,2026-07-06,boAt Soundbar,TV & Audio,Solapur,7423,6203,1
+ORD00752,2026-09-03,Voltas AC 1.5 Ton,Home Appliances,Solapur,33939,25120,2
+ORD00753,2026-02-15,Bajaj Fan,Home Appliances,Chhatrapati Sambhajinagar,2336,1737,1
+ORD00754,2026-10-09,JBL Speaker,TV & Audio,Kolhapur,9569,8332,2
+ORD00755,2026-06-15,Samsung Soundbar,TV & Audio,Solapur,15468,11967,2
+ORD00756,2026-03-10,Redmi Note 13,Mobile,Kolhapur,13943,11750,1
+ORD00757,2026-02-11,Prestige Induction Cooktop,Home Appliances,Pune,3098,2780,2
+ORD00758,2026-04-18,Samsung Charger 25W,Accessories,Nashik,1489,1176,1
+ORD00759,2026-07-26,JBL Speaker,TV & Audio,Satara,9304,8133,1
+ORD00760,2026-02-24,Voltas AC 1.5 Ton,Home Appliances,Solapur,35239,30589,1
+ORD00761,2026-08-06,Vivo V40,Mobile,Chhatrapati Sambhajinagar,35537,30150,1
+ORD00762,2026-07-11,Mi TV 43 inch,TV & Audio,Solapur,27423,21093,1
+ORD00763,2026-01-25,Redmi Note 13,Mobile,Nashik,13366,11888,1
+ORD00764,2026-04-07,ASUS Vivobook 15,Laptop,Kolhapur,53254,44425,1
+ORD00765,2026-07-23,Samsung Charger 25W,Accessories,Kolhapur,1569,1209,2
+ORD00766,2026-03-28,Vivo V40,Mobile,Chhatrapati Sambhajinagar,32244,22667,1
+ORD00767,2026-09-27,iPhone 15,Mobile,Kolhapur,85027,60119,1
+ORD00768,2026-07-21,iPhone 15,Mobile,Kolhapur,84574,73431,2
+ORD00769,2026-08-05,JBL Speaker,TV & Audio,Nagpur,9809,7848,1
+ORD00770,2026-05-28,LG Washing Machine,Home Appliances,Nashik,23197,19503,1
+ORD00771,2026-08-22,HP Pavilion 15,Laptop,Satara,58673,53776,2
+ORD00772,2026-10-14,HP Pavilion 15,Laptop,Nashik,59333,44066,2
+ORD00773,2026-04-06,LG TV 32 inch,TV & Audio,Satara,15795,,1
+ORD00774,2026-09-09,Philips Mixer Grinder,Home Appliances,Satara,5057,3710,1
+ORD00775,2026-06-04,Prestige Induction Cooktop,Home Appliances,Solapur,3224,2272,1
+ORD00776,2026-05-15,Samsung Galaxy A55,Mobile,Pune,34214,27515,2
+ORD00777,2026-02-22,Prestige Induction Cooktop,Home Appliances,Chhatrapati Sambhajinagar,3078,2512,2
+ORD00778,2026-08-17,Philips Mixer Grinder,Home Appliances,Solapur,5317,4266,1
+ORD00779,2026-05-10,Havells Iron,Home Appliances,Nashik,1746,1471,3
+ORD00780,2026-10-09,Realme 12 Pro,Mobile,Mumbai,27758,20961,2
+ORD00781,2026-10-01,LG TV 32 inch,TV & Audio,Chhatrapati Sambhajinagar,15143,13760,3
+ORD00782,2026-05-05,Mi TV 43 inch,TV & Audio,Chhatrapati Sambhajinagar,25386,22926,2
+ORD00783,2026-10-24,Logitech Mouse,Accessories,Nashik,733,656,1
+ORD00784,2026-08-06,Sony Bravia 55 inch,TV & Audio,Mumbai,68191,58816,2
+ORD00785,2026-08-25,boAt Earbuds,Accessories,Satara,1611,1271,2
+ORD00786,2026-10-24,Samsung Soundbar,TV & Audio,Kolhapur,15375,11689,1
+ORD00787,2026-08-13,Realme 12 Pro,Mobile,Solapur,25018,18506,1
+ORD00788,2026-07-22,HP Keyboard,Accessories,Satara,1350,1019,1
+ORD00789,2026-08-13,Sony Bravia 55 inch,TV & Audio,Kolhapur,61300,44659,1
+ORD00790,2026-06-28,Havells Iron,Home Appliances,Satara,1925,1730,1
+ORD00791,2026-02-09,Havells Iron,Home Appliances,Satara,1897,1605,1
+ORD00792,2026-04-17,boAt Soundbar,TV & Audio,Kolhapur,8317,6308,1
+ORD00793,2026-01-14,Dell Inspiron 14,Laptop,Pune,59439,45886,2
+ORD00794,2026-05-07,Philips Mixer Grinder,Home Appliances,Mumbai,5143,4334,2
+ORD00795,2026-04-20,Vivo V40,Mobile,Pune,32713,23342,1
+ORD00796,2026-10-26,Redmi Note 13,Mobile,Nashik,14797,13190,1
+ORD00797,2026-02-21,Realme 12 Pro,Mobile,Solapur,24685,21110,1
+ORD00798,2026-05-06,HP Keyboard,Accessories,Pune,1338,1034,2
+ORD00799,2026-05-06,boAt Earbuds,Accessories,Solapur,1470,1245,1
+ORD00800,2026-08-04,OnePlus Nord 4,Mobile,Nashik,32300,28290,1
+ORD00801,2026-05-04,LG Washing Machine,Home Appliances,Mumbai,20999,16347,2
+ORD00802,2026-08-05,Redmi Note 13,Mobile,Mumbai,14158,12245,1
+ORD00803,2026-07-19,Realme 12 Pro,Mobile,Mumbai,25543,22648,1
+ORD00804,2026-02-18,Havells Iron,Home Appliances,Nagpur,1921,1560,1
+ORD00805,2026-10-18,OnePlus Nord 4,Mobile,Kolhapur,32178,23813,1
+ORD00806,2026-02-12,Noise Smartwatch,Accessories,Kolhapur,2904,2636,3
+ORD00807,2026-09-02,OnePlus Nord 4,Mobile,Satara,31249,26756,1
+ORD00808,2026-06-16,Dell Inspiron 14,Laptop,Pune,60838,43972,1
+ORD00809,2026-10-08,boAt Soundbar,TV & Audio,Solapur,7601,6933,-1
+ORD00810,2026-08-01,Mi TV 43 inch,TV & Audio,Mumbai,28263,22001,1
+ORD00811,2026-04-26,boAt Earbuds,Accessories,Solapur,1460,1112,1
+ORD00812,2026-03-16,Bajaj Fan,Home Appliances,Mumbai,2595,2254,1
+ORD00813,2026-03-21,LG TV 32 inch,TV & Audio,Mumbai,14827,11353,1
+ORD00814,2026-02-04,boAt Earbuds,Accessories,Solapur,1488,1313,1
+ORD00815,2026-07-11,Prestige Induction Cooktop,Home Appliances,Pune,3147,2338,1
+ORD00816,2026-01-19,Prestige Induction Cooktop,Home Appliances,Nashik,3103,2284,2
+ORD00817,2026-06-18,boAt Earbuds,Accessories,Nashik,1408,1252,1
+ORD00818,2026-10-13,Samsung Soundbar,TV & Audio,Nashik,16010,14586,1
+ORD00819,2026-10-10,OnePlus Nord 4,Mobile,Satara,27986,25703,3
+ORD00820,2026-08-14,boAt Soundbar,TV & Audio,Nagpur,7521,6683,1
+ORD00821,2026-10-03,MacBook Air M3,Laptop,Chhatrapati Sambhajinagar,103056,81293,2
+ORD00822,2026-09-04,HP Keyboard,Accessories,Kolhapur,1196,1038,1
+ORD00823,2026-05-02,Prestige Induction Cooktop,Home Appliances,Nagpur,3147,2362,1
+ORD00824,2026-03-06,Samsung Galaxy A55,Mobile,Mumbai,33977,24019,1
+ORD00825,2026-10-26,Realme 12 Pro,Mobile,Solapur,25434,22227,1
+ORD00826,2026-01-16,Redmi Note 13,Mobile,Pune,14537,10416,1
+ORD00827,2026-04-24,Samsung Galaxy A55,Mobile,Kolhapur,34167,26978,1
+ORD00828,2026-04-13,HP Pavilion 15,Laptop,Nagpur,61237,55017,2
+ORD00829,2026-04-20,OnePlus Nord 4,Mobile,Solapur,30407,27611,1
+ORD00830,2026-06-09,ASUS Vivobook 15,Laptop,Nagpur,51917,42535,1
+ORD00831,2026-02-28,Mi Power Bank 20000mAh,Accessories,Solapur,1849,1470,1
+ORD00832,2026-10-06,JBL Speaker,TV & Audio,Nashik,9472,7998,2
+ORD00833,2026-08-28,Prestige Induction Cooktop,Home Appliances,Nagpur,3482,3137,2
+ORD00834,2026-04-08,LG Washing Machine,Home Appliances,Kolhapur,23175,19898,2
+ORD00835,2026-10-01,LG TV 32 inch,mobile,Satara,15279,10939,3
+ORD00836,2026-07-17,Redmi Note 13,Mobile,Satara,15099,11455,1
+ORD00837,2026-09-25,boAt Soundbar,TV & Audio,Mumbai,8410,6900,1
+ORD00838,2026-02-01,Samsung Soundbar,TV & Audio,Solapur,14109,12062,1
+ORD00839,2026-01-15,Mi Power Bank 20000mAh,Accessories,Solapur,2064,1509,2
+ORD00840,2026-08-23,Acer Aspire 5,Laptop,Mumbai,41354,30860,1
+ORD00841,2026-07-25,OnePlus Nord 4,Mobile,Chhatrapati Sambhajinagar,31887,27001,1
+ORD00842,2026-10-11,Prestige Induction Cooktop,Home Appliances,Mumbai,3334,2915,1
+ORD00843,2026-08-20,Havells Iron,Home Appliances,Mumbai,1755,1595,1
+ORD00844,2026-04-05,Logitech Mouse,Accessories,Kolhapur,753,600,1
+ORD00845,2026-10-28,MacBook Air M3,Laptop,Nagpur,93807,76428,3
+ORD00846,2026-05-02,Dell Inspiron 14,Laptop,Pune,57599,49603,1
+ORD00847,2026-08-23,Logitech Mouse,Accessories,Chhatrapati Sambhajinagar,788,638,2
+ORD00848,2026-02-07,LG TV 32 inch,TV & Audio,Solapur,15652,12081,1
+ORD00849,2026-02-04,Redmi Note 13,Mobile,Nashik,13754,12113,3
+ORD00850,2026-09-21,boAt Earbuds,Accessories,Mumbai,1546,1254,2
+ORD00851,2026-06-14,HP Keyboard,Accessories,Solapur,1396,1118,1
+ORD00852,2026-09-21,iPhone 15,Mobile,Kolhapur,75924,69482,2
+ORD00853,2026-10-22,LG TV 32 inch,TV & Audio,Solapur,15587,12125,1
+ORD00854,2026-05-08,Sony Bravia 55 inch,TV & Audio,Solapur,65689,47452,1
+ORD00855,2026-08-06,Logitech Mouse,Accessories,Nashik,829,754,1
+ORD00856,2026-03-06,Voltas AC 1.5 Ton,Home Appliances,Nagpur,33211,29273,2
+ORD00857,2026-06-06,Redmi Note 13,Mobile,Nagpur,15104,11987,1
+ORD00858,2026-06-15,Havells Iron,Home Appliances,Nashik,1661,1412,1
+ORD00859,2026-03-15,Voltas AC 1.5 Ton,Home Appliances,Kolhapur,32870,30060,3
+ORD00860,2026-05-16,HP Pavilion 15,Laptop,Chhatrapati Sambhajinagar,67728,54172,1
+ORD00861,2026-08-11,Havells Iron,Home Appliances,Pune,1693,1347,2
+ORD00862,2026-07-20,Mi TV 43 inch,TV & Audio,Nagpur,25441,20322,1
+ORD00863,2026-10-17,Sony Bravia 55 inch,TV & Audio,Nagpur,60752,55156,1
+ORD00864,2026-02-17,Mi Power Bank 20000mAh,Accessories,Satara,1846,1480,1
+ORD00865,2026-06-13,ASUS Vivobook 15,Laptop,Nashik,51444,40480,3
+ORD00866,2026-05-15,Sony Bravia 55 inch,TV & Audio,Pune,63805,58529,1
+ORD00867,2026-08-10,Acer Aspire 5,Laptop,Nashik,44595,33752,1
+ORD00868,2026-02-05,boAt Soundbar,TV & Audio,Nagpur,8506,7564,1
+ORD00869,2026-10-25,HP Keyboard,Accessories,Satara,1400,1126,1
+ORD00870,2026-09-15,Redmi Note 13,Mobile,Nashik,13796,9917,1
+ORD00871,2026-05-27,Lenovo IdeaPad Slim 3,Laptop,Chhatrapati Sambhajinagar,48435,41476,1
+ORD00872,2026-03-09,LG TV 32 inch,TV & Audio,Chhatrapati Sambhajinagar,16603,14455,2
+ORD00873,2026-08-23,Mi TV 43 inch,TV & Audio,Nagpur,27663,20017,1
+ORD00874,2026-10-24,Redmi Note 13,Mobile,Kolhapur,14591,11841,3
+ORD00875,2026-08-23,LG Washing Machine,Home Appliances,Pune,22220,16198,1
+ORD00876,2026-10-02,Samsung Charger 25W,Accessories,Nashik,1554,1424,1
+ORD00877,2026-05-12,HP Keyboard,Accessories,Satara,1377,1226,1
+ORD00878,2026-09-07,boAt Earbuds,Accessories,Nashik,1448,1163,3
+ORD00879,2026-05-09,Vivo V40,Mobile,Kolhapur,36413,29144,2
+ORD00880,2026-09-10,Vivo V40,Mobile,Kolhapur,35447,26191,1
+ORD00881,2026-03-17,JBL Speaker,TV & Audio,Nagpur,9743,7011,1
+ORD00882,2026-09-23,MacBook Air M3,Laptop,Pune,101804,75039,1
+ORD00883,2026-01-16,JBL Speaker,TV & Audio,Kolhapur,10664,9537,1
+ORD00884,2026-10-17,Noise Smartwatch,Accessories,Kolhapur,2933,2171,2
+ORD00885,2026-03-28,Acer Aspire 5,Laptop,Nashik,40677,30761,1
+ORD00886,2026-02-03,Dell Inspiron 14,Laptop,Mumbai,55453,49428,1
+ORD00887,2026-09-19,JBL Speaker,TV & Audio,Mumbai,9267,8306,2
+ORD00888,2026-01-25,Mi TV 43 inch,TV & Audio,Pune,28763,26188,1
+ORD00889,2026-06-01,Vivo V40,Mobile,Pune,33349,24069,1
+ORD00890,2026-03-28,Acer Aspire 5,Laptop,Nagpur,44958,31977,1
+ORD00891,2026-09-07,Prestige Induction Cooktop,Home Appliances,Nagpur,3067,2269,2
+ORD00892,2026-02-07,Mi Power Bank 20000mAh,Accessories,Solapur,2127,1705,3
+ORD00893,2026-03-27,Noise Smartwatch,Accessories,Kolhapur,3041,2504,3
+ORD00894,2026-06-04,JBL Speaker,TV & Audio,Solapur,9541,8300,1
+ORD00895,2026-09-24,Vivo V40,Mobile,Mumbai,32960,24796,2
+ORD00896,2026-05-22,iPhone 15,Mobile,Solapur,79819,66677,1
+ORD00897,2026-02-27,MacBook Air M3,Laptop,Solapur,98506,69280,1
+ORD00898,2026-07-15,Mi Power Bank 20000mAh,Accessories,Pune,1843,1422,1
+ORD00899,2026-03-03,Samsung Galaxy A55,Mobile,Kolhapur,32443,24887,3
+ORD00900,2026-04-27,Dell Inspiron 14,Laptop,Satara,56160,41239,1
+ORD00901,2026-07-12,Sony Bravia 55 inch,TV & Audio,Solapur,67743,50908,1
+ORD00902,2026-08-04,LG Washing Machine,Home Appliances,Pune,23705,19142,1
+ORD00903,2026-02-24,HP Keyboard,Accessories,Mumbai,1298,1015,1
+ORD00904,2026-06-05,OnePlus Nord 4,Mobile,Chhatrapati Sambhajinagar,30853,21787,1
+ORD00905,2026-08-26,Prestige Induction Cooktop,Home Appliances,Solapur,3082,2784,2
+ORD00906,2026-06-26,Dell Inspiron 14,Laptop,Mumbai,60519,49150,1
+ORD00907,2026-07-15,OnePlus Nord 4,Mobile,Solapur,31823,28443,1
+ORD00908,2026-03-16,Redmi Note 13,Mobile,Satara,13275,10287,2
+ORD00909,2026-08-22,Dell Inspiron 14,Laptop,Solapur,61026,49599,1
+ORD00910,2026-08-19,LG TV 32 inch,TV & Audio,Satara,16896,13661,1
+ORD00911,2026-01-19,Havells Iron,Home Appliances,Mumbai,1752,1235,1
+ORD00912,2026-06-13,Dell Inspiron 14,Laptop,Pune,57563,43561,1
+ORD00913,2026-04-08,Sony Bravia 55 inch,TV & Audio,Nagpur,70105,58143,1
+ORD00914,2026-02-11,Samsung Charger 25W,Accessories,Nashik,1399,1075,2
+ORD00915,2026-10-17,Vivo V40,Mobile,Satara,34025,27853,2
+ORD00916,2026-07-19,boAt Earbuds,Accessories,Satara,1545,1222,3
+ORD00917,2026-04-11,Samsung Charger 25W,Accessories,Solapur,1402,1139,1
+ORD00918,2026-07-07,Havells Iron,Home Appliances,Solapur,1748,1372,1
+ORD00919,2026-10-13,Vivo V40,Mobile,Nagpur,33397,28777,1
+ORD00920,2026-10-11,Havells Iron,Home Appliances,Chhatrapati Sambhajinagar,1926,1468,1
+ORD00921,2026-02-21,Vivo V40,Mobile,Chhatrapati Sambhajinagar,36685,29914,1
+ORD00922,2026-07-09,Voltas AC 1.5 Ton,Home Appliances,Solapur,34614,27733,1
+ORD00923,2026-03-19,Bajaj Fan,Home Appliances,Solapur,2651,2073,1
+ORD00924,2026-09-26,Acer Aspire 5,Laptop,Satara,45094,34123,1
+ORD00925,2026-03-08,Havells Iron,Home Appliances,Nashik,1831,1474,1
+ORD00926,2026-04-28,HP Keyboard,Accessories,Satara,1280,935,2
+ORD00927,2026-07-08,Logitech Mouse,Accessories,Pune,813,702,1
+ORD00928,2026-08-18,Lenovo IdeaPad Slim 3,Laptop,Satara,42514,31658,1
+ORD00929,2026-01-09,boAt Soundbar,TV & Audio,Chhatrapati Sambhajinagar,8518,7458,1
+ORD00930,2026-01-02,Bajaj Fan,Home Appliances,Pune,2556,2328,2
+ORD00931,2026-06-22,Samsung Charger 25W,Accessories,Pune,1450,1314,3
+ORD00932,2026-09-04,boAt Soundbar,TV & Audio,Chhatrapati Sambhajinagar,8437,7324,1
+ORD00933,2026-06-27,Mi TV 43 inch,TV & Audio,Satara,25867,23102,2
+ORD00934,2026-05-15,ASUS Vivobook 15,Laptop,Satara,50599,45362,1
+ORD00935,2026-02-11,Samsung Charger 25W,Accessories,Satara,1392,1117,1
+ORD00936,2026-03-12,boAt Soundbar,TV & Audio,Solapur,7674,6591,2
+ORD00937,2026-01-23,Logitech Mouse,Accessories,Nagpur,734,519,1
+ORD00938,2026-02-18,Samsung Charger 25W,Accessories,Nagpur,1471,1147,2
+ORD00939,2026-05-10,JBL Speaker,TV & Audio,Pune,9211,6527,3
+ORD00940,2026-06-26,Dell Inspiron 14,Laptop,Satara,56256,40738,2
+ORD00941,2026-08-24,iPhone 15,Mobile,Satara,84584,62499,3
+ORD00942,2026-03-23,Noise Smartwatch,Accessories,Chhatrapati Sambhajinagar,2961,2126,1
+ORD00943,2026-06-15,Philips Mixer Grinder,Home Appliances,Mumbai,4876,3840,2
+ORD00944,2026-03-01,Realme 12 Pro,Mobile,Satara,26588,,2
+ORD00945,2026-04-17,Acer Aspire 5,Laptop,Nashik,40683,32275,1
+ORD00946,2026-03-09,Havells Iron,Home Appliances,Nashik,1769,1262,1
+ORD00947,2026-03-13,Voltas AC 1.5 Ton,Home Appliances,Satara,36666,32130,1
+ORD00948,2026-10-21,Bajaj Fan,Home Appliances,Nagpur,2307,2111,1
+ORD00949,2026-07-20,OnePlus Nord 4,Mobile,Satara,28550,21861,1
+ORD00950,2026-10-04,Voltas AC 1.5 Ton,Home Appliances,Mumbai,33026,23423,1
+ORD00951,2026-08-04,LG Washing Machine,Home Appliances,Nagpur,22951,16428,2
+ORD00952,2026-08-13,Lenovo IdeaPad Slim 3,Laptop,Nashik,49272,36513,1
+ORD00953,2026-04-14,Samsung Soundbar,TV & Audio,Nashik,15230,10677,1
+ORD00954,2026-08-08,Samsung Soundbar,TV & Audio,Kolhapur,13859,9774,1
+ORD00955,2026-06-23,Havells Iron,Home Appliances,Satara,1837,1655,1
+ORD00956,2026-02-04,Acer Aspire 5,Laptop,Mumbai,41207,34073,1
+ORD00957,2026-10-22,iPhone 15,Mobile,Mumbai,85410,69728,1
+ORD00958,2026-06-05,iPhone 15,Mobile,Mumbai,79958,66860,3
+ORD00959,2026-08-05,Bajaj Fan,Home Appliances,Pune,2403,1944,3
+ORD00960,2026-01-05,Noise Smartwatch,Accessories,Solapur,3013,2678,1
+ORD00961,2026-05-20,Noise Smartwatch,Accessories,Chhatrapati Sambhajinagar,2932,2420,2
+ORD00962,2026-08-25,Voltas AC 1.5 Ton,Home Appliances,Nashik,34630,30603,2
+ORD00963,2026-01-08,Havells Iron,Home Appliances,Nashik,1834,1510,1
+ORD00964,2026-08-02,OnePlus Nord 4,Mobile,Solapur,28848,22060,1
+ORD00965,2026-03-04,Noise Smartwatch,Accessories,Kolhapur,3028,2481,1
+ORD00966,2026-09-27,Samsung Galaxy A55,Mobile,Chhatrapati Sambhajinagar,34942,30758,1
+ORD00967,2026-09-25,Havells Iron,Home Appliances,Nashik,1819,1440,3
+ORD00968,2026-06-01,Mi TV 43 inch,TV & Audio,Chhatrapati Sambhajinagar,25902,20991,1
+ORD00969,2026-06-05,OnePlus Nord 4,Mobile,Mumbai,29392,21033,1
+ORD00970,2026-05-20,OnePlus Nord 4,Mobile,Mumbai,31586,24476,1
+ORD00971,2026-10-05,boAt Earbuds,Accessories,Nagpur,1536,1092,1
+ORD00972,2026-09-20,Realme 12 Pro,Mobile,Satara,25096,18682,2
+ORD00973,2026-07-03,OnePlus Nord 4,Mobile,Mumbai,28823,24995,2
+ORD00974,2026-03-04,Lenovo IdeaPad Slim 3,Laptop,Chhatrapati Sambhajinagar,45169,37557,1
+ORD00975,2026-10-05,JBL Speaker,TV & Audio,Kolhapur,10376,7442,2
+ORD00976,2026-08-09,iPhone 15,Mobile,Satara,80061,65032,2
+ORD00977,2026-07-03,OnePlus Nord 4,Mobile,Mumbai,31491,24719,1
+ORD00978,2026-03-16,Voltas AC 1.5 Ton,Home Appliances,Pune,37639,29027,1
+ORD00979,2026-03-05,HP Keyboard,Accessories,Chhatrapati Sambhajinagar,1285,926,1
+ORD00980,2026-01-17,MacBook Air M3,Laptop,Pune,98833,78565,1
+ORD00981,2026-05-12,LG Washing Machine,Home Appliances,Chhatrapati Sambhajinagar,21683,17732,2
+ORD00982,2026-08-06,Philips Mixer Grinder,Home Appliances,Nashik,5209,4774,2
+ORD00983,2026-10-24,Mi TV 43 inch,TV & Audio,Solapur,25198,18322,1
+ORD00984,2026-03-07,LG TV 32 inch,TV & Audio,Nashik,16777,14175,2
+ORD00985,2026-07-18,Realme 12 Pro,Mobile,Mumbai,28004,24166,1
+ORD00986,2026-07-28,OnePlus Nord 4,Mobile,Solapur,28159,24842,1
+ORD00987,2026-07-26,Samsung Charger 25W,Accessories,Chhatrapati Sambhajinagar,1574,1235,1
+ORD00988,2026-04-28,Samsung Galaxy A55,Mobile,Mumbai,31072,27282,2
+ORD00989,2026-09-07,ASUS Vivobook 15,Laptop,Pune,54250,42155,1
+ORD00990,2026-03-24,HP Keyboard,Accessories,Solapur,1225,1013,1
+ORD00991,2026-05-19,JBL Speaker,TV & Audio,Satara,9230,7579,1
+ORD00992,2026-07-28,iPhone 15,Mobile,Solapur,73608,57511,2
+ORD00993,2026-07-16,Prestige Induction Cooktop,Home Appliances,Solapur,3416,2392,1
+ORD00994,2026-09-03,Acer Aspire 5,Laptop,Chhatrapati Sambhajinagar,39038,35752,1
+ORD00995,2026-08-23,JBL Speaker,TV & Audio,Satara,9386,7349,1
+ORD00996,2026-04-17,Samsung Galaxy A55,Mobile,Nagpur,31879,27981,1
+ORD00997,2026-08-05,Havells Iron,Home Appliances,Chhatrapati Sambhajinagar,1748,1377,2
+ORD00998,2026-08-26,JBL Speaker,TV & Audio,Nashik,10531,8129,2
+ORD00999,2026-03-06,Bajaj Fan,Home Appliances,Nagpur,2412,1821,1
+ORD01000,2026-08-10,MacBook Air M3,Laptop,Nagpur,99864,74442,3
+ORD01001,2026-06-22,MacBook Air M3,Laptop,Nashik,92743,84954,2
+ORD01002,2026-10-08,MacBook Air M3,Laptop,Pune,92502,83806,1
+ORD01003,2026-01-25,Bajaj Fan,Home Appliances,Chhatrapati Sambhajinagar,2493,1749,2
+ORD01004,2026-01-15,Acer Aspire 5,Laptop,Solapur,44500,,1
+ORD01005,2026-02-27,Redmi Note 13,Mobile,Mumbai,14629,11497,2
+ORD01006,2026-06-06,Philips Mixer Grinder,Home Appliances,Chhatrapati Sambhajinagar,4728,4227,1
+ORD01007,2026-06-11,LG TV 32 inch,TV & Audio,Nashik,15985,11645,1
+ORD01008,2026-04-27,Samsung Galaxy A55,Mobile,Solapur,32677,27074,2
+ORD01009,2026-07-12,Logitech Mouse,Accessories,Nagpur,795,716,1
+ORD01010,2026-07-14,MacBook Air M3,Laptop,Solapur,98737,85881,2
+ORD01011,2026-01-23,Havells Iron,Home Appliances,Pune,1755,1603,1
+ORD01012,2026-01-13,iPhone 15,Mobile,Mumbai,77532,54580,1
+ORD01013,2026-09-10,MacBook Air M3,Laptop,Satara,92915,72571,2
+ORD01014,2026-06-12,boAt Soundbar,TV & Audio,Mumbai,8255,6008,2
+ORD01015,2026-04-18,Samsung Charger 25W,Accessories,Solapur,1525,1354,1
+ORD01016,2026-01-18,Noise Smartwatch,Accessories,Kolhapur,2953,2589,1
+ORD01017,2026-09-10,boAt Soundbar,TV & Audio,Nagpur,8279,6014,1
+ORD01018,2026-03-01,Vivo V40,Mobile,Mumbai,35288,28418,2
+ORD01019,2026-07-17,Prestige Induction Cooktop,Home Appliances,Pune,3167,2334,1
+ORD01020,2026-02-15,iPhone 15,Mobile,Chhatrapati Sambhajinagar,76828,62104,1
+ORD01021,2026-10-19,Havells Iron,Home Appliances,Nagpur,1652,1397,1
+ORD01022,2026-03-23,Logitech Mouse,Accessories,Satara,767,573,2
+ORD01023,2026-06-15,Havells Iron,Home Appliances,Pune,1722,1460,1
+ORD01024,2026-07-05,Acer Aspire 5,Laptop,Solapur,41490,34410,1
+ORD01025,2026-09-17,ASUS Vivobook 15,Laptop,Satara,49412,38102,1
+ORD01026,2026-08-24,Samsung Charger 25W,Accessories,Satara,1498,1239,1
+ORD01027,2026-09-28,Lenovo IdeaPad Slim 3,Laptop,Pune,46032,37440,1
+ORD01028,2026-06-04,ASUS Vivobook 15,Laptop,Satara,52764,39877,3
+ORD01029,2026-02-12,Redmi Note 13,Mobile,Chhatrapati Sambhajinagar,13706,11736,1
+ORD01030,2026-10-14,Logitech Mouse,Accessories,Mumbai,768,702,1
+ORD01031,2026-02-18,Logitech Mouse,Accessories,Kolhapur,758,561,1
+ORD01032,2026-06-26,Redmi Note 13,Mobile,Satara,13814,10967,1
+ORD01033,2026-08-25,boAt Soundbar,TV & Audio,Solapur,8426,7506,1
+ORD01034,2026-10-14,Samsung Soundbar,TV & Audio,Satara,15868,13463,2
+ORD01035,2026-08-24,ASUS Vivobook 15,Laptop,Chhatrapati Sambhajinagar,51624,46974,1
+ORD01036,2026-05-18,Samsung Galaxy A55,Mobile,Pune,34093,27075,2
+ORD01037,2026-01-19,Philips Mixer Grinder,Home Appliances,Nagpur,4749,3723,1
+ORD01038,2026-03-01,LG TV 32 inch,TV & Audio,Chhatrapati Sambhajinagar,17005,15195,3
+ORD01039,2026-02-26,Lenovo IdeaPad Slim 3,Laptop,Kolhapur,48415,35606,1
+ORD01040,2026-07-06,LG TV 32 inch,TV & Audio,Satara,14825,10828,1
+ORD01041,2026-02-18,Vivo V40,Mobile,Nashik,33976,29336,1
+ORD01042,2026-07-22,Mi Power Bank 20000mAh,Accessories,Nashik,1897,1425,1
+ORD01043,2026-05-13,Vivo V40,Mobile,Pune,37581,33074,2
+ORD01044,2026-02-02,Mi Power Bank 20000mAh,Accessories,Nagpur,1971,1673,1
+ORD01045,2026-07-04,MacBook Air M3,Laptop,Chhatrapati Sambhajinagar,101366,82263,2
+ORD01046,2026-07-21,iPhone 15,Mobile,Nagpur,79450,65979,1
+ORD01047,2026-09-21,iPhone 15,Mobile,Nashik,80591,63751,1
+ORD01048,2026-04-26,Samsung Charger 25W,Accessories,Nashik,1476,1331,1
+ORD01049,2026-07-18,Samsung Charger 25W,Accessories,Solapur,1615,1208,1
+ORD01050,2026-03-01,Redmi Note 13,Mobile,Mumbai,14699,10415,1
+ORD01051,2026-06-27,Sony Bravia 55 inch,TV & Audio,Nagpur,66007,48536,1
+ORD01052,2026-02-10,Prestige Induction Cooktop,Home Appliances,Pune,3179,2812,1
+ORD01053,2026-05-14,boAt Soundbar,TV & Audio,Nagpur,7516,6684,1
+ORD01054,2026-06-21,Prestige Induction Cooktop,Home Appliances,Chhatrapati Sambhajinagar,3536,3006,1
+ORD01055,2026-08-20,Sony Bravia 55 inch,TV & Audio,Kolhapur,62348,43876,1
+ORD01056,2026-01-01,Realme 12 Pro,Mobile,Nashik,24475,17551,1
+ORD01057,2026-09-03,LG TV 32 inch,TV & Audio,Pune,17001,13010,2
+ORD01058,2026-02-12,Philips Mixer Grinder,Home Appliances,Satara,5308,3930,1
+ORD01059,2026-01-04,Voltas AC 1.5 Ton,Home Appliances,Solapur,34355,25264,2
+ORD01060,2026-05-22,Mi Power Bank 20000mAh,Accessories,Kolhapur,1981,1726,1
+ORD01061,2026-04-08,HP Pavilion 15,Laptop,Solapur,66177,51780,2
+ORD01062,2026-04-01,boAt Earbuds,Accessories,Nagpur,1446,1043,2
+ORD01063,2026-09-07,Mi TV 43 inch,TV & Audio,Nashik,28596,22728,1
+ORD01064,2026-10-28,Vivo V40,Mobile,Nagpur,32917,29813,1
+ORD01065,2026-09-20,Havells Iron,Home Appliances,Chhatrapati Sambhajinagar,1876,1647,1
+ORD01066,2026-01-28,LG Washing Machine,Home Appliances,Kolhapur,20237,16716,1
+ORD01067,2026-06-17,JBL Speaker,TV & Audio,Mumbai,9637,7424,1
+ORD01068,2026-01-13,HP Pavilion 15,Laptop,Nagpur,60751,50277,1
+ORD01069,2026-04-23,boAt Earbuds,Accessories,Satara,1590,1180,3
+ORD01070,2026-02-01,Samsung Galaxy A55,Mobile,Solapur,31398,26612,1
+ORD01071,2026-05-08,Mi TV 43 inch,TV & Audio,Pune,27398,21431,1
+ORD01072,2026-09-26,Samsung Soundbar,TV & Audio,Nagpur,16090,11856,2
+ORD01073,2026-10-04,Vivo V40,TV & audio,Pune,35668,26819,1
+ORD01074,2026-03-02,Redmi Note 13,Mobile,Solapur,13724,9939,1
+ORD01075,2026-01-18,iPhone 15,Mobile,Mumbai,81315,67085,1
+ORD01076,2026-10-26,HP Keyboard,Accessories,Mumbai,1278,1002,1
+ORD01077,2026-02-11,JBL Speaker,TV & Audio,Mumbai,9941,8209,1
+ORD01078,2026-10-23,LG TV 32 inch,TV & Audio,Pune,15550,13648,1
+ORD01079,2026-06-14,Bajaj Fan,Home Appliances,Solapur,2660,2373,1
+ORD01080,2026-03-10,LG Washing Machine,Home Appliances,Satara,20884,18581,1
+ORD01081,2026-03-05,Havells Iron,Home Appliances,Solapur,1868,1591,2
+ORD01082,2026-10-22,Samsung Charger 25W,Accessories,Nashik,1461,1226,1
+ORD01083,2026-07-12,Samsung Galaxy A55,Mobile,Nagpur,33036,24323,2
+ORD01084,2026-08-23,Acer Aspire 5,Laptop,Solapur,44734,,1
+ORD01085,2026-10-10,Havells Iron,Home Appliances,Satara,1746,1384,3
+ORD01086,2026-08-08,Mi Power Bank 20000mAh,Accessories,Mumbai,1872,1361,2
+ORD01087,2026-06-26,Acer Aspire 5,Laptop,Satara,40177,31448,1
+ORD01088,2026-02-12,ASUS Vivobook 15,Laptop,Mumbai,50312,35330,1
+ORD01089,2026-06-02,Philips Mixer Grinder,Home Appliances,Mumbai,4709,3876,1
+ORD01090,2026-03-11,Lenovo IdeaPad Slim 3,Laptop,Nagpur,44401,38710,1
+ORD01091,2026-01-27,Lenovo IdeaPad Slim 3,Laptop,Nashik,42468,31196,2
+ORD01092,2026-05-15,boAt Soundbar,TV & Audio,Nagpur,8366,7492,3
+ORD01093,2026-10-14,Logitech Mouse,Accessories,Pune,815,581,3
+ORD01094,2026-09-13,Samsung Galaxy A55,Mobile,Kolhapur,35019,31210,1
+ORD01095,2026-10-19,Samsung Charger 25W,Accessories,Nagpur,1482,1156,3
+ORD01096,2026-05-28,Voltas AC 1.5 Ton,Home Appliances,Nashik,36611,31043,1
+ORD01097,2026-08-26,Prestige Induction Cooktop,Home Appliances,Pune,3498,3057,1
+ORD01098,2026-06-16,MacBook Air M3,Laptop,Solapur,98200,71280,2
+ORD01099,2026-08-16,Dell Inspiron 14,Laptop,Chhatrapati Sambhajinagar,60995,49064,1
+ORD01100,2026-04-08,LG Washing Machine,Home Appliances,Nagpur,22475,16768,1
+ORD01101,2026-10-06,Samsung Soundbar,TV & Audio,Kolhapur,14740,12569,2
+ORD01102,2026-09-12,Samsung Charger 25W,Accessories,Nagpur,1399,1056,1
+ORD01103,2026-08-14,Philips Mixer Grinder,Home Appliances,Satara,4967,3891,1
+ORD01104,2026-04-09,HP Keyboard,Accessories,Pune,1260,1053,1
+ORD01105,2026-02-26,boAt Earbuds,Accessories,Chhatrapati Sambhajinagar,1449,1173,1
+ORD01106,2026-06-07,HP Pavilion 15,Laptop,Kolhapur,59145,49726,1
+ORD01107,2026-04-23,Logitech Mouse,Accessories,Nashik,826,620,2
+ORD01108,2026-07-13,Voltas AC 1.5 Ton,Home Appliances,Mumbai,32238,27535,2
+ORD01109,2026-07-08,boAt Soundbar,TV & Audio,Nagpur,8015,6032,-1
+ORD01110,2026-08-24,ASUS Vivobook 15,Laptop,Solapur,50732,40122,1
+ORD01111,2026-07-07,boAt Earbuds,Accessories,Solapur,1454,1278,2
+ORD01112,2026-05-24,LG TV 32 inch,TV & Audio,Mumbai,14787,13152,2
+ORD01113,2026-07-25,boAt Soundbar,TV & Audio,Chhatrapati Sambhajinagar,8426,7122,1
+ORD01114,2026-03-11,Samsung Charger 25W,Accessories,Satara,1384,1034,3
+ORD01115,2026-08-04,Samsung Soundbar,TV & Audio,Kolhapur,16066,14556,1
+ORD01116,2026-09-06,LG Washing Machine,Home Appliances,Mumbai,22479,19174,1
+ORD01117,2026-07-10,LG Washing Machine,Home Appliances,Nagpur,20325,17809,2
+ORD01118,2026-09-01,Dell Inspiron 14,Laptop,Nashik,60496,54725,1
+ORD01119,2026-07-16,HP Keyboard,Accessories,Pune,1276,896,1
+ORD01120,2026-08-06,Samsung Soundbar,TV & Audio,Chhatrapati Sambhajinagar,14102,12336,1
+ORD01121,2026-01-05,Bajaj Fan,Home Appliances,Solapur,2499,1923,1
+ORD01122,2026-10-16,OnePlus Nord 4,Mobile,Solapur,30502,26405,1
+ORD01123,2026-08-12,LG TV 32 inch,TV & Audio,Chhatrapati Sambhajinagar,14810,13328,1
+ORD01124,2026-03-20,LG TV 32 inch,TV & Audio,Satara,16817,12327,1
+ORD01125,2026-07-23,JBL Speaker,TV & Audio,Mumbai,10656,9373,1
+ORD01126,2026-02-23,Lenovo IdeaPad Slim 3,Laptop,Nagpur,44325,34654,1
+ORD01127,2026-02-25,JBL Speaker,TV & Audio,Pune,10786,8611,3
+ORD01128,2026-01-15,Voltas AC 1.5 Ton,Home Appliances,Mumbai,34486,30476,-1
+ORD01129,2026-07-28,Realme 12 Pro,Mobile,Nagpur,26808,20242,1
+ORD01130,2026-06-22,Mi TV 43 inch,TV & Audio,Solapur,24885,22266,2
+ORD01131,2026-08-05,JBL Speaker,TV & Audio,Solapur,9308,7440,1
+ORD01132,2026-05-04,Mi Power Bank 20000mAh,Accessories,Satara,1893,1734,1
+ORD01133,2026-08-12,HP Pavilion 15,Laptop,Nashik,64717,59380,1
+ORD01134,2026-01-27,Acer Aspire 5,Laptop,Pune,38862,29982,1
+ORD01135,2026-07-25,boAt Soundbar,TV & Audio,Nagpur,7753,7043,1
+ORD01136,2026-01-01,Dell Inspiron 14,Laptop,Kolhapur,62848,55055,1
+ORD01137,2026-03-24,Acer Aspire 5,Laptop,Nashik,43125,37582,2
+ORD01138,2026-04-20,OnePlus Nord 4,Mobile,Nagpur,30058,22260,1
+ORD01139,2026-06-11,LG Washing Machine,Home Appliances,Nashik,23534,21026,1
+ORD01140,2026-04-03,OnePlus Nord 4,Mobile,Chhatrapati Sambhajinagar,30738,28198,1
+ORD01141,2026-10-16,Voltas AC 1.5 Ton,Home Appliances,Pune,32436,23523,1
+ORD01142,2026-07-22,Prestige Induction Cooktop,Home Appliances,Nashik,3121,2213,1
+ORD01143,2026-08-03,Mi Power Bank 20000mAh,Accessories,Kolhapur,2042,1482,1
+ORD01144,2026-04-17,Vivo V40,Mobile,Mumbai,37306,30637,1
+ORD01145,2026-07-25,HP Pavilion 15,Laptop,Nagpur,64162,46370,1
+ORD01146,2026-03-13,Philips Mixer Grinder,Home Appliances,Nagpur,4643,3889,1
+ORD01147,2026-06-05,Samsung Galaxy A55,Mobile,Chhatrapati Sambhajinagar,35234,27779,3
+ORD01148,2026-07-21,Noise Smartwatch,Accessories,Chhatrapati Sambhajinagar,3136,2858,2
+ORD01149,2026-09-02,Samsung Galaxy A55,Mobile,Nagpur,34830,29505,1
+ORD01150,2026-01-03,MacBook Air M3,Laptop,Solapur,105952,85321,1
+ORD01151,2026-03-03,Samsung Galaxy A55,Mobile,Nashik,30634,21498,3
+ORD01152,2026-02-14,Prestige Induction Cooktop,Home Appliances,Solapur,3469,2480,1
+ORD01153,2026-04-10,Mi Power Bank 20000mAh,Accessories,Chhatrapati Sambhajinagar,2069,1792,1
+ORD01154,2026-08-03,LG Washing Machine,Home Appliances,Kolhapur,23635,20697,2
+ORD01155,2026-07-25,JBL Speaker,TV & Audio,Nashik,9467,7790,1
+ORD01156,2026-05-20,Mi TV 43 inch,TV & Audio,Nashik,28130,23235,1
+ORD01157,2026-05-13,Havells Iron,Home Appliances,Solapur,1701,1423,1
+ORD01158,2026-04-01,iPhone 15,Mobile,Mumbai,75255,61466,1
+ORD01159,2026-07-24,Havells Iron,Home Appliances,Kolhapur,1859,1509,3
+ORD01160,2026-01-04,JBL Speaker,TV & Audio,Satara,9691,6810,1
+ORD01161,2026-06-17,Bajaj Fan,Home Appliances,Solapur,2376,1958,1
+ORD01162,2026-04-08,Noise Smartwatch,Accessories,Solapur,2786,2327,1
+ORD01163,2026-03-09,iPhone 15,Mobile,Solapur,81574,62909,1
+ORD01164,2026-03-01,Dell Inspiron 14,Laptop,Pune,56605,44874,1
+ORD01165,2026-02-17,Realme 12 Pro,Mobile,Nagpur,26879,22456,2
+ORD01166,2026-09-22,Samsung Soundbar,TV & Audio,Satara,15780,13640,1
+ORD01167,2026-02-04,Voltas AC 1.5 Ton,Home Appliances,Kolhapur,36299,27386,3
+ORD01168,2026-05-01,Dell Inspiron 14,Laptop,Nashik,61337,43880,1
+ORD01169,2026-07-21,Mi TV 43 inch,TV & Audio,Chhatrapati Sambhajinagar,25257,18937,1
+ORD01170,2026-08-06,Samsung Soundbar,TV & Audio,Pune,14213,12493,1
+ORD01171,2026-03-26,LG TV 32 inch,TV & Audio,Nagpur,16794,14765,1
+ORD01172,2026-03-03,HP Keyboard,Accessories,Chhatrapati Sambhajinagar,1286,925,1
+ORD01173,2026-04-16,OnePlus Nord 4,Mobile,Solapur,28197,25543,1
+ORD01174,2026-10-26,Redmi Note 13,Mobile,Mumbai,13015,9821,1
+ORD01175,2026-05-16,Samsung Galaxy A55,Mobile,Solapur,33116,30414,1
+ORD01176,2026-06-27,Samsung Charger 25W,Accessories,Nagpur,1482,1243,2
+ORD01177,2026-06-26,Noise Smartwatch,Accessories,Pune,2950,2318,3
+ORD01178,2026-03-01,OnePlus Nord 4,Mobile,Pune,31777,26426,2
+ORD01179,2026-08-20,Voltas AC 1.5 Ton,Home Appliances,Solapur,37515,28312,1
+ORD01180,2026-06-01,LG Washing Machine,Home Appliances,Kolhapur,22553,20733,1
+ORD01181,2026-07-24,Realme 12 Pro,Mobile,Pune,25273,20781,1
+ORD01182,2026-02-24,HP Keyboard,Accessories,Satara,1390,991,1
+ORD01183,2026-10-26,Samsung Charger 25W,Accessories,Mumbai,1425,1266,1
+ORD01184,2026-09-28,ASUS Vivobook 15,Laptop,Solapur,55506,47386,1
+ORD01185,2026-04-07,ASUS Vivobook 15,Laptop,Nashik,56848,46270,1
+ORD01186,2026-06-13,Redmi Note 13,Mobile,Chhatrapati Sambhajinagar,13853,10563,1
+ORD01187,2026-02-22,Acer Aspire 5,Laptop,Nashik,40361,32903,2
+ORD01188,2026-04-19,Havells Iron,Home Appliances,Pune,1859,1673,1
+ORD01189,2026-09-28,HP Keyboard,Accessories,Satara,1384,1047,2
+ORD01190,2026-06-24,Lenovo IdeaPad Slim 3,Laptop,Nagpur,44217,37849,1
+ORD01191,2026-10-24,Vivo V40,Mobile,Mumbai,34258,25086,3
+ORD01192,2026-07-11,boAt Earbuds,Accessories,Kolhapur,1520,1335,1
+ORD01193,2026-01-18,MacBook Air M3,Laptop,Solapur,102609,81064,1
+ORD01194,2026-08-05,Mi Power Bank 20000mAh,Accessories,Chhatrapati Sambhajinagar,2100,1795,1
+ORD01195,2026-10-11,Acer Aspire 5,Laptop,Chhatrapati Sambhajinagar,43100,32054,2
+ORD01196,2026-08-21,Havells Iron,Home Appliances,Nagpur,1686,1181,2
+ORD01197,2026-06-05,Sony Bravia 55 inch,TV & Audio,Nagpur,67112,56181,3
+ORD01198,2026-08-24,Acer Aspire 5,Laptop,Satara,43573,31238,2
+ORD01199,2026-07-11,Noise Smartwatch,Accessories,Satara,3196,2828,1
+ORD01200,2026-05-10,Sony Bravia 55 inch,TV & Audio,Nagpur,67669,56434,1
+ORD01201,2026-01-28,LG Washing Machine,Home Appliances,Chhatrapati Sambhajinagar,20573,17463,2
+ORD01202,2026-05-05,boAt Soundbar,TV & Audio,Nagpur,7568,6734,1
+ORD01203,2026-10-04,Acer Aspire 5,Laptop,Nashik,39945,31026,1
+ORD01204,2026-06-16,JBL Speaker,TV & Audio,Nashik,10286,9082,1
+ORD01205,2026-03-21,Redmi Note 13,Mobile,Satara,15074,11712,1
+ORD01206,2026-10-06,HP Pavilion 15,Laptop,Satara,59148,49255,1
+ORD01207,2026-08-12,OnePlus Nord 4,Mobile,Mumbai,31750,24668,1
+ORD01208,2026-09-08,Redmi Note 13,Mobile,Mumbai,13064,10613,1
+ORD01209,2026-02-26,Prestige Induction Cooktop,Home Appliances,Nashik,3551,2892,1
+ORD01210,2026-03-04,JBL Speaker,TV & Audio,Kolhapur,10798,8265,1
+ORD01211,2026-01-13,Realme 12 Pro,Mobile,Solapur,27699,20637,1
+ORD01212,2026-02-25,Vivo V40,Mobile,Nagpur,36886,29561,2
+ORD01213,2026-08-26,Samsung Galaxy A55,Mobile,Kolhapur,34910,26778,1
+ORD01214,2026-09-09,Redmi Note 13,Mobile,Mumbai,13167,11516,1
+ORD01215,2026-07-22,Redmi Note 13,Mobile,Mumbai,14012,11770,1
+ORD01216,2026-05-22,Dell Inspiron 14,Laptop,Solapur,54706,38947,2
+ORD01217,2026-06-20,MacBook Air M3,Laptop,Nagpur,99837,84977,2
+ORD01218,2026-05-28,Realme 12 Pro,Mobile,Nagpur,27329,23717,1
+ORD01219,2026-10-14,MacBook Air M3,Laptop,Pune,100823,79631,1
+ORD01220,2026-08-03,Voltas AC 1.5 Ton,Home Appliances,Chhatrapati Sambhajinagar,33650,26148,1
+ORD01221,2026-05-21,boAt Soundbar,TV & Audio,Nagpur,7542,6601,1
+ORD01222,2026-07-27,Samsung Charger 25W,Accessories,Nashik,1536,1136,1
+ORD01223,2026-05-04,HP Keyboard,Accessories,Pune,1273,901,1
+ORD01224,2026-06-25,LG Washing Machine,Home Appliances,Chhatrapati Sambhajinagar,20462,15943,1
+ORD01225,2026-04-13,Lenovo IdeaPad Slim 3,Laptop,Pune,44324,39823,3
+ORD01226,2026-08-04,Samsung Galaxy A55,Mobile,Kolhapur,33138,24104,1
+ORD01227,2026-03-11,Voltas AC 1.5 Ton,Home Appliances,Satara,35278,27741,2
+ORD01228,2026-09-20,Dell Inspiron 14,Laptop,Satara,61878,47701,2
+ORD01229,2026-03-22,LG TV 32 inch,TV & Audio,Nashik,15037,13803,1
+ORD01230,2026-06-23,ASUS Vivobook 15,Laptop,Nagpur,53562,46126,2
+ORD01231,2026-08-17,LG Washing Machine,Home Appliances,Chhatrapati Sambhajinagar,22717,19985,3
+ORD01232,2026-04-10,HP Keyboard,Accessories,Pune,1303,993,3
+ORD01233,2026-02-24,HP Keyboard,Accessories,Nagpur,1355,995,1
+ORD01234,2026-08-26,Samsung Galaxy A55,Mobile,Mumbai,33396,30103,1
+ORD01235,2026-09-22,boAt Soundbar,TV & Audio,Pune,8010,6081,1
+ORD01236,2026-07-23,Mi TV 43 inch,TV & Audio,Kolhapur,27501,19790,2
+ORD01237,2026-09-22,Acer Aspire 5,Laptop,Mumbai,43072,30904,3
+ORD01238,2026-09-08,LG Washing Machine,Home Appliances,Nashik,23624,18228,2
+ORD01239,2026-07-16,iPhone 15,Mobile,Satara,84239,67980,3
+ORD01240,2026-09-28,Dell Inspiron 14,Laptop,Pune,63423,53634,1
+ORD01241,2026-10-13,Logitech Mouse,Accessories,Nagpur,792,683,1
+ORD01242,2026-10-28,Noise Smartwatch,Accessories,Solapur,3006,2175,3
+ORD01243,2026-02-01,iPhone 15,Mobile,Kolhapur,73583,60244,1
+ORD01244,2026-02-17,ASUS Vivobook 15,Laptop,Nashik,51756,46462,1
+ORD01245,2026-05-08,Mi TV 43 inch,TV & Audio,Solapur,28783,26437,2
+ORD01246,2026-05-04,Sony Bravia 55 inch,TV & Audio,Solapur,62902,51942,1
+ORD01247,2026-04-04,Samsung Soundbar,TV & Audio,Nagpur,14126,10674,1
+ORD01248,2026-01-06,boAt Earbuds,Accessories,Nagpur,1411,1167,1
+ORD01249,2026-08-26,boAt Soundbar,TV & Audio,Nashik,8617,7702,1
+ORD01250,2026-07-05,HP Keyboard,Accessories,Pune,1299,931,2
+ORD01251,2026-04-02,Redmi Note 13,Mobile,Kolhapur,13161,11112,1
+ORD01252,2026-08-03,LG TV 32 inch,TV & Audio,Satara,16597,13683,1
+ORD01253,2026-02-28,MacBook Air M3,Laptop,Chhatrapati Sambhajinagar,94430,76255,1
+ORD01254,2026-02-23,Acer Aspire 5,Laptop,Nashik,44143,38685,2
+ORD01255,2026-07-02,MacBook Air M3,Laptop,Chhatrapati Sambhajinagar,102052,90549,1
+ORD01256,2026-01-13,Lenovo IdeaPad Slim 3,Laptop,Satara,45447,35648,1
+ORD01257,2026-07-16,Voltas AC 1.5 Ton,Home Appliances,Mumbai,36110,25435,1
+ORD01258,2026-05-12,LG Washing Machine,Home Appliances,Satara,22496,19190,1
+ORD01259,2026-06-07,Dell Inspiron 14,Laptop,Chhatrapati Sambhajinagar,62719,55194,1
+ORD01260,2026-08-12,Sony Bravia 55 inch,TV & Audio,Kolhapur,69237,62163,1
+ORD01261,2026-03-11,boAt Earbuds,Accessories,Kolhapur,1402,1286,1
+ORD01262,2026-05-07,Noise Smartwatch,Accessories,Satara,3132,2517,1
+ORD01263,2026-10-21,Redmi Note 13,Mobile,Nagpur,13171,9966,1
+ORD01264,2026-10-11,Acer Aspire 5,Laptop,Chhatrapati Sambhajinagar,41625,37392,3
+ORD01265,2026-07-18,Samsung Soundbar,TV & Audio,Chhatrapati Sambhajinagar,15070,13355,1
+ORD01266,2026-07-03,Voltas AC 1.5 Ton,Home Appliances,Solapur,37200,30554,2
+ORD01267,2026-10-09,LG TV 32 inch,TV & Audio,Nashik,17093,13831,1
+ORD01268,2026-04-24,boAt Earbuds,Accessories,Satara,1608,1458,3
+ORD01269,2026-08-25,boAt Soundbar,TV & Audio,Satara,8040,6489,1
+ORD01270,2026-03-19,LG Washing Machine,Home Appliances,Nagpur,21641,18617,1
+ORD01271,2026-09-23,Havells Iron,Home Appliances,Chhatrapati Sambhajinagar,1653,1183,1
+ORD01272,2026-04-02,Mi Power Bank 20000mAh,Accessories,Nagpur,1933,1664,1
+ORD01273,2026-03-09,boAt Earbuds,Accessories,Mumbai,1532,1092,1
+ORD01274,2026-10-12,Lenovo IdeaPad Slim 3,Laptop,Kolhapur,46244,42530,1
+ORD01275,2026-10-10,Realme 12 Pro,Mobile,Kolhapur,27596,23785,1
+ORD01276,2026-05-06,Realme 12 Pro,Mobile,Chhatrapati Sambhajinagar,27313,20177,1
+ORD01277,2026-10-04,Vivo V40,Mobile,Satara,35879,26157,3
+ORD01278,2026-04-11,Noise Smartwatch,Accessories,Chhatrapati Sambhajinagar,3063,2447,2
+ORD01279,2026-08-08,MacBook Air M3,Laptop,Satara,102066,74630,1
+ORD01280,2026-03-27,Mi Power Bank 20000mAh,Accessories,Nashik,2127,1913,1
+ORD01281,2026-01-10,MacBook Air M3,Laptop,Nashik,99838,75828,1
+ORD01282,2026-07-08,ASUS Vivobook 15,Laptop,Solapur,54578,47956,1
+ORD01283,2026-01-20,Mi TV 43 inch,TV & Audio,Pune,27967,24885,2
+ORD01284,2026-01-05,JBL Speaker,TV & Audio,Nagpur,9232,6815,2
+ORD01285,2026-01-26,iPhone 15,Mobile,Pune,75331,58907,1
+ORD01286,2026-03-16,Havells Iron,Home Appliances,Solapur,1886,1381,1
+ORD01287,2026-05-21,Dell Inspiron 14,Laptop,Pune,57402,50859,1
+ORD01288,2026-07-05,Redmi Note 13,Mobile,Mumbai,13109,11204,1
+ORD01289,2026-05-08,HP Pavilion 15,Laptop,Satara,60235,50309,1
+ORD01290,2026-05-12,OnePlus Nord 4,Mobile,Pune,28412,25451,1
+ORD01291,2026-01-20,Voltas AC 1.5 Ton,Home Appliances,Nashik,32853,23551,2
+ORD01292,2026-03-22,ASUS Vivobook 15,Laptop,Chhatrapati Sambhajinagar,53248,41964,1
+ORD01293,2026-06-09,Voltas AC 1.5 Ton,Home Appliances,Pune,34141,30629,2
+ORD01294,2026-08-24,Samsung Galaxy A55,Mobile,Solapur,34465,30596,1
+ORD01295,2026-02-11,Redmi Note 13,Mobile,Nashik,14173,10047,1
+ORD01296,2026-07-20,ASUS Vivobook 15,Laptop,Kolhapur,51740,41975,1
+ORD01297,2026-09-18,Acer Aspire 5,Laptop,Solapur,44822,37458,1
+ORD01298,2026-07-17,Prestige Induction Cooktop,Home Appliances,Nagpur,3464,2894,1
+ORD01299,2026-06-18,Samsung Galaxy A55,Mobile,Solapur,32268,28243,2
+ORD01300,2026-03-10,HP Pavilion 15,Laptop,Solapur,58551,49367,2
+ORD01301,2026-04-02,MacBook Air M3,Laptop,Nashik,107538,77336,1
+ORD01302,2026-07-12,Realme 12 Pro,Mobile,Mumbai,26847,22470,1
+ORD01303,2026-03-01,Realme 12 Pro,Mobile,Nashik,26338,21468,1
+ORD01304,2026-07-05,Mi Power Bank 20000mAh,Accessories,Nashik,1864,1683,1
+ORD01305,2026-08-14,boAt Soundbar,TV & Audio,Kolhapur,7538,6060,3
+ORD01306,2026-01-20,boAt Soundbar,TV & Audio,Nashik,8248,7068,1
+ORD01307,2026-08-18,Bajaj Fan,Home Appliances,Chhatrapati Sambhajinagar,2303,1697,1
+ORD01308,2026-05-03,Prestige Induction Cooktop,Home Appliances,Satara,3192,2777,3
+ORD01309,2026-03-27,Acer Aspire 5,Laptop,Pune,40054,31395,1
+ORD01310,2026-03-02,JBL Speaker,TV & Audio,Kolhapur,9700,7554,2
+ORD01311,2026-06-01,Samsung Soundbar,TV & Audio,Nagpur,14438,12951,1
+ORD01312,2026-05-07,Mi Power Bank 20000mAh,Accessories,Nagpur,2012,1822,1
+ORD01313,2026-10-26,Samsung Galaxy A55,Mobile,Solapur,31780,22409,1
+ORD01314,2026-06-25,Redmi Note 13,Mobile,Chhatrapati Sambhajinagar,13583,9677,1
+ORD01315,2026-03-23,LG TV 32 inch,TV & Audio,Pune,15209,11477,2
+ORD01316,2026-03-01,HP Keyboard,Accessories,Satara,1381,1118,1
+ORD01317,2026-08-03,LG TV 32 inch,TV & Audio,Pune,16933,15439,1
+ORD01318,2026-03-17,Lenovo IdeaPad Slim 3,Laptop,Kolhapur,48252,37447,2
+ORD01319,2026-07-02,Samsung Soundbar,TV & Audio,Satara,14603,12277,2
+ORD01320,2026-10-21,Lenovo IdeaPad Slim 3,Laptop,Solapur,49647,39047,3
+ORD01321,2026-02-16,Redmi Note 13,Mobile,Pune,13198,9615,1
+ORD01322,2026-10-12,Sony Bravia 55 inch,TV & Audio,Kolhapur,61555,52627,1
+ORD01323,2026-08-09,Redmi Note 13,Mobile,Solapur,13280,9962,1
+ORD01324,2026-05-13,HP Pavilion 15,Laptop,Satara,67743,55047,1
+ORD01325,2026-06-12,Havells Iron,Home Appliances,Pune,1688,1417,2
+ORD01326,2026-01-20,LG TV 32 inch,TV & Audio,Mumbai,15862,11531,3
+ORD01327,2026-05-13,Acer Aspire 5,Laptop,Nashik,44148,40539,2
+ORD01328,2026-02-12,LG Washing Machine,Home Appliances,Solapur,23234,20235,2
+ORD01329,2026-03-24,boAt Soundbar,TV & Audio,Pune,8043,5952,1
+ORD01330,2026-10-16,JBL Speaker,TV & Audio,Nagpur,9518,8068,1
+ORD01331,2026-08-05,Mi TV 43 inch,TV & Audio,Nagpur,26041,23738,1
+ORD01332,2026-06-26,Samsung Charger 25W,Accessories,Satara,1386,1092,1
+ORD01333,2026-07-09,Samsung Soundbar,TV & Audio,Chhatrapati Sambhajinagar,13920,10148,3
+ORD01334,2026-08-28,HP Pavilion 15,Laptop,Satara,59379,51051,1
+ORD01335,2026-02-14,Bajaj Fan,Home Appliances,Kolhapur,2566,2214,2
+ORD01336,2026-09-23,Mi Power Bank 20000mAh,Accessories,Nashik,1902,1356,1
+ORD01337,2026-09-26,Sony Bravia 55 inch,TV & Audio,Nagpur,69280,55045,2
+ORD01338,2026-06-01,Realme 12 Pro,Mobile,Nashik,26697,20940,1
+ORD01339,2026-07-09,Samsung Soundbar,TV & Audio,Mumbai,14988,12746,2
+ORD01340,2026-01-07,Samsung Soundbar,TV & Audio,Nagpur,15312,11935,1
+ORD01341,2026-06-07,boAt Soundbar,TV & Audio,Nagpur,8057,7118,1
+ORD01342,2026-05-17,Philips Mixer Grinder,Home Appliances,Pune,4891,4108,1
+ORD01343,2026-09-14,boAt Soundbar,TV & Audio,Kolhapur,8637,7159,1
+ORD01344,2026-03-18,Samsung Galaxy A55,Mobile,Satara,32781,27468,1
+ORD01345,2026-05-23,Sony Bravia 55 inch,TV & Audio,Pune,68578,52703,1
+ORD01346,2026-02-16,Redmi Note 13,Mobile,Pune,13079,11985,3
+ORD01347,2026-07-07,LG TV 32 inch,TV & Audio,Nagpur,16197,14785,1
+ORD01348,2026-02-12,LG TV 32 inch,TV & Audio,Solapur,15685,13755,1
+ORD01349,2026-06-26,boAt Soundbar,TV & Audio,Nagpur,8259,6252,1
+ORD01350,2026-07-22,Voltas AC 1.5 Ton,Home Appliances,Nagpur,33688,26111,1
+ORD01351,2026-09-27,OnePlus Nord 4,Mobile,Kolhapur,27755,25374,2
+ORD01352,2026-07-07,Mi Power Bank 20000mAh,Accessories,Satara,2145,1505,1
+ORD01353,2026-03-13,Vivo V40,Mobile,Kolhapur,34601,24682,1
+ORD01354,2026-09-04,Bajaj Fan,Home Appliances,Satara,2473,2221,2
+ORD01355,2026-01-14,Samsung Charger 25W,Accessories,Mumbai,1417,1203,1
+ORD01356,2026-02-19,Bajaj Fan,Home Appliances,Satara,2310,1766,3
+ORD01357,2026-06-06,Realme 12 Pro,Mobile,Nagpur,26973,18980,1
+ORD01358,2026-07-25,Dell Inspiron 14,Laptop,Chhatrapati Sambhajinagar,56100,41239,2
+ORD01359,2026-10-28,iPhone 15,Mobile,Pune,74568,66244,1
+ORD01360,2026-05-06,OnePlus Nord 4,Mobile,Pune,32049,28620,1
+ORD01361,2026-02-16,OnePlus Nord 4,Mobile,Mumbai,31653,22765,1
+ORD01362,2026-07-13,Mi TV 43 inch,TV & Audio,Kolhapur,26940,21077,1
+ORD01363,2026-10-21,Samsung Soundbar,TV & Audio,Mumbai,14222,13053,1
+ORD01364,2026-09-01,iPhone 15,Mobile,Nashik,86211,70136,1
+ORD01365,2026-09-01,Havells Iron,Home Appliances,Nashik,1724,1540,1
+ORD01366,2026-04-03,Dell Inspiron 14,Laptop,Nashik,55354,48284,1
+ORD01367,2026-09-21,Logitech Mouse,Accessories,Chhatrapati Sambhajinagar,792,563,1
+ORD01368,2026-04-09,boAt Soundbar,TV & Audio,Nashik,8394,6917,3
+ORD01369,2026-02-19,Acer Aspire 5,Laptop,Chhatrapati Sambhajinagar,44314,33775,3
+ORD01370,2026-07-20,Lenovo IdeaPad Slim 3,Laptop,Chhatrapati Sambhajinagar,49328,40088,2
+ORD01371,2026-06-12,Samsung Charger 25W,Accessories,Pune,1404,1173,1
+ORD01372,2026-07-10,Samsung Soundbar,TV & Audio,Kolhapur,15924,11294,1
+ORD01373,2026-03-12,Mi TV 43 inch,TV & Audio,Nagpur,25334,18798,1
+ORD01374,2026-02-01,Samsung Galaxy A55,Mobile,Kolhapur,33827,28353,2
+ORD01375,2026-04-18,Realme 12 Pro,Mobile,Pune,25287,20675,2
+ORD01376,2026-05-23,Sony Bravia 55 inch,TV & Audio,Pune,66048,53103,1
+ORD01377,2026-06-07,Havells Iron,Home Appliances,Nagpur,1772,1335,1
+ORD01378,2026-02-15,OnePlus Nord 4,Mobile,Nashik,29992,21059,1
+ORD01379,2026-01-21,Voltas AC 1.5 Ton,Home Appliances,Mumbai,35500,30814,1
+ORD01380,2026-09-17,Sony Bravia 55 inch,TV & Audio,Mumbai,61153,43253,1
+ORD01381,2026-07-24,Noise Smartwatch,Accessories,Chhatrapati Sambhajinagar,2766,2259,2
+ORD01382,2026-06-16,Logitech Mouse,Accessories,Mumbai,827,688,1
+ORD01383,2026-02-27,Sony Bravia 55 inch,TV & Audio,Kolhapur,67032,54966,2
+ORD01384,2026-02-11,Philips Mixer Grinder,Home Appliances,Satara,4618,4200,1
+ORD01385,2026-09-01,Lenovo IdeaPad Slim 3,Laptop,Mumbai,42958,32678,2
+ORD01386,2026-06-23,boAt Earbuds,Accessories,Satara,1405,1000,1
+ORD01387,2026-03-11,Noise Smartwatch,Accessories,Nashik,2840,2527,1
+ORD01388,2026-04-19,LG Washing Machine,Home Appliances,Solapur,22471,,1
+ORD01389,2026-05-25,Sony Bravia 55 inch,TV & Audio,Chhatrapati Sambhajinagar,63138,47935,1
+ORD01390,2026-04-23,iPhone 15,Mobile,Pune,80648,58709,1
+ORD01391,2026-07-07,OnePlus Nord 4,Mobile,Solapur,27888,25576,1
+ORD01392,2026-06-25,iPhone 15,Mobile,Chhatrapati Sambhajinagar,76175,60185,1
+ORD01393,2026-04-12,boAt Soundbar,TV & Audio,Satara,7556,6113,2
+ORD01394,2026-05-14,LG TV 32 inch,TV & Audio,Nashik,16024,11992,1
+ORD01395,2026-02-08,Samsung Charger 25W,Accessories,Mumbai,1534,1362,2
+ORD01396,2026-06-09,Samsung Soundbar,TV & Audio,Pune,14430,11764,1
+ORD01397,2026-07-17,Philips Mixer Grinder,Home Appliances,Kolhapur,4878,4260,1
+ORD01398,2026-07-07,OnePlus Nord 4,Mobile,Chhatrapati Sambhajinagar,28907,25972,1
+ORD01399,2026-09-14,ASUS Vivobook 15,Laptop,Pune,50248,43178,1
+ORD01400,2026-01-19,Realme 12 Pro,Mobile,Chhatrapati Sambhajinagar,24954,22348,1
+ORD01401,2026-07-13,HP Pavilion 15,Laptop,Satara,63313,54411,2
+ORD01402,2026-04-06,Samsung Galaxy A55,Mobile,Nagpur,34234,24871,1
+ORD01403,2026-02-06,Noise Smartwatch,Accessories,Solapur,2897,2285,2
+ORD01404,2026-03-11,Noise Smartwatch,Accessories,Solapur,2873,2444,1
+ORD01405,2026-05-03,HP Pavilion 15,Laptop,Nashik,64663,53402,1
+ORD01406,2026-04-16,Vivo V40,Mobile,Pune,34171,27875,1
+ORD01407,2026-09-17,Redmi Note 13,Mobile,Nashik,14149,9934,2
+ORD01408,2026-08-24,HP Pavilion 15,Laptop,Kolhapur,58958,43814,1
+ORD01409,2026-06-10,Voltas AC 1.5 Ton,Home Appliances,Kolhapur,35904,31029,1
+ORD01410,2026-02-09,Havells Iron,Home Appliances,Mumbai,1897,1369,1
+ORD01411,2026-08-01,ASUS Vivobook 15,Laptop,Nagpur,56010,43404,1
+ORD01412,2026-02-07,Havells Iron,Home Appliances,Satara,1851,1528,1
+ORD01413,2026-08-17,iPhone 15,Mobile,Nashik,84721,65291,2
+ORD01414,2026-05-10,Noise Smartwatch,Accessories,Nagpur,2926,2479,1
+ORD01415,2026-07-26,Vivo V40,Mobile,Solapur,35111,29651,1
+ORD01416,2026-03-15,Voltas AC 1.5 Ton,Home Appliances,Nashik,33805,23891,1
+ORD01417,2026-05-03,Voltas AC 1.5 Ton,Home Appliances,Chhatrapati Sambhajinagar,35683,27613,1
+ORD01418,2026-01-16,OnePlus Nord 4,Mobile,Chhatrapati Sambhajinagar,27795,23841,1
+ORD01419,2026-03-12,OnePlus Nord 4,Mobile,Chhatrapati Sambhajinagar,29289,21571,1
+ORD01420,2026-05-05,Havells Iron,Home Appliances,Nagpur,1926,1534,3
+ORD01421,2026-06-08,LG TV 32 inch,TV & Audio,Satara,17060,14604,1
+ORD01422,2026-05-20,JBL Speaker,TV & Audio,Chhatrapati Sambhajinagar,10745,9653,1
+ORD01423,2026-03-22,MacBook Air M3,Laptop,Nagpur,98963,71975,2
+ORD01424,2026-05-19,Mi Power Bank 20000mAh,Accessories,Solapur,1972,1728,1
+ORD01425,2026-03-17,Bajaj Fan,Home Appliances,Solapur,2449,1781,1
+ORD01426,2026-07-15,Samsung Charger 25W,Accessories,Satara,1603,1223,1
+ORD01427,2026-07-03,JBL Speaker,TV & Audio,Nashik,9243,7367,3
+ORD01428,2026-10-18,Voltas AC 1.5 Ton,Home Appliances,Chhatrapati Sambhajinagar,36594,28994,1
+ORD01429,2026-09-15,OnePlus Nord 4,Mobile,Mumbai,28203,21789,1
+ORD01430,2026-10-04,Redmi Note 13,Mobile,Chhatrapati Sambhajinagar,13484,9480,1
+ORD01431,2026-10-22,LG Washing Machine,Home Appliances,Mumbai,22660,16538,1
+ORD01432,2026-04-22,MacBook Air M3,Laptop,Nashik,94296,71392,1
+ORD01433,2026-08-20,Noise Smartwatch,Accessories,Nagpur,2908,2043,1
+ORD01434,2026-02-08,Redmi Note 13,Mobile,Nagpur,12879,10138,1
+ORD01435,2026-02-10,OnePlus Nord 4,Mobile,Satara,27717,22415,1
+ORD01436,2026-10-22,Samsung Soundbar,TV & Audio,Solapur,15758,11579,1
+ORD01437,2026-04-06,Philips Mixer Grinder,Home Appliances,Nagpur,4940,3853,1
+ORD01438,2026-08-12,JBL Speaker,TV & Audio,Chhatrapati Sambhajinagar,9663,7471,3
+ORD01439,2026-07-05,JBL Speaker,TV & Audio,Mumbai,10315,9246,1
+ORD01440,2026-01-21,HP Keyboard,Accessories,Solapur,1220,1018,1
+ORD01441,2026-05-01,iPhone 15,Mobile,Nashik,85816,70117,2
+ORD01442,2026-09-13,Samsung Charger 25W,Accessories,Pune,1584,1282,1
+ORD01443,2026-08-23,Acer Aspire 5,Laptop,Nashik,39647,30754,1
+ORD01444,2026-08-13,Noise Smartwatch,Accessories,Solapur,2904,2420,2
+ORD01445,2026-09-09,Havells Iron,Home Appliances,Nashik,1703,1301,1
+ORD01446,2026-07-03,Samsung Charger 25W,Accessories,Mumbai,1608,1356,1
+ORD01447,2026-08-11,Realme 12 Pro,Mobile,Nagpur,24581,22092,1
+ORD01448,2026-07-03,HP Pavilion 15,Laptop,Mumbai,67019,59092,2
+ORD01449,2026-06-20,Voltas AC 1.5 Ton,Home Appliances,Mumbai,32831,24088,1
+ORD01450,2026-10-18,Dell Inspiron 14,Laptop,Nagpur,55286,45396,1
+ORD01451,2026-03-14,Dell Inspiron 14,Laptop,Nagpur,58906,45396,1
+ORD01452,2026-01-26,Vivo V40,Mobile,Nashik,32334,22920,1
+ORD01453,2026-06-06,iPhone 15,Mobile,Solapur,83407,66306,2
+ORD01454,2026-10-18,Lenovo IdeaPad Slim 3,Laptop,Nashik,46507,37939,1
+ORD01455,2026-02-05,OnePlus Nord 4,Mobile,Chhatrapati Sambhajinagar,29651,24825,1
+ORD01456,2026-01-08,Redmi Note 13,Mobile,Chhatrapati Sambhajinagar,13996,12718,1
+ORD01457,2026-05-03,HP Keyboard,Accessories,Nagpur,1341,1214,2
+ORD01458,2026-02-19,Prestige Induction Cooktop,Home Appliances,Solapur,3295,2742,1
+ORD01459,2026-06-25,Noise Smartwatch,Accessories,Mumbai,2773,2345,1
+ORD01460,2026-01-08,Lenovo IdeaPad Slim 3,Laptop,Solapur,46336,35148,3
+ORD01461,2026-01-12,Vivo V40,Mobile,Pune,37263,28518,2
+ORD01462,2026-08-05,LG TV 32 inch,TV & Audio,Chhatrapati Sambhajinagar,16602,11879,2
+ORD01463,2026-07-16,Redmi Note 13,Mobile,Chhatrapati Sambhajinagar,12958,10474,1
+ORD01464,2026-04-18,HP Pavilion 15,Laptop,Satara,67336,61559,2
+ORD01465,2026-03-14,Vivo V40,Mobile,Satara,34899,29135,1
+ORD01466,2026-06-12,Bajaj Fan,Home Appliances,Nagpur,2345,2097,1
+ORD01467,2026-01-08,HP Keyboard,Accessories,Satara,1385,1202,1
+ORD01468,2026-04-27,Prestige Induction Cooktop,Home Appliances,Mumbai,3055,2272,2
+ORD01469,2026-06-20,Redmi Note 13,Mobile,Nagpur,13162,11586,1
+ORD01470,2026-02-03,Mi Power Bank 20000mAh,Accessories,Chhatrapati Sambhajinagar,2032,1655,1
+ORD01471,2026-04-15,Bajaj Fan,Home Appliances,Chhatrapati Sambhajinagar,2496,1893,1
+ORD01472,2026-05-11,Samsung Charger 25W,Accessories,Pune,1449,1125,1
+ORD01473,2026-05-03,iPhone 15,Mobile,Nagpur,85019,65022,1
+ORD01474,2026-06-24,MacBook Air M3,Laptop,Nashik,95679,72408,1
+ORD01475,2026-02-01,Samsung Galaxy A55,Mobile,Solapur,34046,26454,1
+ORD01476,2026-02-02,iPhone 15,Mobile,Chhatrapati Sambhajinagar,77061,64383,2
+ORD01477,2026-01-08,LG Washing Machine,Home Appliances,Nagpur,21973,16044,1
+ORD01478,2026-01-18,Samsung Soundbar,TV & Audio,Kolhapur,15373,12342,1
+ORD01479,2026-05-26,Vivo V40,Mobile,Nagpur,36424,30816,2
+ORD01480,2026-01-26,iPhone 15,Mobile,Pune,82786,64843,2
+ORD01481,2026-09-15,LG Washing Machine,Home Appliances,Satara,23581,16857,1
+ORD01482,2026-07-15,Havells Iron,Home Appliances,Nagpur,1814,1462,1
+ORD01483,2026-04-25,HP Pavilion 15,Laptop,Chhatrapati Sambhajinagar,60779,46789,1
+ORD01484,2026-05-26,Samsung Charger 25W,Accessories,Mumbai,1473,1156,1
+ORD01485,2026-03-15,iPhone 15,Mobile,Solapur,80774,68608,1
+ORD01486,2026-09-07,OnePlus Nord 4,Mobile,Satara,27641,25205,1
+ORD01487,2026-06-03,Vivo V40,Mobile,Solapur,37456,32182,1
+ORD01488,2026-03-08,Dell Inspiron 14,Laptop,Nashik,61500,52844,-1
+ORD01489,2026-03-22,MacBook Air M3,Laptop,Solapur,102485,89040,1
+ORD01490,2026-05-09,Voltas AC 1.5 Ton,Home Appliances,Mumbai,32425,24714,1
+ORD01491,2026-02-17,Samsung Charger 25W,Accessories,Solapur,1551,1222,1
+ORD01492,2026-07-03,Vivo V40,Mobile,Satara,32632,28557,1
+ORD01493,2026-07-21,Mi Power Bank 20000mAh,Accessories,Kolhapur,1846,1452,1
+ORD01494,2026-03-19,Sony Bravia 55 inch,TV & Audio,Mumbai,66257,58620,1
+ORD01495,2026-09-26,Vivo V40,Mobile,Kolhapur,33383,28413,2
+ORD01496,2026-07-25,ASUS Vivobook 15,Laptop,Pune,55794,50930,2
+ORD01497,2026-07-18,Samsung Galaxy A55,Mobile,Pune,33344,23357,1
+ORD01498,2026-06-09,Philips Mixer Grinder,Home Appliances,Nagpur,5080,3937,1
+ORD01499,2026-06-08,Voltas AC 1.5 Ton,Home Appliances,Solapur,37291,31611,2
+ORD01500,2026-07-12,Noise Smartwatch,Accessories,Pune,3225,2475,1
+ORD01501,2026-10-08,Samsung Charger 25W,Accessories,Solapur,1500,1078,1
+ORD01502,2026-09-08,Samsung Soundbar,TV & Audio,Satara,15156,11187,1
+ORD01503,2026-06-04,Havells Iron,Home Appliances,Pune,1691,1459,1
+ORD01504,2026-04-06,JBL Speaker,TV & Audio,Solapur,10007,8880,1
+ORD01505,2026-08-24,Samsung Galaxy A55,Mobile,Pune,30996,26720,1
+ORD01506,2026-02-05,HP Pavilion 15,Laptop,Satara,66354,60696,1
+ORD01507,2026-05-04,Sony Bravia 55 inch,TV & Audio,Kolhapur,61116,46856,1
+ORD01508,2026-02-24,Samsung Charger 25W,Accessories,Kolhapur,1525,1367,2
+ORD01509,2026-08-23,JBL Speaker,TV & Audio,Nashik,10208,7728,1
+ORD01510,2026-02-05,Acer Aspire 5,Laptop,Mumbai,43776,31449,3
+ORD01511,2026-08-06,Prestige Induction Cooktop,Home Appliances,Chhatrapati Sambhajinagar,3226,2507,1
+ORD01512,2026-09-19,Samsung Galaxy A55,Mobile,Satara,31929,26979,1
+ORD01513,2026-01-27,Logitech Mouse,Accessories,Nagpur,780,588,3
+ORD01514,2026-06-10,LG TV 32 inch,TV & Audio,Nashik,15422,11204,1
+ORD01515,2026-05-09,iPhone 15,Mobile,Pune,77008,63411,2
+ORD01516,2026-09-25,Acer Aspire 5,Laptop,Nashik,40502,36407,1
+ORD01517,2026-04-01,Vivo V40,Mobile,Solapur,37253,26406,1
+ORD01518,2026-08-17,iPhone 15,Mobile,Nashik,76104,54247,1
+ORD01519,2026-02-15,Sony Bravia 55 inch,TV & Audio,Satara,69336,52863,2
+ORD01520,2026-02-12,Sony Bravia 55 inch,TV & Audio,Pune,60694,54012,1
+ORD01521,2026-08-21,Acer Aspire 5,Laptop,Pune,39130,34650,1
+ORD01522,2026-06-07,boAt Earbuds,Accessories,Mumbai,1483,1060,2
+ORD01523,2026-04-09,Samsung Galaxy A55,Mobile,Solapur,31081,26022,3
+ORD01524,2026-04-21,ASUS Vivobook 15,Laptop,Pune,55651,42218,1
+ORD01525,2026-09-20,Havells Iron,Home Appliances,Nagpur,1866,1715,1
+ORD01526,2026-10-08,HP Pavilion 15,Laptop,Kolhapur,62165,53594,1
+ORD01527,2026-04-10,LG TV 32 inch,TV & Audio,Solapur,16391,14430,1
+ORD01528,2026-02-08,boAt Soundbar,TV & Audio,Pune,7861,6614,1
+ORD01529,2026-02-06,HP Keyboard,Accessories,Solapur,1396,1184,1
+ORD01530,2026-08-27,Noise Smartwatch,Accessories,Solapur,2813,2157,2
+ORD01531,2026-04-28,LG Washing Machine,Home Appliances,Satara,22648,20692,1
+ORD01532,2026-07-26,Vivo V40,Mobile,Solapur,36521,31497,1
+ORD01533,2026-04-11,JBL Speaker,TV & Audio,Mumbai,9616,8731,1
+ORD01534,2026-04-25,HP Keyboard,Accessories,Pune,1280,1016,1
+ORD01535,2026-01-26,Prestige Induction Cooktop,Home Appliances,Satara,3205,2522,1
+ORD01536,2026-02-21,Realme 12 Pro,Mobile,Mumbai,25305,21317,2
+ORD01537,2026-09-13,Bajaj Fan,Home Appliances,Nagpur,2443,2141,1
+ORD01538,2026-04-01,Mi Power Bank 20000mAh,Accessories,Mumbai,2130,1804,1
+ORD01539,2026-03-10,Vivo V40,Mobile,Chhatrapati Sambhajinagar,32773,27282,1
+ORD01540,2026-02-27,Samsung Galaxy A55,Mobile,Satara,33693,25897,1
+ORD01541,2026-02-03,Samsung Soundbar,TV & Audio,Satara,15753,11455,2
+ORD01542,2026-02-24,Redmi Note 13,Mobile,Satara,14542,11646,2
+ORD01543,2026-01-10,MacBook Air M3,Laptop,Chhatrapati Sambhajinagar,105738,79023,1
+ORD01544,2026-07-10,Samsung Soundbar,TV & Audio,Satara,14029,9915,1
+ORD01545,2026-09-17,Samsung Galaxy A55,Mobile,Nagpur,35464,28250,-1
+ORD01546,2026-09-23,Mi TV 43 inch,TV & Audio,Pune,29129,22136,3
+ORD01547,2026-08-12,Samsung Soundbar,TV & Audio,Solapur,15176,13879,2
+ORD01548,2026-02-04,Philips Mixer Grinder,Home Appliances,Nashik,5109,4327,2
+ORD01549,2026-08-17,ASUS Vivobook 15,Laptop,Nagpur,53781,48486,1
+ORD01550,2026-03-02,OnePlus Nord 4,Mobile,Kolhapur,28808,24529,1
+ORD01551,2026-09-26,Prestige Induction Cooktop,Home Appliances,Solapur,3245,2981,1
+ORD01552,2026-08-17,LG Washing Machine,Home Appliances,Pune,21332,16566,1
+ORD01553,2026-03-17,OnePlus Nord 4,Mobile,Pune,30955,25920,2
+ORD01554,2026-07-16,Lenovo IdeaPad Slim 3,Laptop,Nashik,45530,32152,1
+ORD01555,2026-01-10,LG Washing Machine,Home Appliances,Pune,20722,15079,1
+ORD01556,2026-06-20,Sony Bravia 55 inch,TV & Audio,Kolhapur,67277,48867,1
+ORD01557,2026-10-23,Havells Iron,Home Appliances,Kolhapur,1699,1455,1
+ORD01558,2026-03-06,Prestige Induction Cooktop,Home Appliances,Solapur,3163,2588,3
+ORD01559,2026-01-10,iPhone 15,Mobile,Nagpur,78830,69916,1
+ORD01560,2026-10-15,Acer Aspire 5,Laptop,Nashik,39261,32159,1
+ORD01561,2026-01-07,iPhone 15,Mobile,Chhatrapati Sambhajinagar,81643,59245,1
+ORD01562,2026-07-09,HP Keyboard,Accessories,Nagpur,1316,1122,1
+ORD01563,2026-05-19,Vivo V40,Mobile,Pune,33052,25095,1
+ORD01564,2026-10-20,MacBook Air M3,Laptop,Chhatrapati Sambhajinagar,101386,76188,1
+ORD01565,2026-04-07,Havells Iron,Home Appliances,Pune,1912,1671,1
+ORD01566,2026-02-02,Bajaj Fan,Home Appliances,Nashik,2356,1921,1
+ORD01567,2026-02-08,LG Washing Machine,Home Appliances,Satara,21727,17734,1
+ORD01568,2026-06-17,JBL Speaker,TV & Audio,Pune,10328,8695,2
+ORD01569,2026-03-27,Bajaj Fan,Home Appliances,Satara,2681,1909,2
+ORD01570,2026-09-14,LG Washing Machine,Home Appliances,Kolhapur,21955,16388,1
+ORD01571,2026-06-24,HP Pavilion 15,Laptop,Satara,66680,48798,2
+ORD01572,2026-07-12,MacBook Air M3,Laptop,Nashik,100946,70709,3
+ORD01573,2026-05-11,Samsung Galaxy A55,Mobile,Pune,32693,26294,1
+ORD01574,2026-05-21,Logitech Mouse,Accessories,Solapur,795,729,1
+ORD01575,2026-01-19,Mi TV 43 inch,TV & Audio,Mumbai,29140,22294,1
+ORD01576,2026-09-26,LG TV 32 inch,TV & Audio,Pune,16328,13261,1
+ORD01577,2026-03-28,iPhone 15,Mobile,Nashik,73876,53432,1
+ORD01578,2026-01-11,OnePlus Nord 4,Mobile,Pune,31602,28244,1
+ORD01579,2026-01-11,Voltas AC 1.5 Ton,Home Appliances,Kolhapur,37696,33070,1
+ORD01580,2026-07-14,MacBook Air M3,Laptop,Mumbai,103543,86916,1
+ORD01581,2026-02-06,Samsung Galaxy A55,Mobile,Solapur,34715,28107,2
+ORD01582,2026-01-10,iPhone 15,Mobile,Chhatrapati Sambhajinagar,81287,62468,1
+ORD01583,2026-02-19,Voltas AC 1.5 Ton,Home Appliances,Solapur,32849,26852,2
+ORD01584,2026-06-19,Redmi Note 13,Mobile,Mumbai,14935,13141,1
+ORD01585,2026-04-10,HP Pavilion 15,Laptop,Nagpur,60143,50376,1
+ORD01586,2026-03-19,Dell Inspiron 14,Laptop,Kolhapur,54774,41886,1
+ORD01587,2026-05-09,Samsung Soundbar,TV & Audio,Solapur,15794,13583,1
+ORD01588,2026-09-15,boAt Earbuds,Accessories,Nashik,1496,1186,1
+ORD01589,2026-07-12,Vivo V40,Mobile,Chhatrapati Sambhajinagar,34358,27543,1
+ORD01590,2026-05-03,Dell Inspiron 14,Laptop,Nagpur,60874,49258,2
+ORD01591,2026-03-16,Mi Power Bank 20000mAh,Accessories,Nashik,1988,1815,1
+ORD01592,2026-01-11,LG TV 32 inch,TV & Audio,Pune,15537,12367,1
+ORD01593,2026-02-06,boAt Earbuds,Accessories,Kolhapur,1417,1155,1
+ORD01594,2026-10-15,Mi Power Bank 20000mAh,Accessories,Satara,1988,1748,1
+ORD01595,2026-06-16,JBL Speaker,TV & Audio,Satara,10533,9105,1
+ORD01596,2026-09-04,boAt Earbuds,Accessories,Satara,1611,1171,2
+ORD01597,2026-09-06,Sony Bravia 55 inch,TV & Audio,Chhatrapati Sambhajinagar,69710,57987,1
+ORD01598,2026-03-05,Havells Iron,Home Appliances,Kolhapur,1922,1684,3
+ORD01599,2026-08-13,Redmi Note 13,Mobile,Nashik,13571,10199,2
+ORD01600,2026-05-03,Mi TV 43 inch,TV & Audio,Nashik,27684,24249,1
+ORD01601,2026-09-28,Lenovo IdeaPad Slim 3,Laptop,Kolhapur,45523,34629,1
+ORD01602,2026-07-23,OnePlus Nord 4,Mobile,Nagpur,28363,25471,1
+ORD01603,2026-02-13,boAt Soundbar,TV & Audio,Nashik,7840,6413,1
+ORD01604,2026-07-20,Mi Power Bank 20000mAh,Accessories,Satara,1966,1667,1
+ORD01605,2026-01-08,Philips Mixer Grinder,Home Appliances,Nashik,4872,3764,3
+ORD01606,2026-10-25,Dell Inspiron 14,Laptop,Satara,57690,46710,1
+ORD01607,2026-05-14,Realme 12 Pro,Mobile,Pune,24876,20150,1
+ORD01608,2026-07-22,HP Keyboard,Accessories,Solapur,1331,1100,1
+ORD01609,2026-09-27,iPhone 15,Mobile,Pune,85761,70943,1
+ORD01610,2026-07-26,Mi TV 43 inch,TV & Audio,Mumbai,26334,19983,1
+ORD01611,2026-01-16,Dell Inspiron 14,Laptop,Satara,55485,44858,1
+ORD01612,2026-10-26,Mi TV 43 inch,TV & Audio,Solapur,26147,22567,1
+ORD01613,2026-06-04,Voltas AC 1.5 Ton,Home Appliances,Nashik,36563,27911,2
+ORD01614,2026-01-11,LG TV 32 inch,TV & Audio,Chhatrapati Sambhajinagar,16654,12133,1
+ORD01615,2026-01-15,MacBook Air M3,Laptop,Chhatrapati Sambhajinagar,104994,79787,1
+ORD01616,2026-10-22,Redmi Note 13,Mobile,Kolhapur,14823,12136,1
+ORD01617,2026-09-09,HP Keyboard,Accessories,Nashik,1265,1081,2
+ORD01618,2026-01-20,Logitech Mouse,Accessories,Pune,784,644,1
+ORD01619,2026-02-18,Noise Smartwatch,Accessories,Pune,2776,2103,1
+ORD01620,2026-06-15,Acer Aspire 5,Laptop,Nagpur,39602,32135,2
+ORD01621,2026-03-20,Prestige Induction Cooktop,Home Appliances,Pune,3273,2956,1
+ORD01622,2026-05-14,LG TV 32 inch,TV & Audio,Satara,17218,15542,3
+ORD01623,2026-02-27,Samsung Galaxy A55,Mobile,Satara,35376,30547,1
+ORD01624,2026-09-28,Samsung Galaxy A55,Mobile,Nagpur,33373,23398,1
+ORD01625,2026-05-24,iPhone 15,Mobile,Nashik,80837,70543,3
+ORD01626,2026-05-09,Samsung Charger 25W,Accessories,Mumbai,1540,1212,2
+ORD01627,2026-05-15,Samsung Soundbar,TV & Audio,Kolhapur,13835,11467,1
+ORD01628,2026-10-10,Samsung Galaxy A55,Mobile,Solapur,31546,24102,1
+ORD01629,2026-09-01,LG Washing Machine,Home Appliances,Kolhapur,22464,19042,1
+ORD01630,2026-08-07,Logitech Mouse,Accessories,Nashik,775,637,1
+ORD01631,2026-02-21,Sony Bravia 55 inch,TV & Audio,Solapur,63980,49562,1
+ORD01632,2026-05-10,Voltas AC 1.5 Ton,Home Appliances,Kolhapur,32655,24669,1
+ORD01633,2026-10-12,boAt Soundbar,TV & Audio,Satara,7957,7048,1
+ORD01634,2026-04-13,Mi TV 43 inch,TV & Audio,Nashik,28084,24083,2
+ORD01635,2026-04-04,LG TV 32 inch,TV & Audio,Chhatrapati Sambhajinagar,17138,15301,1
+ORD01636,2026-09-14,Lenovo IdeaPad Slim 3,Laptop,Kolhapur,47953,33732,3
+ORD01637,2026-02-22,ASUS Vivobook 15,Laptop,Kolhapur,56385,,2
+ORD01638,2026-08-10,Prestige Induction Cooktop,Home Appliances,Solapur,3312,2883,1
+ORD01639,2026-08-21,Lenovo IdeaPad Slim 3,Laptop,Nashik,45254,41600,2
+ORD01640,2026-04-21,OnePlus Nord 4,Mobile,Mumbai,30383,25158,1
+ORD01641,2026-10-19,Bajaj Fan,Home Appliances,Satara,2354,1845,3
+ORD01642,2026-02-12,iPhone 15,Mobile,Mumbai,81303,71821,1
+ORD01643,2026-03-15,Havells Iron,Home Appliances,Kolhapur,1763,1424,1
+ORD01644,2026-03-10,Lenovo IdeaPad Slim 3,Laptop,Pune,45785,34942,1
+ORD01645,2026-08-08,Samsung Galaxy A55,Mobile,Nashik,33408,27360,1
+ORD01646,2026-03-08,LG TV 32 inch,TV & Audio,Solapur,16351,12152,2
+ORD01647,2026-09-16,Redmi Note 13,Mobile,Satara,14555,11207,1
+ORD01648,2026-10-21,OnePlus Nord 4,Mobile,Mumbai,32195,23363,1
+ORD01649,2026-01-12,JBL Speaker,TV & Audio,Satara,10523,9543,2
+ORD01650,2026-03-28,Havells Iron,Home Appliances,Chhatrapati Sambhajinagar,1837,1517,1
+ORD01651,2026-03-08,Philips Mixer Grinder,Home Appliances,Solapur,5172,4341,1
+ORD01652,2026-08-25,Dell Inspiron 14,Laptop,Nagpur,55187,42977,1
+ORD01653,2026-05-19,Logitech Mouse,Accessories,Chhatrapati Sambhajinagar,768,631,2
+ORD01654,2026-04-12,Philips Mixer Grinder,Home Appliances,Kolhapur,5203,4617,1
+ORD01655,2026-08-23,Logitech Mouse,Accessories,Solapur,851,753,1
+ORD01656,2026-05-28,Mi Power Bank 20000mAh,Accessories,Satara,2076,1592,1
+ORD01657,2026-03-19,Noise Smartwatch,Accessories,Mumbai,2868,2102,1
+ORD01658,2026-07-16,Logitech Mouse,Accessories,Nashik,823,622,3
+ORD01659,2026-06-13,Noise Smartwatch,Accessories,Solapur,2833,2075,1
+ORD01660,2026-02-11,MacBook Air M3,Laptop,Nagpur,99702,81110,1
+ORD01661,2026-02-21,Mi Power Bank 20000mAh,Accessories,Nagpur,1910,1640,2
+ORD01662,2026-09-08,HP Keyboard,Accessories,Nagpur,1290,928,2
+ORD01663,2026-09-03,Noise Smartwatch,Accessories,Chhatrapati Sambhajinagar,2774,2170,3
+ORD01664,2026-01-15,Prestige Induction Cooktop,Home Appliances,Nagpur,3477,2788,1
+ORD01665,2026-04-08,Dell Inspiron 14,Laptop,Solapur,61795,54368,3
+ORD01666,2026-04-24,HP Pavilion 15,Laptop,Pune,67821,58430,1
+ORD01667,2026-10-16,MacBook Air M3,Laptop,Solapur,96834,84662,1
+ORD01668,2026-02-07,Vivo V40,Mobile,Solapur,37136,33748,2
+ORD01669,2026-04-20,OnePlus Nord 4,Mobile,Solapur,27999,24543,1
+ORD01670,2026-08-25,Samsung Charger 25W,Accessories,Nagpur,1381,1140,2
+ORD01671,2026-07-20,Havells Iron,Home Appliances,Chhatrapati Sambhajinagar,1827,1497,1
+ORD01672,2026-05-09,boAt Soundbar,TV & Audio,Nagpur,7585,6132,1
+ORD01673,2026-02-25,Logitech Mouse,Accessories,Nashik,817,661,1
+ORD01674,2026-03-06,Mi TV 43 inch,TV & Audio,Pune,26218,18501,1
+ORD01675,2026-09-27,boAt Soundbar,TV & Audio,Nashik,7748,5551,1
+ORD01676,2026-06-25,HP Pavilion 15,Laptop,Solapur,65639,57309,1
+ORD01677,2026-03-11,Realme 12 Pro,Mobile,Nashik,25167,19779,1
+ORD01678,2026-03-11,ASUS Vivobook 15,Laptop,Solapur,55413,40589,1
+ORD01679,2026-08-28,LG Washing Machine,Home Appliances,Chhatrapati Sambhajinagar,22974,19775,3
+ORD01680,2026-06-15,Mi Power Bank 20000mAh,Accessories,Chhatrapati Sambhajinagar,1937,1472,2
+ORD01681,2026-07-02,LG TV 32 inch,TV & Audio,Satara,15717,13017,2
+ORD01682,2026-01-27,Noise Smartwatch,Accessories,Nagpur,3145,2219,2
+ORD01683,2026-06-14,Acer Aspire 5,Laptop,Satara,43445,37152,1
+ORD01684,2026-09-15,Samsung Charger 25W,Accessories,Chhatrapati Sambhajinagar,1513,1326,1
+ORD01685,2026-10-16,Redmi Note 13,Mobile,Mumbai,13423,11388,1
+ORD01686,2026-10-19,boAt Soundbar,TV & Audio,Satara,8587,6565,1
+ORD01687,2026-08-10,Redmi Note 13,Mobile,Pune,13004,10983,1
+ORD01688,2026-07-27,Samsung Soundbar,TV & Audio,Nashik,15903,14372,3
+ORD01689,2026-04-11,MacBook Air M3,Laptop,Chhatrapati Sambhajinagar,96772,84772,1
+ORD01690,2026-02-28,Prestige Induction Cooktop,Home Appliances,Kolhapur,3462,2660,1
+ORD01691,2026-04-15,HP Keyboard,Accessories,Kolhapur,1350,1178,1
+ORD01692,2026-01-05,Mi Power Bank 20000mAh,Accessories,Pune,2055,1572,1
+ORD01693,2026-09-02,JBL Speaker,TV & Audio,Kolhapur,9833,7994,1
+ORD01694,2026-06-26,Vivo V40,Mobile,Solapur,34647,31631,1
+ORD01695,2026-02-18,Samsung Charger 25W,Accessories,Pune,1459,1321,1
+ORD01696,2026-08-20,Bajaj Fan,Home Appliances,Nagpur,2618,1921,1
+ORD01697,2026-03-21,Realme 12 Pro,Mobile,Kolhapur,25711,22088,1
+ORD01698,2026-07-01,Samsung Galaxy A55,Mobile,Satara,33779,28551,1
+ORD01699,2026-04-11,Voltas AC 1.5 Ton,Home Appliances,Satara,32226,23776,1
+ORD01700,2026-09-15,Dell Inspiron 14,Laptop,Nagpur,62346,49343,2
+ORD01701,2026-04-25,Voltas AC 1.5 Ton,Home Appliances,Nashik,37191,28366,1
+ORD01702,2026-01-25,Dell Inspiron 14,Laptop,Nashik,55984,51182,1
+ORD01703,2026-04-22,Voltas AC 1.5 Ton,Home Appliances,Nagpur,37535,31828,1
+ORD01704,2026-04-25,Dell Inspiron 14,Laptop,Kolhapur,55811,39178,1
+ORD01705,2026-07-01,Samsung Galaxy A55,Mobile,Solapur,34992,24923,1
+ORD01706,2026-07-19,ASUS Vivobook 15,Laptop,Pune,49168,40491,1
+ORD01707,2026-03-25,Samsung Galaxy A55,Mobile,Nagpur,33034,26188,1
+ORD01708,2026-07-07,OnePlus Nord 4,Mobile,Nagpur,31154,26205,3
+ORD01709,2026-08-01,Vivo V40,Mobile,Mumbai,34214,29555,1
+ORD01710,2026-05-27,JBL Speaker,TV & Audio,Pune,9839,7196,1
+ORD01711,2026-07-16,boAt Soundbar,TV & Audio,Mumbai,7743,5421,1
+ORD01712,2026-04-06,Noise Smartwatch,Accessories,Mumbai,3069,2605,1
+ORD01713,2026-01-20,MacBook Air M3,Laptop,Nagpur,94482,72476,2
+ORD01714,2026-03-17,Logitech Mouse,Accessories,Nashik,809,598,1
+ORD01715,2026-08-07,Dell Inspiron 14,Laptop,Chhatrapati Sambhajinagar,62567,56056,1
+ORD01716,2026-01-26,boAt Soundbar,TV & Audio,Mumbai,7836,5759,1
+ORD01717,2026-07-02,boAt Earbuds,Accessories,Satara,1592,1453,2
+ORD01718,2026-04-03,Havells Iron,Home Appliances,Satara,1802,1595,1
+ORD01719,2026-09-15,Redmi Note 13,Mobile,Nashik,15048,12307,1
+ORD01720,2026-05-05,Havells Iron,Home Appliances,Kolhapur,1651,1346,2
+ORD01721,2026-08-24,Voltas AC 1.5 Ton,Home Appliances,Nagpur,37547,29022,1
+ORD01722,2026-02-24,Lenovo IdeaPad Slim 3,Laptop,Pune,46098,34242,1
+ORD01723,2026-03-24,Sony Bravia 55 inch,TV & Audio,Chhatrapati Sambhajinagar,69013,61894,1
+ORD01724,2026-10-09,Noise Smartwatch,Accessories,Nashik,3226,2494,1
+ORD01725,2026-01-24,HP Keyboard,Accessories,Satara,1272,1130,2
+ORD01726,2026-04-06,Samsung Galaxy A55,Mobile,Satara,35530,32576,1
+ORD01727,2026-10-13,boAt Earbuds,Accessories,Solapur,1516,1233,1
+ORD01728,2026-05-21,ASUS Vivobook 15,Laptop,Kolhapur,54018,43209,1
+ORD01729,2026-09-15,Mi Power Bank 20000mAh,Accessories,Pune,1920,1426,1
+ORD01730,2026-01-18,Samsung Charger 25W,Accessories,Nashik,1442,1079,1
+ORD01731,2026-05-05,Samsung Galaxy A55,Mobile,Kolhapur,35507,26182,1
+ORD01732,2026-09-06,HP Keyboard,Accessories,Satara,1285,904,1
+ORD01733,2026-04-24,Bajaj Fan,Home Appliances,Kolhapur,2355,1814,2
+ORD01734,2026-01-26,Prestige Induction Cooktop,Home Appliances,Kolhapur,3442,2740,1
+ORD01735,2026-03-04,Bajaj Fan,Home Appliances,Nashik,2576,1805,1
+ORD01736,2026-10-14,Bajaj Fan,Home Appliances,Nagpur,2636,1990,1
+ORD01737,2026-09-14,boAt Earbuds,Accessories,Solapur,1609,1144,1
+ORD01738,2026-05-23,Sony Bravia 55 inch,TV & Audio,Chhatrapati Sambhajinagar,61206,43677,1
+ORD01739,2026-07-05,Acer Aspire 5,Laptop,Nashik,42749,30307,1
+ORD01740,2026-04-13,Samsung Soundbar,TV & Audio,Nashik,15624,11600,3
+ORD01741,2026-04-09,JBL Speaker,TV & Audio,Nashik,10145,8779,1
+ORD01742,2026-04-15,Mi TV 43 inch,TV & Audio,Nashik,27975,22131,1
+ORD01743,2026-02-25,Logitech Mouse,Accessories,Solapur,732,655,1
+ORD01744,2026-10-15,Acer Aspire 5,Laptop,Nashik,41575,30728,1
+ORD01745,2026-07-27,Realme 12 Pro,Mobile,Chhatrapati Sambhajinagar,25339,21795,3
+ORD01746,2026-08-25,Realme 12 Pro,Mobile,Chhatrapati Sambhajinagar,25859,20462,2
+ORD01747,2026-10-28,MacBook Air M3,Laptop,Kolhapur,93639,65597,1
+ORD01748,2026-01-21,Acer Aspire 5,Laptop,Pune,41953,32121,1
+ORD01749,2026-06-14,Noise Smartwatch,Accessories,Chhatrapati Sambhajinagar,3110,2242,1
+ORD01750,2026-10-16,boAt Earbuds,Accessories,Nagpur,1382,1055,1
+ORD01751,2026-08-18,LG Washing Machine,Home Appliances,Satara,22572,20250,2
+ORD01752,2026-02-19,Prestige Induction Cooktop,Home Appliances,Pune,3490,2698,1
+ORD01753,2026-10-14,Philips Mixer Grinder,Home Appliances,Satara,4689,3526,1
+ORD01754,2026-09-02,iPhone 15,Mobile,Satara,81780,67317,1
+ORD01755,2026-06-04,boAt Soundbar,TV & Audio,Chhatrapati Sambhajinagar,8521,7434,1
+ORD01756,2026-06-12,Mi TV 43 inch,TV & Audio,Nagpur,27988,20519,1
+ORD01757,2026-05-25,HP Keyboard,Accessories,Nashik,1357,1152,1
+ORD01758,2026-07-25,MacBook Air M3,Laptop,Kolhapur,104322,83416,1
+ORD01759,2026-04-11,ASUS Vivobook 15,Laptop,Chhatrapati Sambhajinagar,56013,47419,1
+ORD01760,2026-03-25,Realme 12 Pro,Mobile,Satara,24295,20181,1
+ORD01761,2026-08-12,Dell Inspiron 14,Laptop,Nashik,62349,50702,1
+ORD01762,2026-09-23,Dell Inspiron 14,Laptop,Chhatrapati Sambhajinagar,54421,47795,1
+ORD01763,2026-02-03,Prestige Induction Cooktop,Home Appliances,Satara,3125,2450,1
+ORD01764,2026-07-04,Mi Power Bank 20000mAh,Accessories,Chhatrapati Sambhajinagar,2068,1660,1
+ORD01765,2026-01-08,Prestige Induction Cooktop,Home Appliances,Nashik,3543,3007,1
+ORD01766,2026-04-08,boAt Earbuds,Accessories,Solapur,1497,1103,3
+ORD01767,2026-10-16,Lenovo IdeaPad Slim 3,Laptop,Solapur,42402,36737,1
+ORD01768,2026-09-19,LG TV 32 inch,TV & Audio,Satara,16121,12817,1
+ORD01769,2026-05-14,LG Washing Machine,Home Appliances,Kolhapur,22858,17475,3
+ORD01770,2026-03-11,Mi Power Bank 20000mAh,Accessories,Nagpur,1941,1633,3
+ORD01771,2026-09-23,Prestige Induction Cooktop,Home Appliances,Solapur,3099,2182,2
+ORD01772,2026-06-23,Voltas AC 1.5 Ton,Home Appliances,Nagpur,32777,24196,1
+ORD01773,2026-08-19,Sony Bravia 55 inch,TV & Audio,Satara,65762,59731,1
+ORD01774,2026-06-16,Samsung Galaxy A55,Mobile,Nashik,30475,25030,1
+ORD01775,2026-05-24,Realme 12 Pro,Mobile,Mumbai,25393,18028,1
+ORD01776,2026-07-07,LG Washing Machine,Home Appliances,Solapur,21746,16350,1
+ORD01777,2026-09-14,Samsung Charger 25W,Accessories,Nashik,1546,1319,1
+ORD01778,2026-01-23,Havells Iron,Home Appliances,Kolhapur,1819,1328,3
+ORD01779,2026-07-24,Philips Mixer Grinder,Home Appliances,Nashik,5214,4715,1
+ORD01780,2026-03-01,Lenovo IdeaPad Slim 3,Laptop,Solapur,49520,37129,3
+ORD01781,2026-07-26,iPhone 15,Mobile,Satara,74647,53137,1
+ORD01782,2026-05-12,boAt Soundbar,TV & Audio,Nashik,7966,5844,1
+ORD01783,2026-04-12,Sony Bravia 55 inch,TV & Audio,Pune,64986,57148,1
+ORD01784,2026-10-02,HP Keyboard,Accessories,Mumbai,1351,1087,1
+ORD01785,2026-01-11,boAt Earbuds,Accessories,Satara,1419,1005,1
+ORD01786,2026-02-06,boAt Earbuds,Accessories,Nagpur,1570,1248,1
+ORD01787,2026-03-20,LG Washing Machine,Home Appliances,Kolhapur,20870,18198,1
+ORD01788,2026-03-17,Bajaj Fan,Home Appliances,Nashik,2655,2030,2
+ORD01789,2026-02-26,Mi TV 43 inch,TV & Audio,Chhatrapati Sambhajinagar,27526,19660,2
+ORD01790,2026-02-16,boAt Earbuds,Accessories,Nagpur,1462,1287,1
+ORD01791,2026-09-27,Bajaj Fan,Home Appliances,Satara,2697,1935,3
+ORD01792,2026-03-08,Mi TV 43 inch,TV & Audio,Solapur,27727,25110,1
+ORD01793,2026-08-26,ASUS Vivobook 15,Laptop,Pune,49103,44541,3
+ORD01794,2026-10-23,Philips Mixer Grinder,Home Appliances,Satara,5125,4354,1
+ORD01795,2026-04-10,Havells Iron,Home Appliances,Satara,1709,1452,1
+ORD01796,2026-06-18,JBL Speaker,TV & Audio,Solapur,9802,7960,1
+ORD01797,2026-01-17,LG Washing Machine,Home Appliances,Mumbai,21307,14951,2
+ORD01798,2026-09-06,HP Pavilion 15,Laptop,Kolhapur,61046,48273,2
+ORD01799,2026-06-18,Vivo V40,Mobile,Mumbai,32355,22885,1
+ORD01800,2026-01-07,boAt Soundbar,TV & Audio,Pune,8009,5872,1
+ORD01801,2026-04-16,Samsung Soundbar,TV & Audio,Nagpur,15931,12160,1
+ORD01802,2026-02-10,Havells Iron,Home Appliances,Mumbai,1827,1663,1
+ORD01803,2026-07-27,Acer Aspire 5,Laptop,Nagpur,44097,32504,3
+ORD01804,2026-05-14,HP Keyboard,Accessories,Chhatrapati Sambhajinagar,1204,1070,1
+ORD01805,2026-07-27,Acer Aspire 5,Laptop,Satara,43579,37479,1
+ORD01806,2026-05-20,Sony Bravia 55 inch,TV & Audio,Mumbai,68552,60210,2
+ORD01807,2026-04-03,Mi TV 43 inch,TV & Audio,Pune,27845,22866,1
+ORD01808,2026-06-06,Samsung Galaxy A55,Mobile,Chhatrapati Sambhajinagar,35122,28537,1
+ORD01809,2026-02-25,Sony Bravia 55 inch,TV & Audio,Pune,65367,56043,1
+ORD01810,2026-03-17,Samsung Soundbar,TV & Audio,Mumbai,16069,12822,1
+ORD01811,2026-03-03,JBL Speaker,TV & Audio,Pune,9374,8153,2
+ORD01812,2026-10-25,ASUS Vivobook 15,Laptop,Mumbai,53967,44448,1
+ORD01813,2026-01-05,Bajaj Fan,Home Appliances,Kolhapur,2606,1982,1
+ORD01814,2026-07-13,Mi Power Bank 20000mAh,Accessories,Nashik,1951,1709,1
+ORD01815,2026-08-01,Samsung Charger 25W,Accessories,Solapur,1394,1226,1
+ORD01816,2026-09-11,Samsung Galaxy A55,Mobile,Mumbai,33535,28729,1
+ORD01817,2026-03-24,Realme 12 Pro,Mobile,Kolhapur,24190,19498,1
+ORD01818,2026-07-01,boAt Earbuds,Accessories,Mumbai,1413,1268,1
+ORD01819,2026-10-18,LG TV 32 inch,TV & Audio,Pune,15016,13073,1
+ORD01820,2026-07-10,Realme 12 Pro,Mobile,Satara,27346,22292,1
+ORD01821,2026-08-16,boAt Soundbar,TV & Audio,Nashik,7663,6223,1
+ORD01822,2026-03-13,LG TV 32 inch,TV & Audio,Chhatrapati Sambhajinagar,16960,14768,1
+ORD01823,2026-01-15,Dell Inspiron 14,Laptop,Satara,61255,50536,1
+ORD01824,2026-04-13,Bajaj Fan,Home Appliances,Satara,2693,2403,1
+ORD01825,2026-06-11,JBL Speaker,TV & Audio,Kolhapur,10372,8529,1
+ORD01826,2026-04-19,Samsung Soundbar,TV & Audio,Nagpur,15525,13580,1
+ORD01827,2026-07-12,Voltas AC 1.5 Ton,Home Appliances,Chhatrapati Sambhajinagar,37231,29762,2
+ORD01828,2026-05-27,ASUS Vivobook 15,Laptop,Satara,49949,44759,1
+ORD01829,2026-07-17,Samsung Galaxy A55,Mobile,Satara,31505,25161,1
+ORD01830,2026-03-09,ASUS Vivobook 15,Laptop,Nashik,48952,42812,1
+ORD01831,2026-08-08,LG TV 32 inch,TV & Audio,Nashik,16711,14647,1
+ORD01832,2026-01-22,Sony Bravia 55 inch,TV & Audio,Pune,66137,49739,1
+ORD01833,2026-06-28,Redmi Note 13,Mobile,Pune,12927,9276,2
+ORD01834,2026-02-12,Logitech Mouse,Accessories,Kolhapur,757,671,1
+ORD01835,2026-02-26,LG Washing Machine,Home Appliances,Nashik,21902,16760,1
+ORD01836,2026-03-18,Lenovo IdeaPad Slim 3,Laptop,Solapur,45365,36423,1
+ORD01837,2026-03-15,Noise Smartwatch,Accessories,Pune,3165,2738,1
+ORD01838,2026-01-19,Samsung Galaxy A55,Mobile,Kolhapur,35006,28564,1
+ORD01839,2026-08-22,LG TV 32 inch,TV & Audio,Kolhapur,16173,13288,1
+ORD01840,2026-05-22,boAt Earbuds,Accessories,Satara,1591,1440,1
+ORD01841,2026-06-10,HP Pavilion 15,Laptop,Pune,67957,50695,1
+ORD01842,2026-10-14,Samsung Charger 25W,Accessories,Nashik,1614,1309,1
+ORD01843,2026-01-16,Logitech Mouse,Accessories,Kolhapur,755,648,1
+ORD01844,2026-07-11,HP Pavilion 15,Laptop,Mumbai,64495,49396,1
+ORD01845,2026-06-18,Noise Smartwatch,Accessories,Mumbai,3236,2510,1
+ORD01846,2026-04-16,MacBook Air M3,Laptop,Satara,92161,73157,1
+ORD01847,2026-06-26,Mi TV 43 inch,TV & Audio,Satara,27842,23959,1
+ORD01848,2026-09-07,boAt Soundbar,TV & Audio,Solapur,7796,5555,2
+ORD01849,2026-06-28,Logitech Mouse,Accessories,Pune,741,608,1
+ORD01850,2026-06-03,Samsung Galaxy A55,Mobile,Nashik,34615,31031,1
+ORD01851,2026-01-24,Bajaj Fan,Home Appliances,Kolhapur,2610,1905,1
+ORD01852,2026-08-21,Philips Mixer Grinder,Home Appliances,Kolhapur,4720,3692,2
+ORD01853,2026-02-06,Vivo V40,Mobile,Pune,32882,25158,1
+ORD01854,2026-02-13,Redmi Note 13,Mobile,Kolhapur,13848,10651,1
+ORD01855,2026-10-23,Bajaj Fan,Home Appliances,Nashik,2489,2182,3
+ORD01856,2026-08-06,Sony Bravia 55 inch,TV & Audio,Mumbai,67397,53230,2
+ORD01857,2026-10-07,Samsung Galaxy A55,Mobile,Pune,35502,30606,2
+ORD01858,2026-03-13,Samsung Galaxy A55,Mobile,Chhatrapati Sambhajinagar,31346,26622,3
+ORD01859,2026-06-24,LG Washing Machine,Home Appliances,Nagpur,22013,18870,1
+ORD01860,2026-03-03,Philips Mixer Grinder,Home Appliances,Mumbai,5118,3618,1
+ORD01861,2026-07-03,OnePlus Nord 4,Mobile,Solapur,29251,22194,1
+ORD01862,2026-06-23,Realme 12 Pro,Mobile,Pune,26724,22714,2
+ORD01863,2026-08-12,Voltas AC 1.5 Ton,Home Appliances,Solapur,36261,30815,1
+ORD01864,2026-10-06,HP Keyboard,Accessories,Mumbai,1260,882,1
+ORD01865,2026-07-15,HP Keyboard,Accessories,Solapur,1291,1057,3
+ORD01866,2026-01-28,Samsung Soundbar,TV & Audio,Nashik,14131,10667,1
+ORD01867,2026-01-14,HP Keyboard,Accessories,Nashik,1400,1093,1
+ORD01868,2026-08-05,MacBook Air M3,Laptop,Chhatrapati Sambhajinagar,107125,93441,1
+ORD01869,2026-09-09,Mi Power Bank 20000mAh,Accessories,Nagpur,1846,1539,1
+ORD01870,2026-03-16,ASUS Vivobook 15,Laptop,Mumbai,53895,43665,1
+ORD01871,2026-05-05,boAt Earbuds,Accessories,Nagpur,1395,1184,1
+ORD01872,2026-05-21,LG Washing Machine,Home Appliances,Nashik,23058,19101,1
+ORD01873,2026-10-05,Noise Smartwatch,Accessories,Chhatrapati Sambhajinagar,2908,2280,1
+ORD01874,2026-10-16,Noise Smartwatch,Accessories,Pune,2938,2258,1
+ORD01875,2026-04-28,OnePlus Nord 4,Mobile,Kolhapur,29375,25435,3
+ORD01876,2026-04-05,Sony Bravia 55 inch,TV & Audio,Kolhapur,65561,51991,1
+ORD01877,2026-04-16,Bajaj Fan,Home Appliances,Solapur,2582,2029,2
+ORD01878,2026-10-11,iPhone 15,Mobile,Pune,80040,71954,2
+ORD01879,2026-05-03,LG Washing Machine,Home Appliances,Solapur,21858,15779,3
+ORD01880,2026-01-16,Samsung Soundbar,TV & Audio,Nagpur,15688,13480,1
+ORD01881,2026-09-05,Acer Aspire 5,Laptop,Chhatrapati Sambhajinagar,38651,32530,1
+ORD01882,2026-04-20,HP Keyboard,Accessories,Pune,1399,1101,1
+ORD01883,2026-09-10,Noise Smartwatch,Accessories,Nagpur,2788,2022,1
+ORD01884,2026-04-05,JBL Speaker,TV & Audio,Chhatrapati Sambhajinagar,10320,7558,1
+ORD01885,2026-08-25,Redmi Note 13,Mobile,Nashik,14338,10786,1
+ORD01886,2026-06-04,boAt Soundbar,TV & Audio,Chhatrapati Sambhajinagar,7848,6949,1
+ORD01887,2026-10-05,Sony Bravia 55 inch,TV & Audio,Kolhapur,61847,48646,1
+ORD01888,2026-03-11,Redmi Note 13,Mobile,Satara,12996,11023,1
+ORD01889,2026-06-20,Philips Mixer Grinder,Home Appliances,Mumbai,5098,3965,1
+ORD01890,2026-01-24,Logitech Mouse,Accessories,Nashik,803,638,2
+ORD01891,2026-03-23,Mi TV 43 inch,TV & Audio,Nagpur,28843,25648,1
+ORD01892,2026-02-16,iPhone 15,Mobile,Satara,85938,72670,1
+ORD01893,2026-03-18,Philips Mixer Grinder,Home Appliances,Pune,5014,3905,1
+ORD01894,2026-04-08,ASUS Vivobook 15,Laptop,Mumbai,50099,37684,2
+ORD01895,2026-01-02,Philips Mixer Grinder,Home Appliances,Nagpur,4637,3406,1
+ORD01896,2026-07-25,Lenovo IdeaPad Slim 3,Laptop,Satara,49333,43892,1
+ORD01897,2026-07-18,Vivo V40,Mobile,Pune,36485,29615,1
+ORD01898,2026-01-12,Samsung Galaxy A55,Mobile,Pune,33472,29256,1
+ORD01899,2026-03-18,Voltas AC 1.5 Ton,Home Appliances,Mumbai,35041,25847,1
+ORD01900,2026-04-25,Voltas AC 1.5 Ton,Home Appliances,Chhatrapati Sambhajinagar,33677,28210,1
+ORD01901,2026-05-15,Mi Power Bank 20000mAh,Accessories,Mumbai,1943,1676,1
+ORD01902,2026-04-06,LG TV 32 inch,TV & Audio,Pune,17186,13271,2
+ORD01903,2026-04-25,OnePlus Nord 4,Mobile,Chhatrapati Sambhajinagar,31461,23803,2
+ORD01904,2026-04-19,MacBook Air M3,Laptop,Chhatrapati Sambhajinagar,105075,88325,1
+ORD01905,2026-06-07,MacBook Air M3,Laptop,Solapur,92371,84730,2
+ORD01906,2026-03-16,boAt Soundbar,TV & Audio,Solapur,7778,5472,1
+ORD01907,2026-04-03,Prestige Induction Cooktop,Home Appliances,Pune,3181,2236,2
+ORD01908,2026-01-10,Redmi Note 13,Mobile,Solapur,14266,10434,3
+ORD01909,2026-04-21,boAt Soundbar,TV & Audio,Nagpur,8086,7155,1
+ORD01910,2026-01-10,boAt Soundbar,TV & Audio,Mumbai,8480,7660,1
+ORD01911,2026-04-04,iPhone 15,Mobile,Mumbai,75321,61724,3
+ORD01912,2026-10-23,Samsung Soundbar,TV & Audio,Chhatrapati Sambhajinagar,13825,12457,1
+ORD01913,2026-03-07,boAt Earbuds,Accessories,Pune,1547,1260,2
+ORD01914,2026-08-14,boAt Soundbar,TV & Audio,Nashik,7842,7151,1
+ORD01915,2026-05-23,Vivo V40,Mobile,Chhatrapati Sambhajinagar,37224,28869,3
+ORD01916,2026-04-08,Samsung Soundbar,TV & Audio,Solapur,15714,14372,1
+ORD01917,2026-09-23,Realme 12 Pro,Mobile,Solapur,24102,19187,2
+ORD01918,2026-10-12,Acer Aspire 5,Laptop,Solapur,44331,40323,1
+ORD01919,2026-09-18,LG TV 32 inch,Laptop ,Nashik,15130,11727,1
+ORD01920,2026-06-15,Noise Smartwatch,Accessories,Kolhapur,3065,2545,1
+ORD01921,2026-09-14,Mi Power Bank 20000mAh,Accessories,Kolhapur,2099,1584,1
+ORD01922,2026-06-21,Mi TV 43 inch,TV & Audio,Solapur,27440,19904,1
+ORD01923,2026-09-28,LG TV 32 inch,TV & Audio,Nashik,16915,14950,1
+ORD01924,2026-10-05,Voltas AC 1.5 Ton,Home Appliances,Nagpur,35215,25952,1
+ORD01925,2026-09-02,Mi TV 43 inch,TV & Audio,Pune,28396,20622,3
+ORD01926,2026-04-22,Philips Mixer Grinder,Home Appliances,Kolhapur,4798,3833,3
+ORD01927,2026-07-17,Mi TV 43 inch,TV & Audio,Satara,26245,19316,1
+ORD01928,2026-02-08,MacBook Air M3,Laptop,Solapur,97608,81038,2
+ORD01929,2026-09-26,Acer Aspire 5,Laptop,Pune,44645,39224,1
+ORD01930,2026-07-10,Samsung Soundbar,TV & Audio,Nagpur,15987,12264,1
+ORD01931,2026-01-10,Havells Iron,Home Appliances,Pune,1679,1244,1
+ORD01932,2026-08-04,Lenovo IdeaPad Slim 3,Laptop,Satara,48401,37283,1
+ORD01933,2026-07-12,Noise Smartwatch,Accessories,Nagpur,2952,2263,1
+ORD01934,2026-10-02,HP Keyboard,Accessories,Solapur,1323,950,1
+ORD01935,2026-07-25,OnePlus Nord 4,Mobile,Pune,29133,26603,2
+ORD01936,2026-08-01,boAt Soundbar,TV & Audio,Satara,8110,5890,3
+ORD01937,2026-02-03,OnePlus Nord 4,Mobile,Nagpur,31242,28146,1
+ORD01938,2026-08-02,OnePlus Nord 4,Mobile,Kolhapur,29422,24884,1
+ORD01939,2026-07-04,Samsung Charger 25W,Accessories,Mumbai,1565,1146,1
+ORD01940,2026-08-03,MacBook Air M3,Laptop,Nashik,105792,79155,3
+ORD01941,2026-01-09,Sony Bravia 55 inch,TV & Audio,Pune,67039,55951,3
+ORD01942,2026-01-10,LG Washing Machine,Home Appliances,Kolhapur,20842,17103,2
+ORD01943,2026-08-16,Mi TV 43 inch,TV & Audio,Nagpur,27805,19656,1
+ORD01944,2026-07-02,OnePlus Nord 4,Mobile,Chhatrapati Sambhajinagar,31322,23257,2
+ORD01945,2026-04-23,Lenovo IdeaPad Slim 3,Laptop,Solapur,44813,34494,2
+ORD01946,2026-10-19,Redmi Note 13,Mobile,Mumbai,13247,11803,3
+ORD01947,2026-09-23,JBL Speaker,TV & Audio,Kolhapur,9785,7498,1
+ORD01948,2026-07-03,Philips Mixer Grinder,Home Appliances,Pune,4929,4498,1
+ORD01949,2026-09-08,iPhone 15,Mobile,Nashik,84729,65560,1
+ORD01950,2026-08-22,Redmi Note 13,Mobile,Kolhapur,13241,10520,1
+ORD01951,2026-10-14,Voltas AC 1.5 Ton,Home Appliances,Pune,34866,24630,1
+ORD01952,2026-07-01,Philips Mixer Grinder,Home Appliances,Kolhapur,4781,4243,1
+ORD01953,2026-10-17,Vivo V40,Mobile,Mumbai,36612,32775,1
+ORD01954,2026-04-07,Mi Power Bank 20000mAh,Accessories,Solapur,1941,1682,1
+ORD01955,2026-09-28,JBL Speaker,TV & Audio,Pune,9541,8416,1
+ORD01956,2026-02-16,Acer Aspire 5,Laptop,Pune,39483,31896,2
+ORD01957,2026-06-08,Bajaj Fan,Home Appliances,Chhatrapati Sambhajinagar,2397,1808,2
+ORD01958,2026-07-01,Mi TV 43 inch,TV & Audio,Nagpur,28089,25577,1
+ORD01959,2026-03-16,HP Keyboard,Accessories,Satara,1288,948,1
+ORD01960,2026-07-20,Lenovo IdeaPad Slim 3,Laptop,Mumbai,46718,40024,2
+ORD01961,2026-01-12,Mi TV 43 inch,TV & Audio,Chhatrapati Sambhajinagar,27265,20858,2
+ORD01962,2026-05-27,Sony Bravia 55 inch,TV & Audio,Kolhapur,64620,47980,2
+ORD01963,2026-10-23,HP Keyboard,Accessories,Nashik,1301,1086,2
+ORD01964,2026-09-20,Sony Bravia 55 inch,TV & Audio,Pune,60736,49334,1
+ORD01965,2026-09-08,Noise Smartwatch,Accessories,Kolhapur,2887,2484,1
+ORD01966,2026-06-17,Mi Power Bank 20000mAh,Accessories,Satara,2020,1704,1
+ORD01967,2026-10-26,Logitech Mouse,Accessories,Nashik,807,624,1
+ORD01968,2026-06-07,Mi Power Bank 20000mAh,Accessories,Solapur,2058,1730,1
+ORD01969,2026-04-07,Prestige Induction Cooktop,Home Appliances,Kolhapur,3122,2375,2
+ORD01970,2026-05-19,Acer Aspire 5,Laptop,Solapur,44069,36908,1
+ORD01971,2026-07-27,Voltas AC 1.5 Ton,Home Appliances,Satara,33010,25968,1
+ORD01972,2026-08-18,Redmi Note 13,Mobile,Chhatrapati Sambhajinagar,13302,9504,3
+ORD01973,2026-08-20,Prestige Induction Cooktop,Home Appliances,Pune,3253,2803,3
+ORD01974,2026-06-25,JBL Speaker,TV & Audio,Mumbai,9818,8775,1
+ORD01975,2026-02-24,Redmi Note 13,Mobile,Satara,13500,10791,1
+ORD01976,2026-06-20,HP Pavilion 15,Laptop,Chhatrapati Sambhajinagar,66933,53236,1
+ORD01977,2026-05-18,HP Keyboard,Accessories,Kolhapur,1245,1085,1
+ORD01978,2026-03-26,Lenovo IdeaPad Slim 3,Laptop,Satara,42479,33622,2
+ORD01979,2026-10-09,MacBook Air M3,Laptop,Solapur,101850,72315,1
+ORD01980,2026-10-06,Redmi Note 13,Mobile,Nashik,13430,11155,1
+ORD01981,2026-10-28,Dell Inspiron 14,Laptop,Satara,55284,47957,1
+ORD01982,2026-08-15,Samsung Soundbar,TV & Audio,Nashik,14347,10525,1
+ORD01983,2026-04-22,LG TV 32 inch,TV & Audio,Solapur,16631,15216,2
+ORD01984,2026-07-27,LG TV 32 inch,TV & Audio,Solapur,15586,14268,1
+ORD01985,2026-07-06,Bajaj Fan,Home Appliances,Satara,2448,1873,1
+ORD01986,2026-05-08,Lenovo IdeaPad Slim 3,Laptop,Satara,44622,37075,1
+ORD01987,2026-02-15,LG Washing Machine,Home Appliances,Mumbai,23610,18155,1
+ORD01988,2026-08-14,LG TV 32 inch,TV & Audio,Pune,15593,13039,1
+ORD01989,2026-05-16,Sony Bravia 55 inch,TV & Audio,Nashik,63411,54584,2
+ORD01990,2026-04-28,Lenovo IdeaPad Slim 3,Laptop,Mumbai,48592,37809,1
+ORD01991,2026-03-03,Sony Bravia 55 inch,TV & Audio,Mumbai,60289,52434,2
+ORD01992,2026-03-28,boAt Earbuds,Accessories,Satara,1505,1300,1
+ORD01993,2026-04-28,Mi Power Bank 20000mAh,Accessories,Pune,1912,1628,1
+ORD01994,2026-03-10,Philips Mixer Grinder,Home Appliances,Solapur,5053,3778,2
+ORD01995,2026-02-03,Samsung Soundbar,TV & Audio,Pune,14357,10657,1
+ORD01996,2026-06-24,Mi Power Bank 20000mAh,Accessories,Nashik,2009,1504,1
+ORD01997,2026-03-25,MacBook Air M3,Laptop,Chhatrapati Sambhajinagar,106903,92573,1
+ORD01998,2026-03-02,Philips Mixer Grinder,Home Appliances,Solapur,4995,3612,1
+ORD01999,2026-05-15,Lenovo IdeaPad Slim 3,Laptop,Nagpur,44090,34656,1
+ORD02000,2026-10-25,Samsung Soundbar,TV & Audio,Mumbai,15494,11823,1
+ORD00151,2026-02-22,Mi Power Bank 20000mAh,Accessories,Mumbai,2154,1726,2
+ORD01229,2026-03-22,LG TV 32 inch,TV & Audio,Nashik,15037,13803,1
+ORD00753,2026-02-15,Bajaj Fan,Home Appliances,Chhatrapati Sambhajinagar,2336,1737,1
+ORD01725,2026-01-24,HP Keyboard,Accessories,Satara,1272,1130,2
+ORD00612,2026-01-01,ASUS Vivobook 15,Laptop,Nagpur,57030,43707,1
+ORD00237,2026-09-10,LG Washing Machine,Home Appliances,Chhatrapati Sambhajinagar,22405,20463,2
+ORD01238,2026-09-08,LG Washing Machine,Home Appliances,Nashik,23624,18228,2
+ORD01852,2026-08-21,Philips Mixer Grinder,Home Appliances,Kolhapur,4720,3692,2
