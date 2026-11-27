@@ -45,6 +45,21 @@ identical results.
 | Q5 | Customers per city (cleaned) | Pune 7, Mumbai 5, Nashik 2, Nagpur 2, Unknown 1 |
 | Q6 | Phone / pincode validity (cleaned) | Phone: 14 valid, 1 invalid (Rohit Kumar), 2 missing. Pincode: 15 valid, 2 invalid (Kavya Nair, Sanjay Rao), 0 missing |
 
+## Before / after cleaning
+
+| Step | Rows left |
+|------|-----------|
+| Raw sign-ups, as the file arrived | 22 |
+| After dropping exact duplicate rows | 20 |
+| After keeping one row per email (case-insensitive) | 18 |
+| After dropping rows with no email | **17 usable customers** |
+
+## What I found
+
+- 5 of the 22 rows (about 23%) were duplicates or unusable. Without cleaning, the store would report 22 customers when it really has 17 — and every per-customer number after that (average spend, repeat rate) would be quietly wrong.
+- 4 people signed up twice with the same email typed in different cases. Counted raw, growth looks better than it is, and those 4 would get every offer and message twice.
+- Even the cleaned list is not fully reachable: Rohit Kumar's phone has only 9 digits, and Kavya Nair's and Sanjay Rao's pincodes are too short. Those deliveries and calls would fail — a simple length check on the sign-up form would have stopped all three at the door.
+
 ## Python vs SQL approach
 
 | Step | Python (pandas) | SQL (SQLite) |
