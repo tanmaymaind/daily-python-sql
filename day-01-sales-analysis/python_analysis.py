@@ -29,3 +29,24 @@ print(df.groupby("product")["amount"].sum().sort_values(ascending=False).head(3)
 print()
 print("Q5 — Average order value: Rs.", f"{df['amount'].mean():,.2f}")
 print("Q6 — Total units sold:", int(df["quantity"].sum()))
+
+# --- Chart (added 2026-11-27) -------------------------------------------
+# Revenue by region, bar chart -> chart.svg
+# (Re-reads the CSV and recomputes Q2; prints nothing.)
+import matplotlib
+matplotlib.use("Agg")
+import matplotlib.pyplot as plt
+
+_d = pd.read_csv("data/sales.csv")
+_d["amount"] = _d["quantity"] * _d["unit_price"]
+_by_region = _d.groupby("region")["amount"].sum().sort_values(ascending=False)
+fig, ax = plt.subplots(figsize=(8, 4.5))
+ax.bar(_by_region.index, _by_region.values, color="#1565c0")
+for i, v in enumerate(_by_region.values):
+    ax.text(i, v + 6000, f"Rs. {v:,.0f}", ha="center", fontsize=9)
+ax.set_ylabel("Revenue (Rs.)")
+ax.set_title("Revenue by region")
+ax.set_ylim(0, _by_region.max() * 1.15)
+fig.tight_layout()
+fig.savefig("chart.svg", format="svg")
+plt.close(fig)

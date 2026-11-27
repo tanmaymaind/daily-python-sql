@@ -29,6 +29,10 @@ Mumbai alone is 45% of the revenue, and one product — the Laptop — is
 worth ₹2,20,000 by itself. That was the first thing that jumped out at
 me when the numbers came back.
 
+![Chart](chart.svg)
+
+*Revenue by region — Mumbai alone is ₹2,49,969, more than Delhi and Pune put together (₹1,81,044).*
+
 ## Files
 
 - `data/sales.csv` — the dataset (20 rows)
@@ -40,6 +44,12 @@ me when the numbers came back.
 
 - pandas: `read_csv`, calculated columns, `groupby` + `sum` + `sort_values`, `head`
 - SQL: `SUM`, `AVG`, `GROUP BY`, `ORDER BY ... DESC`, `LIMIT`
+
+## What I found
+
+- Mumbai brings ₹2,49,969 of the ₹5,51,983 total — about 45%. Nearly half the shop's money depends on one city, so if Mumbai has a slow month, the whole total drops with it.
+- Computers are the real business: ₹3,54,991, about 64% of all revenue, and laptops alone are ₹2,20,000. The other three categories together are smaller than computers by themselves.
+- Pune is the smallest region at ₹82,067 (about 15%) — less than a third of Mumbai. That gap is also the opportunity: Pune is where growth can come from without depending even more on Mumbai.
 
 What stuck with me: `groupby` in pandas and `GROUP BY` in SQL are the
 same idea in two languages. Once you can turn a business question into a
