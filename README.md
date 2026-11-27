@@ -35,3 +35,4 @@ grow together instead of one racing ahead of the other.
 | 07 | [Employee Hierarchy: Self-Joins](day-07-employee-hierarchy-self-joins/) ✅ | pandas self-merge / recursive climb, SQL self-JOIN / WITH RECURSIVE CTE |
 | 08 | [HAVING vs WHERE: Food-Delivery Orders](day-08-having-vs-where/) ✅ | pandas groupby filter / .query, SQL WHERE vs HAVING / CTE |
 | 09 | [String Functions: Bookstore Catalogue](day-09-string-functions-bookstore/) ✅ | pandas str.contains / str.len / str.split / str.upper, SQL LIKE / LENGTH / SUBSTR / INSTR / UPPER / \|\| |
+| 10 | [CTEs in Detail: Monthly Profitability](day-10-ctes-monthly-profitability/) ✅ | CTE chains (cleaned → monthly → ranked), SQL RANK / LAG, pandas rank / shift |
