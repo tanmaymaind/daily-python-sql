@@ -1,10 +1,10 @@
 # Day 7 — Employee Hierarchy: Self-Joins
 
-A Pune IT services company keeps its org chart in a single table: every
-employee has a `manager_id` that points at another row of the same table
-(blank only for the CEO). This exercise joins the table to itself to
-answer reporting questions — the same 6 questions answered in pandas and
-in SQLite, with identical results.
+Day 7 starts with a fun idea: a Pune IT services company keeps its whole
+org chart in a single table. Every employee has a `manager_id` that
+points at another row of the same table (blank only for the CEO). So one
+table, joined to itself, becomes the whole organisation. I answered the
+same 6 questions in pandas and in SQLite, with identical results.
 
 ## Dataset
 
@@ -18,8 +18,9 @@ below the CEO:
 - Level 2: their 9 direct reports, including two team leads —
   Vikram Singh (Sales) and Sneha Kulkarni (Engineering).
 - Level 3: 7 people reporting to Vikram and Sneha.
-- Deliberate wrinkle: two of Sneha's engineers earn more than she does
-  (Nikhil Gupta ₹82,000 and Tanvi Shah ₹79,000 vs Sneha's ₹78,000).
+- The wrinkle I built in on purpose: two of Sneha's engineers earn more
+  than she does (Nikhil Gupta ₹82,000 and Tanvi Shah ₹79,000 vs Sneha's
+  ₹78,000).
 
 ## Questions & results
 

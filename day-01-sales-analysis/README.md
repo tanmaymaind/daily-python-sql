@@ -1,7 +1,9 @@
 # Day 1 — Sales Analysis: Revenue by Region & Product
 
-A small electronics-store sales dataset (20 orders, 4 cities), analysed twice:
-once in Python (pandas) and once in SQL (SQLite) — same questions, same answers.
+Day 1, and I started simple: a small electronics-store sales dataset (20
+orders, 4 cities). I answered the same 6 questions twice — once in Python
+(pandas) and once in SQL (SQLite) — just to prove to myself that both
+tools give the same answers.
 
 ## Business questions
 
@@ -23,6 +25,10 @@ once in Python (pandas) and once in SQL (SQLite) — same questions, same answer
 - **Average order value:** ₹27,599.15
 - **Total units sold:** 121
 
+Mumbai alone is 45% of the revenue, and one product — the Laptop — is
+worth ₹2,20,000 by itself. That was the first thing that jumped out at
+me when the numbers came back.
+
 ## Files
 
 - `data/sales.csv` — the dataset (20 rows)
@@ -34,3 +40,7 @@ once in Python (pandas) and once in SQL (SQLite) — same questions, same answer
 
 - pandas: `read_csv`, calculated columns, `groupby` + `sum` + `sort_values`, `head`
 - SQL: `SUM`, `AVG`, `GROUP BY`, `ORDER BY ... DESC`, `LIMIT`
+
+What stuck with me: `groupby` in pandas and `GROUP BY` in SQL are the
+same idea in two languages. Once you can turn a business question into a
+grouping, the tool is just syntax.

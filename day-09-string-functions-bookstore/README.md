@@ -1,10 +1,10 @@
 # Day 9 — String Functions: Bookstore Catalogue
 
-A small Indian bookstore wants its catalogue to work harder — find the
-"Guide" books, spot the longest titles, group authors by surname, and
-print tidy shelf labels. Text is data too: `LIKE` / `contains`,
-`LENGTH`, `SUBSTR` / `INSTR`, `UPPER` and `||` concatenation do the
-job in both pandas and SQLite, with identical results.
+Day 9 is about text. A small Indian bookstore wants its catalogue to work
+harder — find the "Guide" books, spot the longest titles, group authors
+by surname, and print tidy shelf labels. Text is data too: `LIKE` /
+`contains`, `LENGTH`, `SUBSTR` / `INSTR`, `UPPER` and `||` concatenation
+do the job in both pandas and SQLite, with identical results.
 
 ## Dataset
 
@@ -40,12 +40,13 @@ what makes the Q5 surname trick work.
 
 ## Rounding note
 
-Fiction's mean price is exactly ₹411.625 (₹3,293 ÷ 8). Python's
-built-in `round()` uses banker's rounding and gives ₹411.62, while
-SQLite's `ROUND()` rounds half away from zero and gives ₹411.63. The
-Python script therefore rounds with `decimal.Decimal` + `ROUND_HALF_UP`
-so both scripts print the same number — a real gotcha when the same
-analysis has to agree in two languages.
+This one caught me out, so it's worth writing down. Fiction's mean price
+is exactly ₹411.625 (₹3,293 ÷ 8). Python's built-in `round()` uses
+banker's rounding and gives ₹411.62, while SQLite's `ROUND()` rounds half
+away from zero and gives ₹411.63. So the Python script rounds with
+`decimal.Decimal` + `ROUND_HALF_UP` instead, and both scripts print the
+same number. It's a small gotcha, but it's exactly the kind of thing
+that bites you when the same analysis has to agree in two languages.
 
 ## How to run
 

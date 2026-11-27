@@ -1,12 +1,11 @@
 # Day 8 — HAVING vs WHERE: Food-Delivery Orders
 
-A food-delivery business in 5 Indian cities wants to know which places
-and customers are really performing — and the answer changes depending
-on *when* you filter. `WHERE` filters rows **before** grouping;
-`HAVING` filters groups **after** grouping. This exercise asks the
-same 6 questions in pandas and in SQLite, with identical results — and
-Q5 shows the two filters giving different answers to the same ₹300
-cut-off on purpose.
+Day 8 is about a distinction that trips up a lot of people, me included:
+`WHERE` and `HAVING` look similar but they filter at different moments.
+`WHERE` filters rows **before** grouping; `HAVING` filters groups
+**after** grouping. So the same ₹300 cut-off can give you two different
+answers — and Q5 shows exactly that, on purpose. Same 6 questions in
+pandas and in SQLite, with identical results.
 
 ## Dataset
 
@@ -48,6 +47,6 @@ python3 sql_analysis.py      # loads the CSV into SQLite and runs queries.sql
 Both print the same answers. The biggest lesson: **WHERE and HAVING
 answer different questions** — "which orders are big?" (WHERE, rows)
 is not the same as "which cities have big *average* orders?" (HAVING,
-groups). Filtering in the wrong place silently changes the answer, as
-Q5 shows: Pune and Nashik look strong on big orders but fall below
-₹300 on average order value.
+groups). Filter in the wrong place and the answer changes without any
+error telling you — Q5 shows it clearly: Pune and Nashik look strong on
+big orders but fall below ₹300 on average order value.

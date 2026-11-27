@@ -1,8 +1,8 @@
 # Day 4 — Monthly Sales Trend: Date Functions
 
-30 orders from a Pune electronics store (Jan–Jun 2026), analysed twice:
-once in Python (pandas) and once in SQL (SQLite date functions) — same
-questions, same answers.
+Day 4 was all about dates. 30 orders from a Pune electronics store
+(Jan–Jun 2026, 5 orders every month), and the same 6 questions in pandas
+and in SQL (SQLite date functions) — and the answers matched exactly.
 
 ## Business questions
 
@@ -25,6 +25,10 @@ questions, same answers.
 - **Weekend vs weekday:** 7 weekend orders brought ₹1,88,092 (30% of revenue) vs 23 weekday orders at ₹4,30,574
 - **Quarterly totals:** Q1 ₹2,48,383 (15 orders) · Q2 ₹3,70,283 (15 orders) — Q2 beat Q1 by 49% on the same order count
 
+April nearly doubled the other months on the same 5 orders — two laptops
+did that. And Q2 beat Q1 by 49% with the exact same number of orders,
+which tells you it was about *what* sold, not how much.
+
 ## Files
 
 - `data/orders.csv` — the dataset (30 rows: 5 orders × 6 months, Jan–Jun 2026)
@@ -36,3 +40,7 @@ questions, same answers.
 
 - pandas: `parse_dates`, `dt.strftime`, `dt.quarter`, `dt.dayofweek`, `pct_change`-style growth with `shift`
 - SQL: `strftime('%Y-%m' / '%w' / '%m')` for month, weekday and quarter extraction, `LAG()` for month-over-month comparison
+
+What stuck with me: dates are dimensions, not labels. Once you can pull
+month, quarter and weekday out of a date, the same sales table starts
+telling you *when* the business actually happens.

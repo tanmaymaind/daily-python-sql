@@ -1,22 +1,24 @@
 # Daily Python & SQL for Data Analysis
 
-One small, real data-analysis exercise every day — Python (pandas) and SQL
-(SQLite) answering the same business questions on the same dataset, so the
-two skills grow together.
+I'm teaching myself data analysis by doing one small, real exercise every
+day. Each day I answer the same business questions twice — once in Python
+(pandas) and once in SQL (SQLite) — on the same dataset, so both skills
+grow together instead of one racing ahead of the other.
 
 ## How it works
 
-- Each day lives in its own `day-NN-name/` folder.
-- Every day has: a small dataset (`data/`), a Python analysis
+- Every day lives in its own `day-NN-name/` folder.
+- Each day has: a small dataset (`data/`), a Python analysis
   (`python_analysis.py`), the same analysis in SQL (`queries.sql` +
-  `sql_analysis.py`), and a short write-up (`README.md`) with the real results.
-- Everything runs with free, local tools: Python 3, pandas, and SQLite
-  (built into Python). No paid services, no API keys.
+  `sql_analysis.py`), and a short write-up (`README.md`) with the real
+  results I actually got.
+- I run everything with free, local tools: Python 3, pandas, and SQLite
+  (which comes built into Python). No paid services, no API keys.
 
-## Rules
+## My rules for the series
 
-- Real runnable code only — every script is run before it is pushed, and the
-  write-up carries the real measured numbers.
+- Real runnable code only — I run every script before I push it, and the
+  write-up carries the numbers it actually printed.
 - One day = one small exercise. Small and daily beats big and rare.
 - Never backdate commits.
 

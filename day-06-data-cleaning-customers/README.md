@@ -1,17 +1,18 @@
 # Day 6 — Data Cleaning: Nulls, Duplicates & Types
 
-A Pune online grocery store's customer sign-up list arrived messy: the same
+Day 6 is the unglamorous one — and probably the most important so far. A
+Pune online grocery store's customer sign-up list arrived messy: the same
 person signed up twice, emails were typed in different cases, phones came
-with a `+91` prefix or too few digits, cities were spelled inconsistently,
-and a few fields were blank. This exercise cleans that list and counts what
-survives — the same 6 questions answered in pandas and in SQLite, with
+with a `+91` prefix or too few digits, cities were spelled
+inconsistently, and a few fields were blank. Before any analysis, the
+data had to be cleaned — same rules in pandas and in SQLite, with
 identical results.
 
 ## Dataset
 
 `data/customers_raw.csv` — 22 raw sign-up rows, 7 columns
 (`customer_id`, `name`, `email`, `phone`, `city`, `pincode`,
-`signup_date`). Deliberate mess, all realistic:
+`signup_date`). The mess is deliberate, and all of it is realistic:
 
 - Rows 12 and 22 are exact re-sign-ups of rows 2 and 7 (new `customer_id`,
   same everything else).
@@ -64,4 +65,5 @@ python3 sql_analysis.py      # loads the CSV into SQLite and runs queries.sql
 
 Both print the same answers. The biggest lesson: **5 of the 22 rows (23%)
 were unusable or duplicated** — cleaning first is what makes every later
-analysis trustworthy.
+analysis trustworthy. A dashboard built on dirty data is just a confident
+mistake.

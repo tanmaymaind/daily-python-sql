@@ -1,8 +1,9 @@
 # Day 5 — Product Profitability: CASE WHEN & CTEs
 
-20 products from a Pune electronics store, analysed twice: once in Python
-(pandas) and once in SQL (SQLite `CASE WHEN` + CTEs) — same questions,
-same answers.
+Day 5 was about the gap between revenue and profit. 20 products from a
+Pune electronics store, analysed in pandas and in SQL (SQLite `CASE
+WHEN` + CTEs). Revenue is not profit — that's the whole point of this
+one.
 
 ## Business questions
 
@@ -25,6 +26,10 @@ same answers.
 - **Category summary:** Mobile leads revenue (₹33,91,676) and profit (₹5,88,676) but at the lowest average margin (17.73%) · Accessories has the best average margin (38.82%) on the smallest revenue (₹3,22,631) · Audio 35.07% · Laptop 17.10%
 - **Top 3 by total profit:** Redmi Note 13 ₹1,46,958 · Samsung Galaxy M34 ₹1,39,965 · Dell Inspiron 15 ₹1,20,890 — volume beats margin: the top earners are mid-margin phones, not the 49.9% earbuds
 
+The earbuds have the best margin in the shop (49.9%) and still aren't
+anywhere near the top earners — the mid-margin phones sell in such volume
+that they win on total profit anyway. That surprised me.
+
 ## Files
 
 - `data/products.csv` — the dataset (20 rows: product, category, cost/selling price, units sold, stock)
@@ -36,3 +41,7 @@ same answers.
 
 - pandas: `np.select` as the `CASE WHEN` equivalent, `groupby().transform()` for category averages, `nlargest`
 - SQL: `CASE WHEN` for margin bands and stock status, CTEs (`WITH ... AS`) to compute once and reuse, `JOIN` against a CTE
+
+What stuck with me: `CASE WHEN` turns a continuous number into a
+business decision (High / Medium / Low), and CTEs let you build that
+logic step by step instead of one giant unreadable query.

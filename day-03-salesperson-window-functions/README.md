@@ -1,8 +1,10 @@
 # Day 3 — Salesperson Performance: Window Functions
 
-Monthly revenue for 8 salespeople across 4 regions (24 rows, Jul–Sep 2026),
-analysed twice: once in Python (pandas) and once in SQL (SQLite window
-functions) — same questions, same answers.
+Day 3 is the one where window functions finally clicked for me. Monthly
+revenue for 8 salespeople across 4 regions (24 rows, Jul–Sep 2026) — I
+did it in SQL with `RANK()`, running totals and `LAG()`, and then found
+the pandas equivalents (`rank`, `cumsum`, `shift`). Same questions, same
+answers, both ways.
 
 ## Business questions
 
@@ -25,6 +27,10 @@ functions) — same questions, same answers.
 - **Best month:** September for 7 of 8 salespeople — the exception is Karan Singh, whose best month was July (₹3,45,000)
 - **Vs region average:** Aarav +₹1,60,000 above Mumbai's ₹14,05,000 · Priya +₹1,27,500 above Pune's ₹8,82,500 · Vikram +₹42,500 above Nashik's ₹6,07,500 · Karan +₹72,500 above Nagpur's ₹8,87,500
 
+September was the best month for almost everyone — 7 out of 8 people.
+That's the sort of pattern you only see once you line the months up
+side by side.
+
 ## Files
 
 - `data/monthly_sales.csv` — the dataset (24 rows: 8 salespeople × 3 months)
@@ -36,3 +42,7 @@ functions) — same questions, same answers.
 
 - pandas: `groupby + rank`, `cumsum` for running totals, `shift` for previous-row values, `transform('mean')` for group averages
 - SQL: `RANK()`, `ROW_NUMBER()`, `SUM() OVER`, `LAG()`, `AVG() OVER` — window functions with `PARTITION BY`
+
+What stuck with me: window functions answer questions a plain `GROUP
+BY` can't — ranks, running totals and "compared to the average" all need
+the rows to stay visible while the calculation happens around them.
