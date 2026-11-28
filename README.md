@@ -36,3 +36,4 @@ grow together instead of one racing ahead of the other.
 | 08 | [HAVING vs WHERE: Food-Delivery Orders](day-08-having-vs-where/) ✅ | pandas groupby filter / .query, SQL WHERE vs HAVING / CTE |
 | 09 | [String Functions: Bookstore Catalogue](day-09-string-functions-bookstore/) ✅ | pandas str.contains / str.len / str.split / str.upper, SQL LIKE / LENGTH / SUBSTR / INSTR / UPPER / \|\| |
 | 10 | [CTEs in Detail: Monthly Profitability](day-10-ctes-monthly-profitability/) ✅ | CTE chains (cleaned → monthly → ranked), SQL RANK / LAG, pandas rank / shift |
+| 11 | [Subqueries: Classic Interview Questions](day-11-subqueries-employees/) ✅ | Scalar & correlated subqueries, MAX-in-MAX, HAVING subquery, NOT EXISTS |
